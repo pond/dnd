@@ -1,10 +1,10 @@
-Part 1:
+# Part 1
 
 * Starter adventure
 
 The party of goliath Gnog, human paladin Garren, young human rogue Denny and dragonborn wild sorceress Fee-Ree.
 
-Part 2:
+# Part 2
 
 * Hoard Of The Dragon Queen
 
