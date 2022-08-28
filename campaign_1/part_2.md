@@ -49,5 +49,5 @@
 
 ### End Credits
 
-* Upside Down: Denny
+* Upside Down: 
 * Lovely Day: World
