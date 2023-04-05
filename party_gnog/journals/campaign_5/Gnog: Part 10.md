@@ -503,7 +503,7 @@ Gnog answers, "We are tasked with trying to understand and if possible right the
 
 "You have heard the message tonight. Those who come to the serpent watching hear the real message. It is not what *I* say that is the message. Do you understand, small giant?" "I think so" "I merely speak of my way; it is not the only way; my way is not the threat, as much as Ravnica would see me as the destroyer - the unthinking, unreasoning scourge. You understand, there is one far more destructive than I." "Yes, and it's not Nikya. It's Nivm Isset, but I don't think he even knows it. And my challenge is to make him realise that somehow."
 
-"You have heard much tonight, I believe. You have learned more than most. You will know more about the truth than the Azorious future seekers, the spies of the Dimir, the scientists in their Simic chambers with their Guardian project... Ah - you do not know of it?" "Ten clans is a lot to get through! We're only through a few!" "...indeed... Or the smartest of the experimenters with their Mizium, captured lightning. You came to listen. Tell me you heard?"
+"You have heard much tonight, I believe. You have learned more than most. You will know more about the truth than the Azorious future seekers, the spies of the Dimir, the scientists in their Simic chambers with their Guardian project... Ah - you do not know of it?" "Ten clans is a lot to get through! We're only through a few!" "...indeed... Or the smartest of the experimenters with their Mizzium, captured lightning. You came to listen. Tell me you heard?"
 
 Gnog says, "I did more than that. I learned."
 

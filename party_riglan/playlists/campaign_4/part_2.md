@@ -7,7 +7,7 @@
 ### Chapter 1: Reform
 
 * (Ponyo) Gran Mamare: Nethza And Maireagh's Marvellous Mysterious Magical Halfling Show
-* (Ori) Strength Of The Forest: We Dream Of Valhalla
+* (Ori Will Of The Wisps) Strength Of The Forest: We Dream Of Valhalla
 * (Pink Panther) It Had Better Be Tonight (Instrumental) (**was** Diamonds Are Forever: The Whyte House): The Gala Of The Goose
 * (Genshin) Silhouette And Silk Steps: A Bad Plan Involving A Toilet
 * (OHMSS) Try: Temo's Casino Adventure
@@ -43,7 +43,7 @@
 * (Skyrim) Death Or Sovngarde: Troll Trap
 * (Clone Wars) Burying The Dead: Solutions In Dreams (Riglan Asks The Wrong Question)
 * (MGS V) Drop Off: A Nice Morning Stroll Along The Canal
-* (Ori) Shriek And Ori: Two Days Of Fighting, Day 1: "Gar Shatterkeel, I Presume?" (Battle Of The Prince) / Day 2: Awkwardly Avoiding Eye Contact (Battle Of The Hag)
+* (Ori Will Of The Wisps) Shriek And Ori: Two Days Of Fighting, Day 1: "Gar Shatterkeel, I Presume?" (Battle Of The Prince) / Day 2: Awkwardly Avoiding Eye Contact (Battle Of The Hag)
 * (Witcher 3) Words On Wind: Bargaining With The Dragon Turtle
 * (Skyrim, alt recording) Far Horizons: Relief For Yartar, Relief For Ourselves (A New Library For Summit Hall)
 

@@ -10,7 +10,7 @@
 * (Regret Nothing) Battle In The No Man's Land: Ignatia And The Chimera / A Spectre Of Lizzy
 * (Genshin) Lone Drifter: The Divination Of Teresiel In The Chimera's Parade Ground - "She's Alive!"
 * (Genshin) The Comrades' Ambush: The Reluctant Spectre's Revenge Against Bastian
-* (Ori) Amelioration: Convincing The Hobgoblins To Leave; Sky Writing - Call Upon The Druids
+* (Ori Will Of The Wisps) Amelioration: Convincing The Hobgoblins To Leave; Sky Writing - Call Upon The Druids
 * (Orville) System Searching: Reunited
 
 ### Chapter 2: Inferno
@@ -21,10 +21,10 @@
 * (Horizon Zero Dawn) Drawn To Strife: The Salamanders And The Walkway
 * (Iron Man 3) Iron Man 3: A Plan For An Efreeti
 * (Genshin) Region Rediscovered: Resting In The Temo's Tiny Hut (Choosing The Gifts Of Valhalla)
-* (Ori) Fleeing Kuro: Battle At The Colossus - Vanifer, Halinaxus And Eight Giant Bats
+* (Ori Blind Forest) Fleeing Kuro: Battle At The Colossus - Vanifer, Halinaxus And Eight Giant Bats
 * (Lineage 2 Chaotic) The Enemy Warlord Appears: Fleeing The Collapse
 * (Genshin) Pathos Of Shirasagi: Three Rescued / The Last Seeds (Teresiel's Secret) / "We've Done A Good Thing"
-* (Ori) Completing The Circle: The Dream Of Imix's Anger And Valhalla's Gift
+* (Ori Blind Forest) Completing The Circle: The Dream Of Imix's Anger And Valhalla's Gift
 
 ### Chapter 3: The Final Confrontation
 
@@ -41,7 +41,7 @@
 ### Chapter 4: The Unknown Victors
 
 * (Out Of Africa) Flying Over Africa: The Autumn Walk To Summit Hall (The Beauty Of Autumn Restored)
-* (Genshin) Knighthood Excellence: The Tree To Quelline
+* (Genshin) Knighthood Excellence: The Tree To Qelline
 * (Horizon Forbidden West) Breached: The Last Job (Destruction Of Windvane)
 * (Dune) Final Dream: We Dream Of The Ascension Of The Druids
 * (Genshin) Stories Untold: "Carp, The Natural World Is So Big, Yet So Fragile; Try To Protect It If You Can"; Departure

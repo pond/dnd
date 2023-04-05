@@ -12,7 +12,7 @@
 * (Planet Earth) Prelude: Sanctuary At Elturel
 * (Genshin) Adeptus' Retirement: Grow The Grove
 * (Pirates Of The Caribbean: Dead Man's Chest) Two Hornpipes: Beer Solves All
-* (Death Stranding) Craters: Shadow Fell And The Mulitverse
+* (Death Stranding) Craters: Shaowfell And The Mulitverse
 * (Assassins Creed 3) Assassins Creed III Main Theme: The Alliance Of Feyrûn Marches
 * (Erhu: To Love's End) To Love's End (Inuyasha): A Love For Everyone
 * (NightSky) Falling Lights: The Last Night

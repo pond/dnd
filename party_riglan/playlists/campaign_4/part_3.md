@@ -17,7 +17,7 @@
 * (Endurance) The Great Tree: Festival Of Lanterns
 * (Valerian) Arriving On Alpha: To Find An Orb
 * (La La Land) Summer Montage / Madeline: Selling Everything ("That Was The Best Gig Of My Life!")
-* (Ori) The Spirit Willow: A Quiet Night At The Auction
+* (Ori Will Of The Wisps) The Spirit Willow: A Quiet Night At The Auction
 * (Maleficent) Protecting Our Kind: A Loud Night At The Tomb
 * (Genshin) Illuminated Coral Palace: Wait - You Mean She's Evil?
 * (Kung Fu Panda) Oogway Ascends: "You have just saved all of this from being destroyed. Thank you."
@@ -52,7 +52,7 @@
 
 ### Epilogue
 
-* (Futari) TWO OF US: To Riverguard Keep; Bad News Of Beliard; Bad News Of Slavery; The Loan; Farewell
+* (Joe Hisaishi: Futari) TWO OF US: To Riverguard Keep; Bad News Of Beliard; Bad News Of Slavery; The Loan; Farewell
 
 ### Closing Titles
 

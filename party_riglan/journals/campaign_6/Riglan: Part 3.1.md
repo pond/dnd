@@ -54,7 +54,7 @@ We kick around ideas. In the end, it looks like maybe using the church - if we t
 
 The abbot takes the letters etc. from the priestess and on briefly flicking through them seems struck by an idea; he'll get back to Riglan later in the day. Riglan is free to wander! He goes places he's not seen before and speaks to all manner of people. He learns that the Knights of Samilar, over in Summit Hall, are doing fine - doing what they do - and that the dwarves at Riverguard Keep now "formally" run an inn for travellers on the river. Things there look good. It's interest to spend time observing the farming methods again and spotting things that Riglan didn't notice the first time around; also, it's winter, so it's a very different time to be making observations.
 
-Eventually, Riglan catches up with the abbot again. He has an idea of sending a Ranger with Riglan, to help set up a shrine to one of the nature gods like Meliki - so she and Chauntea can provide balance for each other; one side should not be able to become more dominant. It helps teach about balance. Great idea! The abbot also can use this as a way of getting one of the younger rangers out, who wants to be able get out and see forests and be doing work outside Goldenfields.
+Eventually, Riglan catches up with the abbot again. He has an idea of sending a Ranger with Riglan, to help set up a shrine to one of the nature gods like Mielikki - so she and Chauntea can provide balance for each other; one side should not be able to become more dominant. It helps teach about balance. Great idea! The abbot also can use this as a way of getting one of the younger rangers out, who wants to be able get out and see forests and be doing work outside Goldenfields.
 
 And so, Riglan is introduced to a young female halfling ranger called **Tabatha**. Riglan greets her enthusiastically.
 
@@ -72,9 +72,9 @@ People head to bed early, Riglan and Tabatha too.
 
 Riglan and Tabatha reach Sungift. Introductions all around; the proposal is given; the priestess is surprisingly eager. It worries Riglan a bit - Insight 18 - he asks if she's worried about some of the things that the Abbot raised, or that there's another God being represented.
 
-She assures him that she's happy the financial balance will be maintained this way; that she now has some support via the abbot and she even confesses to having felt a weight of responsibility for having been the *only* place of faith for the whole town. A second religious opinion could be very useful - Chauntea's methods don't hold the answers for *all* things, so Meliki offers other insights. It makes sense to have a wild god of the forest represented too, since Sungift views itself as on the frontier - next to the great woods, then the mountains.
+She assures him that she's happy the financial balance will be maintained this way; that she now has some support via the abbot and she even confesses to having felt a weight of responsibility for having been the *only* place of faith for the whole town. A second religious opinion could be very useful - Chauntea's methods don't hold the answers for *all* things, so Mielikki offers other insights. It makes sense to have a wild god of the forest represented too, since Sungift views itself as on the frontier - next to the great woods, then the mountains.
 
-It's agreed and the day is spent by Riglan casting Plant Growth on the edge of the town, to help establish the grove around the shrine - but it covers most of the farmland of Sungift too. Goldenfields seeds are given out to farmers for experimentation and the Meliki shrine is set up. The richness of the land near the town - with a border between that and the forest - hopefully will encourage the farmers to focus on the existing farmland instead of pushing out into the "less successful" cleared areas near the forest.
+It's agreed and the day is spent by Riglan casting Plant Growth on the edge of the town, to help establish the grove around the shrine - but it covers most of the farmland of Sungift too. Goldenfields seeds are given out to farmers for experimentation and the Mielikki shrine is set up. The richness of the land near the town - with a border between that and the forest - hopefully will encourage the farmers to focus on the existing farmland instead of pushing out into the "less successful" cleared areas near the forest.
 
 On completion of the spell, everything looks and *smells* healthy. Some plants start to push through almost immediately, despite it being winter! This at least gets some of the farmers on side, but there does have to be some teaching about putting light muslin-covered frames over rows of plants that they don't want to freeze, digging furrows to protect areas from cold winds and so-on. Riglan manages to get some buy-in on plating trees - acorns, and so-on - to help create windbreaks and create some diversity.
 
@@ -99,9 +99,9 @@ We set the scene...
 
 It's a slightly cloudy morning above Deepgarden Keep. It might be a nice day if the cloud blows away. The sun is up at any rate, above the planes and mountains to the East. It's visible under the cloud layer behind the big apple tree in the middle of the field.
 
-Temo didn't sleep so well. A hand touches him on his shoulder - "You didn't sleep much, did you" - Quelline, by his side in the bed in the little cottage. BOING! Someone jumps onto him. "It's today! Today's the day!" repeats Carp. "You said you'd bring me!" - he seems very excited. "Now remember. It's a school for *big* kids. Promise you'll behave," answers Quelline. Carp's wearing special clothes that Quelline gave him - "proper" looking, mended - though he's not done a great job of dressing himself!
+Temo didn't sleep so well. A hand touches him on his shoulder - "You didn't sleep much, did you" - Qelline, by his side in the bed in the little cottage. BOING! Someone jumps onto him. "It's today! Today's the day!" repeats Carp. "You said you'd bring me!" - he seems very excited. "Now remember. It's a school for *big* kids. Promise you'll behave," answers Qelline. Carp's wearing special clothes that Qelline gave him - "proper" looking, mended - though he's not done a great job of dressing himself!
 
-There's an unexpected knock at the door. "Coming!" shouts Quelline, donning a robe. Nethza's voice at the door, and another; "Is he anxious?" - that's Riglan. A gruff voice, further. "He'll be fine! He's just putting it on. Just doing it for the attention, aren't you! I know you can hear us, get up, it's the big day!" - Maireagh.
+There's an unexpected knock at the door. "Coming!" shouts Qelline, donning a robe. Nethza's voice at the door, and another; "Is he anxious?" - that's Riglan. A gruff voice, further. "He'll be fine! He's just putting it on. Just doing it for the attention, aren't you! I know you can hear us, get up, it's the big day!" - Maireagh.
 
 The first day the schools both open!
 
@@ -153,7 +153,7 @@ At one point, Temo tries to get a conversation with the half-orc - **Lomas**. As
 
 After a while the arcane teacher takes up the conversation and Temo and Riglan are freed up. Nethza is talking to the Tiefling girl, who Nethza later tells him is called **Prickles**! She seems to be relaxing and opening up, and before long, she's talking to other students. Very much a street child.
 
-Temo spends a bit of time with the Halfling student too. They're somewhere in the middle - mostly listening, but talking a bit too, inconspicuous. Carp comes along too, introducing himself; the kid in turn says he's **Merth** (short for **Mertholomew**). He's a sort of "lost boy", rather than being magical. He's interested in writing, stories, many ideas - came here all by himself, deciding he wanted to come and got signed up. 
+Temo spends a bit of time with the Halfling student too. They're somewhere in the middle - mostly listening, but talking a bit too, inconspicuous. Carp comes along too, introducing himself; the kid in turn says he's **Merth** (short for **Mertholomew**). He's a sort of "lost boy", rather than being magical. He's interested in writing, stories, many ideas - came here all by himself, deciding he wanted to come and got signed up.
 
 The students, after a rather intense morning, will mostly have the afternoon off to settle in, decorate rooms if they wish and so-on; Rebetha will show them around town too, so they know the lie of the land. Tomorrow will be the first full day of classes. We're told we don't need to stick around; they've got it all under control!
 
@@ -169,7 +169,7 @@ So, we stay over at Qelline's again...
 
 By about 3pm they're tired & the school day ends. We thank the staff profusely and, since the staff assure us that things are on track now, we figure we'll head away to the Tower for a while (for Riglan and Maireagh's sake) and come back in a day or three.
 
-Temo has the usual goodbyes for Quelline and Carp. Feels weird, being split between two places like this.
+Temo has the usual goodbyes for Qelline and Carp. Feels weird, being split between two places like this.
 
 Back at the Owlbear Tower, Riglan says he's really impressed and quite likes the two students he was dealing with. It's funny how getting to know them makes you more invested in the whole concept. "Quite a responsibility for a young halfling!" "Perhaps, but the staff know what they're doing - my adventuring days aren't over yet!" and launches into an impromptu on-table song about "our adventuring days are ahead of us!" much to Maireagh's annoyance ("Dirty feet!" she cries, but we use cleaning stone after of course). Performance 18, so it's a pretty fun time.
 
@@ -201,7 +201,7 @@ Standing there, power radiating off him - wisdom saving with advantage, 20 - Lom
 
 "Shit", says Temo, out loud.
 
-Detect Magic. Very strongly magical, unsurprisingly. It *is* a tear in reality. It emanates very strong transmutation magic and a particular kind of "feel" that he's only ever heard about in stories. **Shadow Fell**. Lomas is in shock. Temo tries to talk him off the ledge - calming, one step at a time, don't look at the rift... He keeps saying he "couldn't stop it" and saying "...but miss Nethza..." - persuasion 30.
+Detect Magic. Very strongly magical, unsurprisingly. It *is* a tear in reality. It emanates very strong transmutation magic and a particular kind of "feel" that he's only ever heard about in stories. **Shaowfell**. Lomas is in shock. Temo tries to talk him off the ledge - calming, one step at a time, don't look at the rift... He keeps saying he "couldn't stop it" and saying "...but miss Nethza..." - persuasion 30.
 
 We get Lomas inside. Klaus outside is weaving something - abjuration, Temo sees, Detect Magic still up. He's trying to contain the spread. Whatever the spell might be, it is pulling some of the lines back from the classroom. He calls thanks to Klaus. "I don't know how far I can go with this. I don't want to close it, but I don't want it to spread further."
 
@@ -225,7 +225,7 @@ Temo assures Lomas that he's not in trouble, not at all. But he needs to be brav
 
 The two girls fill in more. Huge creeping shadows spreading across the window and door, despite it being dark outside - shadows of shadows. Monstrously scary! When the door opened, they just freaked out and ran not knowing it was Lomas. They say they ran and it was over half an hour ago; yet Lomas thinks the shadow arrived right before Temo came in. So someone lost time (was Lomas stunned?), or perhaps being close to the rift slows time.
 
-Temo starts talking about the Fey Wild and the "flip side of the coin", the Shadow Fell. Then he hears a creaking noise by the door - creeps up and opens them - it's *all* the students. So Temo says, "OK, OK, everyone in" and explains what happened in brief (to avoid rumours) framing it as "Nethza was visited by a strange shadow creature, and she went with it through that door to the Shadow Fell". The usual reassurances - school not closing, but that area's off limits etc.
+Temo starts talking about the Fey Wild and the "flip side of the coin", the Shaowfell. Then he hears a creaking noise by the door - creeps up and opens them - it's *all* the students. So Temo says, "OK, OK, everyone in" and explains what happened in brief (to avoid rumours) framing it as "Nethza was visited by a strange shadow creature, and she went with it through that door to the Shaowfell". The usual reassurances - school not closing, but that area's off limits etc.
 
 In the end, people head back to bed. Lomas is assured by Temo that he's done OK, he held his emotions in check and explained everything; nothing more he could do!
 
@@ -251,9 +251,9 @@ Temo's awake again, full of nerves. Maireagh makes breakfast. The main hall is q
 
 Temo recounts the whole tale in as much detail as he can, over breakfast. We figure we want to get to Deepgarden Keep as quickly as possible but in the mean time we check over any books we have on us or at the Tower.
 
-Temo, investigation 7+12. A couple of books do mention the Shadow Fell but have little detail - recounting stories that people tell about it, more than anything else. On patrons and warlocks, he finds that each patrol has a very personal connection to each warlock so knowing how it works for one person doesn't let you know about another. Temo history, 17+4; Maireagh 19+9 - very high! The two of them together remember Nethza saying once that she thought her patrol was one of the "Unknown Entities" of the Shadow Fell. A powerful, ancient entity - for example, the Raven Queen is one such named, but otherwise "unknown" entity.
+Temo, investigation 7+12. A couple of books do mention the Shaowfell but have little detail - recounting stories that people tell about it, more than anything else. On patrons and warlocks, he finds that each patrol has a very personal connection to each warlock so knowing how it works for one person doesn't let you know about another. Temo history, 17+4; Maireagh 19+9 - very high! The two of them together remember Nethza saying once that she thought her patrol was one of the "Unknown Entities" of the Shaowfell. A powerful, ancient entity - for example, the Raven Queen is one such named, but otherwise "unknown" entity.
 
-Maireagh knows that there is a group of researchers who know the Shadow Fell well. We'd need to find someone called **Esmerelda D'Avenir** but we don't know how to find her. She's famous for having travelled through the Shadow Fell many times and written about it, apparently, but the books are very rare.
+Maireagh knows that there is a group of researchers who know the Shaowfell well. We'd need to find someone called **Esmerelda D'Avenir** but we don't know how to find her. She's famous for having travelled through the Shaowfell many times and written about it, apparently, but the books are very rare.
 
 (We jump to Riglan at Goldenfields)
 
@@ -306,7 +306,7 @@ It's taking all of the magic that Klaus has to push back against the rift, while
 
 Riglan has to make the call. "You probably have to close it behind us."
 
-Klaus offers to let us speak to the three students. We wait in the library since they're in class. No Shadow Fell books - not student-friendly! It's a good college. A good *building*. It's comfortable; not flash. Riglan's very proud of Temo and Nethza.
+Klaus offers to let us speak to the three students. We wait in the library since they're in class. No Shaowfell books - not student-friendly! It's a good college. A good *building*. It's comfortable; not flash. Riglan's very proud of Temo and Nethza.
 
 Lomas, Manny (short for Manuella) and Cody arrive, looking somewhat sheepish. They come up to the 2nd floor, where we'd ended up.
 
@@ -362,7 +362,7 @@ Where now...
 
 Riglan uncovers his shoulder light; the lamp isn't bright and there's only one. "I wish I had locate *person*" he says. Perception is high, 27. The road actually emerges from the mist, it's not like it runs alongside a wall of it or something. The lamppost is at a corner where it meets a slightly bigger road. We can see that there used to be a signpost across from the lamppost; the wood pole is there but the top has broken off. Looking on the ground - investigation 15 - there are bits of sign left. We can see the ending of a line "ON" and a line ending "ANOR" underneath it on one part that's broken off. On the other side has more of a sign but looks like it was *chopped* rather than broken. "St Cuthbert's A" - Abbey?
 
-The sign has no writing on the other side of it, so we can be confident of its orientation versus the stump. 
+The sign has no writing on the other side of it, so we can be confident of its orientation versus the stump.
 
 Since "ON" "ANOR" is a larger sign - two rows - and since St Cuthbert's got attacked with an axe so *someone* was angry about it, we elect to go to "Onanor". We note that Onanor's sign looks like it had some kind of carved stencilling or a border too. Implies importance or significance.
 
@@ -542,7 +542,7 @@ Riglan doesn't know where the beds are so rolls out a mat by the tables. Temo se
 
 
 
-## Day 5 ("day" 2 in Shadow Fell)
+## Day 5 ("day" 2 in Shaowfell)
 
 Riglan, wisdom-saving 13. It's just enough to remember a dream. Not the usual kind, and not like the bad times when he foresaw the elementals disaster. He's an observer, here, not a participant. Strange.
 
@@ -582,7 +582,7 @@ Nearby, townsfolk have seen us. They're whispering and backing away, looking ner
 
 They start saying we're cursed. Temo disagrees - he claims we battled spirits last night and prevailed; we defeated the curse. Persuasion 23. It doesn't escalate but they're not convinced. An older woman steps forward. "No. You must be lying. The half-human is lying. The priests have declared the land cursed. Nothing good can possibly come from it! They came from the cursed cathedral! They must be demons! All *he* is missing is horns!" and points at Riglan. A younger woman steps in. "Stop it. Stop it all of you! Why fight. This is ridiculous. They've done nothing to us. Let them pass."
 
-Riglan implores them to at least let us through. A way is parted to the centre of the village - we "run the gauntlet" and walk into the centre, where a well sits in a small square with maybe 6 streets converging there. Riglan insight 23. Many moods around us in the villagers, gathering in doorways or walking behind us. 
+Riglan implores them to at least let us through. A way is parted to the centre of the village - we "run the gauntlet" and walk into the centre, where a well sits in a small square with maybe 6 streets converging there. Riglan insight 23. Many moods around us in the villagers, gathering in doorways or walking behind us.
 
 * Some are wary
 * Some regard us with menace and hatred
@@ -679,7 +679,7 @@ Riglan asks Denny, "Well, you're not going *into* the manor, but does your insti
 
 We let him walk in front of us, following him to the manor. Riglan, perception, 17. He walks with curious confidence. Moves with purpose. Riglan asks, "What in the cards made you so certain of this direction?" "The first card I pulled showed me that I was going to be lost. It hinted at a maze. For me, anyway... It had uncertainty." Maireagh says, "I'm not surprised - it heads into the mist" - of course, yes, it's further back, but still clearly not *that* far away. "In this direction, the card was a raven" says Denny. "Is that good?!" "I don't know. I've never pulled a raven before! But ravens are messengers. They can mean many things. Messengers into the lands of the dead from the living. Or from across worlds."
 
-Riglan decides to confess that it's not just "pages of the picture book" for us in the Shadow Fell - it might be the same in "our" world too. Daggerford was much bigger in our time. This might be bad or might be good - when he finds the right place *and* moment to depart for home, his family might not have missed him at all! He might have been only gone briefly. We get into a conversation trying to determine how much time is between us, so we might have a good guess at the time difference *here* in case the shift in time is indeed equivalent. He talks about the "Kingdom Of The Dalelands", but we don't know it. Maireagh tries to figure it out. He tells us that the Dalelands are ruled out of the capital, Elturel. *That* name we know. Riglan digs out the map.
+Riglan decides to confess that it's not just "pages of the picture book" for us in the Shaowfell - it might be the same in "our" world too. Daggerford was much bigger in our time. This might be bad or might be good - when he finds the right place *and* moment to depart for home, his family might not have missed him at all! He might have been only gone briefly. We get into a conversation trying to determine how much time is between us, so we might have a good guess at the time difference *here* in case the shift in time is indeed equivalent. He talks about the "Kingdom Of The Dalelands", but we don't know it. Maireagh tries to figure it out. He tells us that the Dalelands are ruled out of the capital, Elturel. *That* name we know. Riglan digs out the map.
 
 Temo (history with luck point 4,5+4!) doesn't know much about it. Denny knows about Waterdeep though. Quite a bustling city in his time. He knew it was a centre of commerce and trade. Waterdeep was apparently ruled by a barbarian king, on that side of the river up to Triboar. Denny knows that much. The Dalelands are on the other side of the river. Temo knows that Waterdeep is only about 500 years old, has been a republic for the last 200, so we're looking at, given the implied size of the town, maybe 300ish years ago?
 
@@ -757,142 +757,3 @@ It's a weird situation:
 * People here know all about vampires. It's matter-of-fact to them.
 * Giving up your village's *children* for consumption is a whole other level of fucked up, but then, Anna is clearly trying to protect - well, *herself* but her village too.
 * There's a twisted morality there. In a world where vampires are widespread and you have no powers against them, how do you survive?
-
-
-
-
-
-*** MASS RENAME Meliki->Mielikki
-
-
-
-
-
-
-
-
-
-
-
-
-"We need to get out... How do we get out? Riglan... Riglan, how do we get out...? Riglan?"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Riglan - Day 3 (Goldenfields -> Sungift)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(--------
-"Riglan..." says Temo, tentatively.
-
-Riglan looks up, head tilted to the left a little, right ear raised. Temo's tone is odd - he seems nervous; unsure.
-
-"I think... I like Celline. I think I like Celline a lot."
-
-Riglan laughs and smiles. "I think Celline likes you a lot, too."
-
-Temo looks awkwardly at the floor, scuffing at it with his boot. "But, I mean, really? I don't know what to do about it. *Obviously* nothing when we're on the road, but one day... I mean, I dunno..." - he tails off.
-
-Riglan is given reason to pause. He hadn't been thinking very far beyond the rest of today, never mind a future beyond wandering. Such a time could be a great many years away given his lifespan - perhaps accompanied by Temo's great, great grandchildren by the sounds of things! Riglan isn't sure how to respond.
-
-Temo watches Riglan think; various emotions pass over his face but they're hard to read, and his long Firbolg ears raise and lower, sometimes together and sometimes separately, as if some kind of emotional antennae that Temo decides he should learn to read from one day.
-
-"Well," says Riglan eventually, "I can't speak much about the far future; I'm not even sure of tomorrow. But there will surely be a time when we choose to leave our adventuring days behind us, or at least find - and of this, I'm certainly very hopeful! - long, happy moments of peace in between all of the excitement. I'm particularly fond of Celline and Carp and I'm particularly fond of *you* - so for what it's worth, I think the two of you could be a most striking and formidable couple. Not much would stand in your way, that's for sure! Anyway, the only way to know if it's something that can work is to ask her."
-
-"And just how am I supposed to do that without fumbling over my words and sounding like a proper fool?"
-
-"You're asking the wrong person about relationships," says Riglan ruefully. "I'm younger than you in Firbolg years and, until a few short months ago, I didn't even know that most of the things we've seen even *existed*. It does, however, strike me that I've yet to see you at a loss for words..."
-
-Riglan pauses for a moment, thinking; Temo still looks unsure.
-
-"Look at it this way," says Riglan. "We trust each other, you and I, on our travels. We are friends, we've helped each other out of danger many times and we're each confident in the abilities of the other. Put that same confidence in yourself and trust your instincts. Just be you - since if, as I suspect, Celline likes you as much as you like her, then it's *you* to whom she'll be most happy talking - not whatever person you think that perhaps you ought to try and be instead. No matter how much you might fumble words, she'd no more ever take you for a fool than any of us would, Temo Smoothhands, because she's no fool herself and certainly sees as much of your abilities as we do."
-
-Riglan stands, and heads towards the door. "I'm going to see if Maireagh and Nethza are finished with the repairs. I hope that one day I'll be as lucky as Celline and Carp would be, to have someone like you as part of their family."
-
-Now it's Temo's turn to laugh. "I know you don't quite mean it like this, Riglan, but you already have quite a few people like me as part of your family. And you always will."
---------)
-
-RIGLAN'S RARE HERB BREW: 5 HOURS SPREAD OVER TWO DAYS.
-
-# Plans
-
-* Take out guards somehow, e.g. Temo invisible, Riglan hidden step & looks like one of the guards, knock them out, Maireagh disguise like the other; done at e.g. toilet
-* Somehow talk to him, e.g. message scroll, to try and convince him not to trust the people he's with; are the guards to protect him or imprison him
-* Perhaps agree on a switcharoo, using disguise self, "accidentally" bumping into him and leaving a dup in Disguise Self with Quori himself hidden temporarily by minor illusion.
-
-# Spur of the moment actions
-
-* Try secondary deception, e.g. Druidcraft, but that's deception roll so high risk.
-* Can stop someone shouting via an attempted grapple - contested strength - muffle their mouth; Maireagh can perhaps help (Flash Of Genius) via reaction if she knows what you're doing.
-
-# Options for persuasion
-
-* Persuasion roll
-* Insight into their motivations
-* Ask what it would take to get a result
-* Bribery
-* Ways to ask DM: Enquire if others in party would have skills related to the problem, or even if my character might have ideas (even though I don't as a player)
-* For things like perception checking, instead of saying "I want to look around to see if there's anything strange" as it sounds like a cheat code. But if I were to say, "are we observant enough to see if anything looks out of place in this room?".
-* Can also go for a very long form "We study the room in detail. Can you please tell us what we see?"
-
-Temo considers a tattoo of masquerade; Nethza, of ghost step, maybe one day of life ward; Riglan thinks that perhaps one day a tattoo of Shadowfell, or a barrier but it would need to be quite a high level one.
-
-# MASS RENAMES
-
-Quelline - Qelline
-Denny - Deni
-Adwin - Adwyn
-Torril - Toril
-Celesnia / Celesnya - Selesnya
-Izzit - Izzet
-Mizium - Mizzium
-
-# TOP OF THE TO-DO LIST
-
-ADD FOLDER ICONS BUGS:
-* If you edit a style, any list-of-folders entries using that style do not have their icons updated; you need to change to a different style, then change back
-* It's not possible to make a CD/DVD-like icon set without SlipCover. If you e.g. say "1 image only" and "never show folder in background", you end up with a tiny thumbnail. The code should take the 1-image, no-folder case and realise that it should scale the image up to fit.

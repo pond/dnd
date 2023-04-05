@@ -2,20 +2,20 @@
 ## Campaign Three Part One (Our Origin And Our Search For Gundren)
 ### Prologue
 
-Rejoice In The Sun: First, A Hunter...
+* (Silent Running) Rejoice In The Sun: First, A Hunter...
 
 ### Chapter 1: One Hundred
 
-* That's Our Home: Bad Visions
-* The Path of Old Tradition: ...Now, A Wanderer
-* Pocket's Lookin' Light: Exploring Sungift - Temo And Briony
+* (Watership Down) That's Our Home: Bad Visions
+* (Into The West) The Path of Old Tradition: ...Now, A Wanderer
+* (Ruined King: Inns Of Bilgewater) Pocket's Lookin' Light: Exploring Sungift - Temo And Briony
 * (Genshin) Charge! Fearless Warriors: A Minor Disagreement About Economics - Meeting Danain
-* Brave New World (Acoustic) - First Road
-* **TBD**...: (**the bookshop and ten days to make money**)
+* (War Of The Worlds) Brave New World (Acoustic) - First Road
+* **TBD**...: The Bookshop; Ten Days To Make Money
 * (Crisis 2) One Way In: A Successful Hunt
-* Les Aventuriers: The Dark Woods Of The Undead
+* (Joe Hisaishi: Another Piano Stories) Les Aventuriers: The Dark Woods Of The Undead
 * (Journey) Nascence (London Symphony Orchestra): Kyla's Sorrow
-* The Edge Of The Prarie: Refusing Payment - Danain Shows His True Character
+* (Genshin) The Edge Of The Prarie: Refusing Payment - Danain Shows His True Character
 * (Abzu) To Know, Water: Riglan's Dream - The Temple And The Shepherd
 
 ### Chapter 2: Reformation
@@ -26,35 +26,35 @@ Rejoice In The Sun: First, A Hunter...
 * (Crysis 2) Chase: Nethza's Assault
 * (Syberia) Kate Walker: The Sorrow Of Parting: "Goodbye And Good Hunting, Friend - You Will Always Find Welcome At My Fire" (Danain And The Songbird)
 * (Genshin) Whispering Plain: Daran And Berit And The Orchard (Riglan Gets His Staff)
-* I've Made My Choice, You'll Have To Make Yours: Bugbear, King Of Goblins
+* (Maleficent) I've Made My Choice, You'll Have To Make Yours: Bugbear, King Of Goblins
 * (Silent Running) Drifting: Laycie Sleeps Under The Stars
 * (Elder III) The Prophecy Fulfilled: Kaleidoscope (Riglan's Overwhelming Recent Experiences)
 * (Genshin) Serene and Sweet Adieu: Laycie Finds Her Own Way
 
 ### Chapter 3: Keeping Promises
 
-* (Ori) The Windtorn Ruins: Carp's Discovery
-* Chasing The Torrents: Battles Below The Keep; Redbrands Defeated
+* (Ori Will Of The Wisps) The Windtorn Ruins: Carp's Discovery
+* (Genshin) Chasing The Torrents: Battles Below The Keep; Redbrands Defeated
 * (Witcher Season 2) The Pendulum: To Old Owlbear Tower - The Owl's Flight
-* (Horizon) The Proving: Battle The Undead
-* The World Of The Dead II: Hobgoblin Ambush
+* (Horizon Zero Dawn) The Proving: Battle The Undead
+* (Princess Mononoke) The World Of The Dead II: Hobgoblin Ambush
 * (Waterworld) Swimming: Finally Able To Relax At Elder Barge In Deepgarden Keep
-* (Witcher 3) Another Round For Everyone: Performing In The Gardens
-* (Dragon Age) Orb Of Destruction: Riglan's Dream - The Forest Aflame
+* (Witcher 3 Wild Hunt) Another Round For Everyone: Performing In The Gardens
+* (Dragon Age Inquisition) Orb Of Destruction: Riglan's Dream - The Forest Aflame
 
-### Chapter 4: The Castle
+### Chapter 4: The Castle (Let's Get Gundren!)
 
-* Guilty Of Being Innocent Of Being Jack Sparrow: Let's Get Gundren!
+* (Roger Eno) A Paler Sky: Nethza's Troubled Genesis
 * (Immortals Fenyx) The Awakening: Riglan And The Giant Owl
 * (Genshin) Ariel's Footprints: Spider Vs Spider
-* All History Is Vengeance: The Red Cloak Bluff
+* (Elder Scrolls Online) All History Is Vengeance: The Red Cloak Bluff
 * (Sky) The Invention: Gundren's Map
-* Brave Warrior: The Owlbear And The Grick
-* Harmonious Rest: "I Need To Find Myself A Crew" - Downtime In Deepgarden
+* (Max Grigoryev: Act II) Brave Warrior: The Owlbear And The Grick
+* (Genshin) Harmonious Rest: "I Need To Find Myself A Crew" - Downtime In Deepgarden
 
 ### Epilogue
 
-* Brigadier Lethbridge-Stewart: Elder Barge - Gundren's Rousing Speech
+* (Doctor Who Series 6) Brigadier Lethbridge-Stewart: Elder Barge - Gundren's Rousing Speech
 
 ### Closing Titles
 
