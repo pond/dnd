@@ -2,7 +2,7 @@
 ## Campaign Two Part Three
 ### Prologue
 
-* Descent - Main Theme: Best Speed To Xonthal's Tower
+* (Dragon Age Inquisition) Descent - Main Theme: Best Speed To Xonthal's Tower
 
 ### Chapter 1: The greater the loss, the stronger the resolve
 
@@ -28,8 +28,8 @@
 * (Dragon Age Inquisition) Dragonage Inquisition Theme: Be Clever, Be Fearless, Be True; The Run North
 * (Genshin) Wrath Of Monoceros Caeli: The Three Red Ambush
 * (Spirited Away) Sixth Station: "Grey Was All Alone"
-* (Assassin's Creed 3) Farewell: Human Cost (service at Waterdeep)
-* (Genshin) Old Tales Preserved: "I like it at sea"
+* (Assassin's Creed 3) Farewell: Human Cost (Service At Waterdeep)
+* (Genshin) Old Tales Preserved: "I Like It At Sea"
 * (Beastmaster) Beastmaster 29: The Banner Of Skyreach; "Whether We Stand Side By Side Or Separated In The Arena Of Battle, We Fight Together, We Fight United - And We Fight As Friends."
 * (Towering Inferno) Towering Inferno - An Architect's Dream: The Ore Delivery; "Safe Journey, King"
 
