@@ -1,4 +1,7 @@
 # Escalation
+
+* https://open.spotify.com/playlist/3oPdTMXG6T0YJD19FUI7zL
+
 ## Campaign Two Part One
 ### Prologue
 

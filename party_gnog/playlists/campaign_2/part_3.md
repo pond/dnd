@@ -1,4 +1,7 @@
 # Arise
+
+* https://open.spotify.com/playlist/4dzJuZQF4Z44UmhNFBSTNu
+
 ## Campaign Two Part Three
 ### Prologue
 

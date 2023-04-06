@@ -1,4 +1,7 @@
 # Doubt
+
+* https://open.spotify.com/playlist/1ylEcur2tZSAKiFAnztAXz
+
 ## Campaign Two Part Two
 ### Prologue
 
