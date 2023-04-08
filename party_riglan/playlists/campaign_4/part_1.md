@@ -1,4 +1,7 @@
 # Ranger
+
+* https://open.spotify.com/playlist/5eJLJ916FOuEqiNqa82HJt
+
 ## Campaign Four Part One (Things Don't Always Go The Way You Want Them To)
 ### Prologue
 

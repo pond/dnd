@@ -1,4 +1,7 @@
 # Druid
+
+* https://open.spotify.com/playlist/2OcFbE5f96krrLtW9mrqbm
+
 ## Campaign Four Part Two (Turning The Tides)
 ### Prologue
 

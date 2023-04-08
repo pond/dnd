@@ -1,4 +1,7 @@
 # Warrior
+
+* https://open.spotify.com/playlist/4gCYLcT2BXV7VYhF4RvWKm
+
 ## Campaign Four Part Three (In Which We Must Fight)
 ### Prologue
 
