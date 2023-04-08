@@ -6,7 +6,7 @@ New friends are taken on the road. The search leads us to strange elemental cult
 
 
 # Part 2
-## Shepherd
+## Druid
 
 The overall campaign arc is a heavily adapted variant of the Lost Mine of Phandelver. By the end of the campaign, our party, successful in securing and restarting the forge at Wave Echo Cave, has travelled to Yartar. Mysteries are discovered but things become overwhelming and, in the end, we elect to travel South; this campaign ends as we depart for new adventures.
 

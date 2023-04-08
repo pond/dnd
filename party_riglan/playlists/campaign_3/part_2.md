@@ -1,5 +1,5 @@
 # Shepherd
-## Campaign Three Part Two(Of Magical Forges, Long Journeys And Difficult Choices)
+## Campaign Three Part Two (Of Magical Forges, Long Journeys And Difficult Choices)
 ### Prologue
 
 * (Pirates Of The Caribbean: On Stranger Tides) Guilty Of Being Innocent Of Being Jack Sparrow: Hitting The Road
