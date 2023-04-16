@@ -1,4 +1,7 @@
 # Learning
+
+* https://open.spotify.com/playlist/4QXSZvpINUhBN39wMJyTmV
+
 ## Campaign Five Part Three
 ### Prologue
 

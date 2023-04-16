@@ -1,4 +1,7 @@
 # Retaliating
+
+* https://open.spotify.com/playlist/5OBHV0kl1qXQegS9WiMIBA
+
 ## Campaign Five Part Eight
 ### Prologue
 

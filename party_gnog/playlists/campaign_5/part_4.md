@@ -1,4 +1,7 @@
 # Gathering
+
+* https://open.spotify.com/playlist/1qLORdoGRHao3X35mGSlCd
+
 ## Campaign Five Part Four
 ### Prologue
 

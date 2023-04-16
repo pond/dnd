@@ -1,4 +1,7 @@
 # Negotiating
+
+* https://open.spotify.com/playlist/4PqObidFq6Xdily2YeUIjJ
+
 ## Campaign Five Part Five
 ### Prologue
 
