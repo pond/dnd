@@ -1,5 +1,5 @@
 # RIPA: Part 1
-## Session Zero (2023-04-04)
+## Sessions Zero and 1 (2023-04-04)
 
 * Arturo Rey (young, 20), variant human Fey-touched wild magic sorcerer
 * Thorin Beastcaller (very young, 50), dwarven druid, focuses on shape-shifting, stonemason
@@ -84,8 +84,4 @@ Penny sighs. "What town?"; Francesc adds, "Where do we find this - Vallin?"
 
 They leave things in a small warehouse outside a place called Ondin. In sacks, with specific rune markings that they show us on parchment. Penny and Francesc recognise the town's name; it is a small town back up the road - quite a long way, actually. Many hours of walking. A conversation ensues about whether or not they'll get to Ondin before us if we free them, and give the game away; do we need captives; etc.; we decide they're too injured to beat us there, unless we need to stop and rest ourselves.
 
-
-
-## Session One (2023-04-18, provisionally)
-
-(We need to (A) check if we need to long-rest first (B) get the sack (C) make sure we have the runes or whatever to mark on it or (D) scrap all that and get a new plan)
+(End of part 1)
