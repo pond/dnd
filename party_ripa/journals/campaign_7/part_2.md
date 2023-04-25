@@ -29,7 +29,7 @@ We decide to seize the opportunity and try to tag along. The idea is that our am
 
 It's not too long before everyone stops, camps are set up, food is cooked; there is about one more day of travel to Phandalin. Francesc does an excellent job of foraging and hunting, with more than enough to share around to help make friends within the wider caravan. A (mostly full) bottle of brandy is shared around. It's a good evening.
 
-As the night draws to a close, Francesc decides to creep around investigating the caravans. There's a cart/wagon that's drawn away from the main group a little distance away, with various tarps and other things that seem to be trying to hide or obscure the view a bit. Getting closer, looking around the tarp screen since there seems to be nobody around, is the wagon with sacks that bear the mark we know is of interest. **These are our smugglers!** They seem to have wandered off, but Francesc suspects it won't be for long (and at this point, Arturo sneaks over and joins her). After a bit of investigation and looking around, they start to sneak away (stealth 20 Francesc, 21 Arturo) but as they depart overhear two people approaching.
+As the night draws to a close, Francesc decides to creep around investigating the caravans. There's a cart/wagon that's drawn away from the main group a little distance away, with various tarps and other things that seem to be trying to hide or obscure the view a bit. Getting closer, looking around the tarp screen since there seems to be nobody around, is the wagon with sacks that bear the mark we know is of interest. **These are our smugglers!** They seem to have wandered off, but Francesc suspects it won't be for long (and at this point, Arturo sneaks over and joins her). After a bit of investigation and looking around, they start to sneak away (stealth 20 Francesc, 21 Arturo) but as they depart overhear two people approaching. 
 
 Thorin meanwhile, increasingly topped up with brandy but having done OK so far on a con. save, has been making friends - and carefully asking questions about who's what and where - finds a caravan of dwarves returning home to Phandalin, having made "riches" - so, they have guards. They're kind of the life of the party and it's easy for Thorin to strike up a conversation and make friends. When asking about the weird forest creatures, they say that this is why they chose the caravan. They claim to have seen a silhouette of a dragon towards the Sword Mountains. They don't know anything about poachers - they don't like to get involved in local politics!
 
@@ -80,10 +80,17 @@ A plan is hatched to take the clothes and impersonate the group of four, rejoini
 
 Francesc noticed something familiar about the spy's cloak, before she killed herself. It's elven! **A cloak of Elvenkind** - a magical item that aids stealth.
 
-Animal handling check goes well and Thorin calms the horse - who tells Thorin that his name is Bruiser - so that the group can now take the wagon.
+Arturo notes that there are three different kinds of insignia:
+
+* The cleric/acolyte wore regalia that wasn't quite noble, but was certainly more tidy than an average highwayman! There was also the medallion, which we took.
+* The other three have identical-looking cloaks, that seem to be almost like a uniform. We take those in case they come in handy for infiltration or bluffing.
+
+We do at least remember to pull bodies off the road... Eventually we figure out that perhaps shallow graves are a good idea, just to at least try and hide something in the woods off the side.
+
+Animal handling check goes well and Thorin calms the horse - who tells Thorin that his name is Bruiser - so that the group can now take the wagon, moving it up the road a little so we're not right next to the bodies. A short rest later to tend to wounds, and we can go.
 
 The game is afoot!
 
 ### Level 2 by Milestone
 
-(End of part 1)
+(End of part 2)
