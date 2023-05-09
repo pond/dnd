@@ -160,8 +160,12 @@ Penny:
 
 We realise that the spell hasn't worked as expected. The egg wasn't stopped from hatching - it was accellerated. The hatchling has reached out to find a sense of belonging to a work.
 
+### 7am - LEVEL 3 by Milestone
+
 We all receive a gift of the Gem Dragon - a Feat.
 
 * Penny bumps Intelligence by 1. It means the Telekenetic aspect is at a very low DC, but goes to the next even number up, so stats improve across the board for INT-based checks; and it's in keeping with the story above).
 * Francesc bumps Wisdom.
 * Thorin bumps Wisdom also.
+
+(End of part 4)
