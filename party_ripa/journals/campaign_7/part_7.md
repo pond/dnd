@@ -26,7 +26,7 @@ He describes his friend - "you'll recognise her by her horns! Her name is **Dori
 
 The woman says to Ed, "We really need to go!"
 
-Arturo asks where we'll meet them in Neverwinter - the **Purple Penants**.
+Arturo asks where we'll meet them in Neverwinter - an inn called the **Purple Pennants**.
 
 He offers 100gp! Penny insight 1+2 on that (!) - she believes 100gp are indeed in the offering. Francesc's insight is much better; he seems genuine, the money is real. Seems good-hearted, but like he's fucked up in life before. We agree to try. Arturo is very pursuasive and gets 50gp as a downpayment! But now, we're committed. We split it - 12gp, 5sp each.
 
