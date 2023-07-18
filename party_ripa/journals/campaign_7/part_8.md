@@ -2,7 +2,7 @@
 ## Session 8 (2023-07-11)
 ### Day 5, around 8pm
 
-We've finished battling. We have found an interesting amulet and this piques Francesc's interest - she investigates more. Nat 20+6! She focuses on the spell caster orcs in particular. She finds various bits of jewellery that look valuable and a strange kind of tablet with writing on, but shaped in a kind of totem shape, resembling a boar; it looks like some kind of code of laws. There's a basic large warm cloak intact which Francesc takes, but most other clothing and equipment are damaged. There's some kind of crown fashioned from deer antlers, which isn't magical but clearly has ceremonial significance - it goes into the bag of holding, just in case. Finally, Francesc finds a component pouch with little of interest inside - except a small diamond, which we estimate is worth around 300gp!
+We've finished battling. We have found an interesting amulet and this piques Francesc's interest - she investigates more. Nat 20+6! She focuses on the spellcaster orcs in particular. She finds various bits of jewellery that look valuable and a strange kind of tablet with writing on, but shaped in a kind of totem shape, resembling a boar; it looks like some kind of code of laws. There's a basic large warm cloak intact which Francesc takes, but most other clothing and equipment are damaged. There's some kind of crown fashioned from deer antlers, which isn't magical but clearly has ceremonial significance - it goes into the bag of holding, just in case. Finally, Francesc finds a component pouch with little of interest inside - except a small diamond, which we estimate is worth around 300gp!
 
 We discuss our next moves. Eloise wants to tend to the wounded, hoping that she can convince them not to continue cutting down the forest. Penny wants to help and uses as much lay-on-hands pool as she has available. This is Falcon's area so he'll stay too.
 
@@ -114,7 +114,7 @@ We're warned to keep our wits and purses about us if going there!
 
 * We make it to a fountain we were told is a landmark. People carrying notice boards, "New to Neverwinter! Get a guide! Local insight!" - etc. etc., with prices. What we need is a map!
 
-* We reach another gate, huge, big walls - inner city entrance, we guess. On the right, a building with literal purple penants dangling. That'll be it.
+* We reach another gate, huge, big walls - inner city entrance, we guess. On the right, a building with literal purple pennants dangling. That'll be it.
 
 There's a sign that says, "Full". I guess it has no beds. We're mostly here to drop off Doric and collect our 50gp!
 
@@ -136,7 +136,7 @@ We beeline to Two Left Feet. It's getting later and some of the shops and trader
 
 It's a less "posh" area. A simple sigh; "Rooms. Breakfast. Board" - Two Left Feet. In we go.
 
-It's quite a big door. Ed had aluded to this place catering for "all shapes and sizes" - the opening must be some 8ft tall. Behind a counter stands a slightly wrinkly-skinned "not quite human"! Half-something. No tusks, so not half-orc... Half-troll? They're 7.5ft tall - but they look kindly. Glasses are pushed up from the bridge of the nose. "Ah! Travellers. Are you looking for a room?"
+It's quite a big door. Ed had alluded to this place catering for "all shapes and sizes" - the opening must be some 8ft tall. Behind a counter stands a slightly wrinkly-skinned "not quite human"! Half-something. No tusks, so not half-orc... Half-troll? They're 7.5ft tall - but they look kindly. Glasses are pushed up from the bridge of the nose. "Ah! Travellers. Are you looking for a room?"
 
 We ask for 4, hoping we'll find Arturo somehow. Another person, apparently a partner, arrives; similar-looking, another gender, but half a leg missing and peg in place. Trolls would regenerate, so who knows what the story is there! They say that they have a room that will fit "four normal sized folk" or "two large folk". We have to share large beds though!
 
@@ -156,7 +156,7 @@ She makes a few guesses - mostly wrong! - about the origin of the items, and we 
 
 Penny chips in. "We got into a fight with some... Not nice people. We took this; we think it has significance."
 
-She starts nervously looking around and casts some kind of spell. She runs to the windows and looks around for a while - curtains are drawn - paranoia? "What's got you so spooked?" asks Francesc. "Put away your eye!" she says. We figure she means the medallion. Thorin stows the item. "It's the Eye Of Vallin. Have you not heard? It's a new force in the land. I don't wantt o get caught in this! Take your gold. Will you sell me the set? 51 gold. Take your gold." "Yes!" says Penny. "OK. We're closed. We're closed now!"
+She starts nervously looking around and casts some kind of spell. She runs to the windows and looks around for a while - curtains are drawn - paranoia? "What's got you so spooked?" asks Francesc. "Put away your eye!" she says. We figure she means the medallion. Thorin stows the item. "It's the Eye Of Vallin. Have you not heard? It's a new force in the land. I don't want o get caught in this! Take your gold. Will you sell me the set? 51 gold. Take your gold." "Yes!" says Penny. "OK. We're closed. We're closed now!"
 
 Penny wants to get a bit more info - persuasion 20+guidance 4, 24.
 
@@ -168,7 +168,7 @@ We thank her anyway, and head out. Behind us, we see her peeking from around a c
 
 Penny wishes she could've got the name of the Seer!
 
-We have the other gold and paladium medallion from a while ago, and various spare bits of armour, dagger, chain and so-on. We end up with 45gp in total at the market, *excluding* the medallion. We look for jewellers and find a couple on the main street leading towards the inner city gates near the Purple Pennants, but they're cloesd. We'll have to come back another day, but at the same time, we get the feeling that we might get a better deal in the Inner City.
+We have the other gold and palladium medallion from a while ago, and various spare bits of armour, dagger, chain and so-on. We end up with 45gp in total at the market, *excluding* the medallion. We look for jewellers and find a couple on the main street leading towards the inner city gates near the Purple Pennants, but they're closed. We'll have to come back another day, but at the same time, we get the feeling that we might get a better deal in the Inner City.
 
 We find a vial for Thorin's healing-potion-to-be - 2sp.
 
@@ -195,6 +195,8 @@ It's a brewery with a large ale hall attached, with ale to take away - barrel, f
 We sit, full of good food and ale, with a temporary sense of relief - though we know there is much to be done and in the back of our minds, we're worried about Arturo. It's nice to have money to spend and a good place to enjoy it.
 
 The day draws to a close; we wander back to the inn well almost at 10pm, with vendors closing and the streets quieter but pockets of rowdy people outside drinking dens. Some guards are patrolling here and there.
+
+Suddenly, in front of us a small shimmering light appears; it grows and grows into a huge bubble which then pops! We're all splattered with soap suds... And on the ground, having landed awkwardly, is Arturo. He doesn't remember much - seemed to be in the Fey, but didn't think he was gone for long. We bring him up to speed.
 
 Back at the inn, we realise we probably don't need to be on guard. We don't need to watch; we are able to, finally, sleep restfully... Inspiration all round.
 
