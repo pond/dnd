@@ -194,7 +194,7 @@ The crow turns back into a man. "Do you want the worst news? Our brother has a t
 
 Sigh. Well. There's a good chance that Lady Velindra Shadowmantle knows we have it - Thorin, at least, looked into it. So he was rumbled in the museum heist, and he's rumbled at the crypt!
 
-In the end, we move on. We take a risk with the phylactory and don't just dash directly towards some anti-scrying magic! We figure we'll take a rest of Driftwood Tavern. It's quieter than the Leviathan, but it's also all on a single level and while there are benches outside it seems to be mostly for people with pipes who aren't eating full meals. Maybe we have a chance of overhearing some gossip here.
+In the end, we move on. We take a risk with the phylactory and don't just dash directly towards some anti-scrying magic! We figure we'll take a rest at **Driftwood Tavern**. It's quieter than the Leviathan, but it's also all on a single level and while there are benches outside it seems to be mostly for people with pipes who aren't eating full meals. Maybe we have a chance of overhearing some gossip here.
 
 The main feature inside is the bar - very long, lots of seats. There's a back wall of casks. All tables are communal; no empty tables but plenty of space. We figure out the food situation at the bar - plate of food and a light ale each would be about 2sp for all four of us. Easy. Then we sit as close to the middle of things as we can.
 
