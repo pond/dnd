@@ -235,7 +235,11 @@ It's a hollow feeling in the pit of the stomach. But there's no time for contemp
   - Penny 12
   - Thorin 4!
 
+### Day 8->9 some time after midnight
+
 We're over half way but we *must* stop. We're already exhausted. We need a long rest. But Francesc has the ring; she only needs 4 hours. Thorin could turn into a fast creature like a dire wolf or riding horse.
+
+### Day 9, morning
 
 Perception check with disadvantage all round (incautious travel):
 
@@ -251,6 +255,8 @@ In the first two hours, he wildshapes to a Dire Wolf with Penny riding. Thorin s
 We discuss the strange forest. It's telling actually that we've not passed any merchants or trading caravans either. Looming to our right out of the sea is a rocky promontory, with a massive tower atop. 8 storeys or thereabouts. Parts at the top are crumbling and some chunks are missing from the side. The coast is choppy; there's a storm in the air and it's cloudy. Then we hear howling side. Eerie cries and moans.
 
 We ignore it! We *must* press on and risk it.
+
+### Around midday
 
 About 2 1/2 hours in, we can see it. We crest a ridge and ahead in the distance is a massive keep in the far distance, built into the side of the Sword Mountains which now loom up, quite close to the coastline - cliffs to the sea, a bit of a level area from slips or similar, then just pure granite - slabs of rock, jagged plate slabs, rising up dramatically into the mountains.
 
@@ -271,21 +277,3 @@ Huge banners 20ft long banners hang down various places at the front of a tall, 
 We get close. The portculis is still down. The gate is still closed. Guards are watching us from the top. **This place is not friendly! An air of hostility radiates.**
 
 (End of part 11)
-
-
-
-### Additional notes
-
-Clues:
-
-* Lady Velindra Shadowmantle
-* Elf, golden eyes, cursed the dancer at the Beached Leviathan?
-* "Aura of decay" about her - probably a lich - we probably have her phylactory!
-* Doesn't like New Neverwinter; probably not got city's bests interest at heart
-* Still political but ascended "above office" via various means.
-* In the pocket of wealth families.
-
-Obligations:
-
-* Return the Orcish tablet to that circle somehow
-* Visit Forlorn Keep (crow people).
