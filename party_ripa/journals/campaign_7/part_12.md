@@ -1,5 +1,5 @@
 # RIPA: Part 12
-## Session 11 (2023-08-08)
+## Session 12 (2023-08-08)
 ### Day 9, around midday
 
 We're running towards Helm's Hold. The main gates are guarded. The guards don't look friendly.
@@ -148,7 +148,7 @@ So, OK then - long rest.
 
 
 
-## Day 10
+## Day 10 - overnight
 
 D8->4 rolled by Francesc overnight. At the end of her 4-hour meditation, she comes to full consciousness and hears yelling. At first she thinks it's just tomfoolery, but then distant bells start to ring. And more. **And more**. She wakes us immediately. First words out of Thorin's mouth - "Fucking lich!" - we can smell smoke.
 
@@ -247,21 +247,3 @@ Francesc remembers the sword, too. "Can you identify this?" "It's a magical swor
 ### LEVEL 5
 
 (End of part 12)
-
-
-
-## Additional notes
-
-Clues:
-
-* Lady Velindra Shadowmantle
-* Elf, golden eyes, cursed the dancer at the Beached Leviathan
-* "Aura of decay" about her - probably a lich - we probably have her phylactory!
-* Doesn't like New Neverwinter; probably not got city's bests interest at heart
-* Still political but ascended "above office" via various means.
-* In the pocket of wealth families.
-
-Obligations:
-
-* Return the Orcish tablet to that circle somehow
-* Visit Forlorn Keep (crow people).
