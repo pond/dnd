@@ -201,7 +201,7 @@ Standing there, power radiating off him - wisdom saving with advantage, 20 - Lom
 
 "Shit", says Temo, out loud.
 
-Detect Magic. Very strongly magical, unsurprisingly. It *is* a tear in reality. It emanates very strong transmutation magic and a particular kind of "feel" that he's only ever heard about in stories. **Shaowfell**. Lomas is in shock. Temo tries to talk him off the ledge - calming, one step at a time, don't look at the rift... He keeps saying he "couldn't stop it" and saying "...but miss Nethza..." - persuasion 30.
+Detect Magic. Very strongly magical, unsurprisingly. It *is* a tear in reality. It emanates very strong transmutation magic and a particular kind of "feel" that he's only ever heard about in stories. **Shadowfell**. Lomas is in shock. Temo tries to talk him off the ledge - calming, one step at a time, don't look at the rift... He keeps saying he "couldn't stop it" and saying "...but miss Nethza..." - persuasion 30.
 
 We get Lomas inside. Klaus outside is weaving something - abjuration, Temo sees, Detect Magic still up. He's trying to contain the spread. Whatever the spell might be, it is pulling some of the lines back from the classroom. He calls thanks to Klaus. "I don't know how far I can go with this. I don't want to close it, but I don't want it to spread further."
 
@@ -225,7 +225,7 @@ Temo assures Lomas that he's not in trouble, not at all. But he needs to be brav
 
 The two girls fill in more. Huge creeping shadows spreading across the window and door, despite it being dark outside - shadows of shadows. Monstrously scary! When the door opened, they just freaked out and ran not knowing it was Lomas. They say they ran and it was over half an hour ago; yet Lomas thinks the shadow arrived right before Temo came in. So someone lost time (was Lomas stunned?), or perhaps being close to the rift slows time.
 
-Temo starts talking about the Fey Wild and the "flip side of the coin", the Shaowfell. Then he hears a creaking noise by the door - creeps up and opens them - it's *all* the students. So Temo says, "OK, OK, everyone in" and explains what happened in brief (to avoid rumours) framing it as "Nethza was visited by a strange shadow creature, and she went with it through that door to the Shaowfell". The usual reassurances - school not closing, but that area's off limits etc.
+Temo starts talking about the Fey Wild and the "flip side of the coin", the Shadowfell. Then he hears a creaking noise by the door - creeps up and opens them - it's *all* the students. So Temo says, "OK, OK, everyone in" and explains what happened in brief (to avoid rumours) framing it as "Nethza was visited by a strange shadow creature, and she went with it through that door to the Shadowfell". The usual reassurances - school not closing, but that area's off limits etc.
 
 In the end, people head back to bed. Lomas is assured by Temo that he's done OK, he held his emotions in check and explained everything; nothing more he could do!
 
@@ -251,9 +251,9 @@ Temo's awake again, full of nerves. Maireagh makes breakfast. The main hall is q
 
 Temo recounts the whole tale in as much detail as he can, over breakfast. We figure we want to get to Deepgarden Keep as quickly as possible but in the mean time we check over any books we have on us or at the Tower.
 
-Temo, investigation 7+12. A couple of books do mention the Shaowfell but have little detail - recounting stories that people tell about it, more than anything else. On patrons and warlocks, he finds that each patrol has a very personal connection to each warlock so knowing how it works for one person doesn't let you know about another. Temo history, 17+4; Maireagh 19+9 - very high! The two of them together remember Nethza saying once that she thought her patrol was one of the "Unknown Entities" of the Shaowfell. A powerful, ancient entity - for example, the Raven Queen is one such named, but otherwise "unknown" entity.
+Temo, investigation 7+12. A couple of books do mention the Shadowfell but have little detail - recounting stories that people tell about it, more than anything else. On patrons and warlocks, he finds that each patrol has a very personal connection to each warlock so knowing how it works for one person doesn't let you know about another. Temo history, 17+4; Maireagh 19+9 - very high! The two of them together remember Nethza saying once that she thought her patrol was one of the "Unknown Entities" of the Shadowfell. A powerful, ancient entity - for example, the Raven Queen is one such named, but otherwise "unknown" entity.
 
-Maireagh knows that there is a group of researchers who know the Shaowfell well. We'd need to find someone called **Esmerelda D'Avenir** but we don't know how to find her. She's famous for having travelled through the Shaowfell many times and written about it, apparently, but the books are very rare.
+Maireagh knows that there is a group of researchers who know the Shadowfell well. We'd need to find someone called **Esmerelda D'Avenir** but we don't know how to find her. She's famous for having travelled through the Shadowfell many times and written about it, apparently, but the books are very rare.
 
 (We jump to Riglan at Goldenfields)
 
@@ -275,7 +275,6 @@ Riglan steps through the tree portal.
 
 
 ## Everyone - day 4
-
 ### 11:45am
 
 Riglan emerges through the grand tree at Owlbear Tower and runs to the main doors, bursting in; he sees the the table strewn with books, old scrolls and all sorts of things. Perception 25; Maireagh has a determined look, but clearly very worried and that freaks Riglan out even more. Temo just looks a bit dishevelled - which is unusual for him - and has a sort of "I've got my shit together because I have to but just underneath this I'm in pieces" look. A fragility. Riglan runs up to Temo and hugs him, says, "I just got your message. I came immediately. What's wrong?"
@@ -306,7 +305,7 @@ It's taking all of the magic that Klaus has to push back against the rift, while
 
 Riglan has to make the call. "You probably have to close it behind us."
 
-Klaus offers to let us speak to the three students. We wait in the library since they're in class. No Shaowfell books - not student-friendly! It's a good college. A good *building*. It's comfortable; not flash. Riglan's very proud of Temo and Nethza.
+Klaus offers to let us speak to the three students. We wait in the library since they're in class. No Shadowfell books - not student-friendly! It's a good college. A good *building*. It's comfortable; not flash. Riglan's very proud of Temo and Nethza.
 
 Lomas, Manny (short for Manuella) and Cody arrive, looking somewhat sheepish. They come up to the 2nd floor, where we'd ended up.
 
@@ -542,7 +541,7 @@ Riglan doesn't know where the beds are so rolls out a mat by the tables. Temo se
 
 
 
-## Day 5 ("day" 2 in Shaowfell)
+## Day 5 ("day" 2 in Shadowfell)
 
 Riglan, wisdom-saving 13. It's just enough to remember a dream. Not the usual kind, and not like the bad times when he foresaw the elementals disaster. He's an observer, here, not a participant. Strange.
 
@@ -595,7 +594,7 @@ We approach the well. We see that it's covered, in disuse. Riglan points at it a
 
 An older man approaches. Looks familiar, but history 12, not sure. Maybe related to someone in the dream? Not the same. He asks what we're doing in the village.
 
-We say we're looking for Nethza. They don't know who that is. We say "the ruler of this realm?" - sharp intake of breath. No, it's ruled by **Azalin**. We ask about the manor; **Darkon Manor** - no, that's just the underlings (!) - Azalin rules from a castle.
+We say we're looking for Nethza. They don't know who that is. We say "the ruler of this realm?" - sharp intake of breath. No, it's ruled by **Azalin**. We ask about the manor; **Dakkon Manor** - no, that's just the underlings (!) - Azalin rules from a castle.
 
 We say we have no designs on the village. We'd like to help with the water, but don't know how. We could look? We can't make it worse if it's already dry... Temo persuasion dirty 20. Barricades around the well are moved and the wooden cover is pried up. Riglan casts Darkvision and peers inside. It goes further than he can see, but is dry. Nothing growing there, at least. Riglan risks using a Wildshape to call a lizard Familiar, positioning it 10ft down on the darkest wall of the well and says to Maireagh - who'll understand - "I'm just going to lean in and get a *really* good look, hold onto me!". The lizard starts to descend on the wall and Riglan "looks through" it, at least for the first 100ft.
 
@@ -663,7 +662,7 @@ As we start to head out, one of the younger women - who stood up to us at the st
 
 There's a brief conversation. She tells us some lie of the land info. She starts to leave, and a child runs up - one we rescued. The two walk back into the village.
 
-The road we're on *does* lead towards Darkon Manor. She says it takes more than a day of travel! It didn't before. A different Onanor?! Onward we go.
+The road we're on *does* lead towards Dakkon Manor. She says it takes more than a day of travel! It didn't before. A different Onanor?! Onward we go.
 
 We walk in this strange timeless land. The road is in better shape than before the time shift. It isn't pitted and potholed; the surface is level. The cobbles show signs of wear but still hold together. Walking is easy. Ahead of us, the road weaves along gentle hills, forest to the left and behind the forest, we see curling mist, arching over the forest. That's *not* where the mist wall was before. The mist is further back. **Is the mist consuming the land over the years?**
 
@@ -673,25 +672,25 @@ We are surprised to see a soft glow on the horizon, as if a sun might rise. And 
 
 Riglan nature 25. The sun isn't rising at an angle, like a very, very late winter's day in the north. And at this, we realise that even at night it's been damp, but not freezing cold - it hasn't felt like winter.
 
-A fork in the road, as we might expect. Looks familiar. We can see further along the road that used to just end in mist; it leads into and bisects the forest. There's a sign with *three* things. Ah. "Darkon Manor", but the sign is different, it wouldn't have read as we read it if broken as it was. The other direction doesn't read St Cuthbert's, either; it says "Easling Village". The new, third direction says "Stormkirk".
+A fork in the road, as we might expect. Looks familiar. We can see further along the road that used to just end in mist; it leads into and bisects the forest. There's a sign with *three* things. Ah. "Dakkon Manor", but the sign is different, it wouldn't have read as we read it if broken as it was. The other direction doesn't read St Cuthbert's, either; it says "Easling Village". The new, third direction says "Stormkirk".
 
 Riglan asks Denny, "Well, you're not going *into* the manor, but does your instinct still say 'that way'?". Denny stands at the crossroads, facing the forest first; he pulls out a small deck of cards. He shuffles them. He cuts the deck and pulls out the top card, contemplates for a minute, faces the manor direction, repeats; then declares "I'm going this way!"
 
 We let him walk in front of us, following him to the manor. Riglan, perception, 17. He walks with curious confidence. Moves with purpose. Riglan asks, "What in the cards made you so certain of this direction?" "The first card I pulled showed me that I was going to be lost. It hinted at a maze. For me, anyway... It had uncertainty." Maireagh says, "I'm not surprised - it heads into the mist" - of course, yes, it's further back, but still clearly not *that* far away. "In this direction, the card was a raven" says Denny. "Is that good?!" "I don't know. I've never pulled a raven before! But ravens are messengers. They can mean many things. Messengers into the lands of the dead from the living. Or from across worlds."
 
-Riglan decides to confess that it's not just "pages of the picture book" for us in the Shaowfell - it might be the same in "our" world too. Daggerford was much bigger in our time. This might be bad or might be good - when he finds the right place *and* moment to depart for home, his family might not have missed him at all! He might have been only gone briefly. We get into a conversation trying to determine how much time is between us, so we might have a good guess at the time difference *here* in case the shift in time is indeed equivalent. He talks about the "Kingdom Of The Dalelands", but we don't know it. Maireagh tries to figure it out. He tells us that the Dalelands are ruled out of the capital, Elturel. *That* name we know. Riglan digs out the map.
+Riglan decides to confess that it's not just "pages of the picture book" for us in the Shadowfell - it might be the same in "our" world too. Daggerford was much bigger in our time. This might be bad or might be good - when he finds the right place *and* moment to depart for home, his family might not have missed him at all! He might have been only gone briefly. We get into a conversation trying to determine how much time is between us, so we might have a good guess at the time difference *here* in case the shift in time is indeed equivalent. He talks about the "Kingdom Of The Dalelands", but we don't know it. Maireagh tries to figure it out. He tells us that the Dalelands are ruled out of the capital, Elturel. *That* name we know. Riglan digs out the map.
 
 Temo (history with luck point 4,5+4!) doesn't know much about it. Denny knows about Waterdeep though. Quite a bustling city in his time. He knew it was a centre of commerce and trade. Waterdeep was apparently ruled by a barbarian king, on that side of the river up to Triboar. Denny knows that much. The Dalelands are on the other side of the river. Temo knows that Waterdeep is only about 500 years old, has been a republic for the last 200, so we're looking at, given the implied size of the town, maybe 300ish years ago?
 
 Interesting. We're a long way back anyway, in this land; the sun appearing; probably really *is* a question of the further back you go, the further back the mists are and the more sun you get?
 
-Where the road used to veer up to the manor, we now find a fork in the road. There are signs. Left, two signs; "Darkon Manor" and underneath, "Citeaux". City? Citadel? Castle? The single sign on the right says "Volridge Forest and Von Manor".
+Where the road used to veer up to the manor, we now find a fork in the road. There are signs. Left, two signs; "Dakkon Manor" and underneath, "Citeaux". City? Citadel? Castle? The single sign on the right says "Volridge Forest and Von Manor".
 
-The strange thing is the road to the *right* was the Manor to which we went. *Von* Manor - "onanor". Not Darkon. We got the wrong manor! So what lies in Darkon Manor that was compelling children to be sacrificed?! "Denny! Do the cards thing again!" says Riglan. Riglan also notes easily visible recent horseshoe prints to the *left*. Denny's cards say that neither option is good but the left looks more clear.
+The strange thing is the road to the *right* was the Manor to which we went. *Von* Manor - "onanor". Not Dakkon. We got the wrong manor! So what lies in Dakkon Manor that was compelling children to be sacrificed?! "Denny! Do the cards thing again!" says Riglan. Riglan also notes easily visible recent horseshoe prints to the *left*. Denny's cards say that neither option is good but the left looks more clear.
 
 One thing from a time perspective - the sycamore. We head up the right-hand road briefly. Denny agrees to come with us for just 5 minutes! So we go that. It starts to climb the hill. It's enough to see the manor. No sycamore. It was about 300 years old, so we're back further than that. There's a lush forest beyond and, surrounding the manor on the hill, many rows of grape vines. How odd.
 
-"OK, so we're more than 300 years back" confirms Riglan; "On to Darkon Manor!" - we turn and carry on. A day of travel, we were told. OK.
+"OK, so we're more than 300 years back" confirms Riglan; "On to Dakkon Manor!" - we turn and carry on. A day of travel, we were told. OK.
 
 We pass the odd farmstead. Forests near the road sometimes. So different from the disused/abandoned pastureland we saw before - Riglan is saddened to see the destruction from these two snapshots, even in this perhaps imaginary place.
 
@@ -699,11 +698,11 @@ Con checks, after about 4 hours of walking. Riglan only 11, Temo 21. Riglan's ti
 
 The sun is past its low zenith when we are packing up; we see wagon moving along the road. A farmer and a younger boy up front; a donkey pulls everything; on the back, four barrels. Wines! Wines all around us. We scurry down the hill calling a greeting. Temo in the lead since 8ft of Riglan is scary. The farmer urges the donkey to a (grudging, apparent) halt. The kid is only around 14 years old. The farmer is middle-aged maybe. Both human. We say hi and introduce ourselves. Riglan has used Disguise Self - for the first time in a very long time - to look like his original Sungift "human" self.
 
-Riglan goes out on a limb and asks if the wine is from Von Manor. It is! They're delivering wine to Darkon Manor. We're headed that way. We agree to travel together. They are Bernard (older) and Gerard (son). They're the Vitners at Von Manor. They work for the lady of the house. Riglan realises he can only hold his spell for an hour so tries to explain but they seem to think he's a lycranthrope and don't mind if he turns (!) - they wear holy symbols, which he evidently thinks will protect them. Riglan dispels the magic. "Oh! Are you a werecow?!" asks the farmer. Riglan says, "Uuuh, maybe?!" and Gerard teases him - "You mean *moooo*be!" - he gets told off by Bernard. "It's OK! That was a good one. I'm called a Firbolg. I am told my kind is rare."
+Riglan goes out on a limb and asks if the wine is from Von Manor. It is! They're delivering wine to Dakkon Manor. We're headed that way. We agree to travel together. They are Bernard (older) and Gerard (son). They're the Vitners at Von Manor. They work for the lady of the house. Riglan realises he can only hold his spell for an hour so tries to explain but they seem to think he's a lycranthrope and don't mind if he turns (!) - they wear holy symbols, which he evidently thinks will protect them. Riglan dispels the magic. "Oh! Are you a werecow?!" asks the farmer. Riglan says, "Uuuh, maybe?!" and Gerard teases him - "You mean *moooo*be!" - he gets told off by Bernard. "It's OK! That was a good one. I'm called a Firbolg. I am told my kind is rare."
 
-The conversation turns to Darkon Manor. The farmer says "They're kind of different folk... They're rather like your folk, aren't they?" - looking at Denny. Denny looks surprised and says he doesn't know them. Riglan and Temo roll shit insight, so no idea. Temo says, "It's OK, I think you can speak freely - I mean, if we're going there to try and smooth things over, we at least ought to know what we're getting into!" - and now a good roll; Persuasion 18+13 -> 31. Both farmer and Denny speak up! Denny says "I'm not hiding anything. I was just never asked! And I'm not a vampire! But I am a dhampir." "Oh! I've not heard of such a thing" says Temo. "I was attacked early on when I was here. I had been taken in, given a room and food, but then when I realised what they were doing I tried to escape and and was attacked and bitten. Somehow, I resisted the full weight of the curse..." Bernard says "It's alright lad. This is no world to be judging people! Which of us are pure in Ezra's eyes? Not one. We all do what we have to, to get by. We were just lucky that the family - the lady of the manor - is as devout as she is, that we can stay in the light. But we don't judge those who don't have the luxury of doing so. The darkness comes and stays and lingers; the nights are long."
+The conversation turns to Dakkon Manor. The farmer says "They're kind of different folk... They're rather like your folk, aren't they?" - looking at Denny. Denny looks surprised and says he doesn't know them. Riglan and Temo roll shit insight, so no idea. Temo says, "It's OK, I think you can speak freely - I mean, if we're going there to try and smooth things over, we at least ought to know what we're getting into!" - and now a good roll; Persuasion 18+13 -> 31. Both farmer and Denny speak up! Denny says "I'm not hiding anything. I was just never asked! And I'm not a vampire! But I am a dhampir." "Oh! I've not heard of such a thing" says Temo. "I was attacked early on when I was here. I had been taken in, given a room and food, but then when I realised what they were doing I tried to escape and and was attacked and bitten. Somehow, I resisted the full weight of the curse..." Bernard says "It's alright lad. This is no world to be judging people! Which of us are pure in Ezra's eyes? Not one. We all do what we have to, to get by. We were just lucky that the family - the lady of the manor - is as devout as she is, that we can stay in the light. But we don't judge those who don't have the luxury of doing so. The darkness comes and stays and lingers; the nights are long."
 
-We learn worse news. *Three* lords of Darkon Manor. Damn. And we want to tangle with that?! Well, no, but do we have a choice?!
+We learn worse news. *Three* lords of Dakkon Manor. Damn. And we want to tangle with that?! Well, no, but do we have a choice?!
 
 They tell us that they've never met the lords; they just arrive, drop off the barrels and leave. He shows us a chest full of vials of holy water! They have preparations just in case; then they scuttle back to Von Manor. The holy symbols, Riglan realises, aren't just shiny metal - they're silver. Suddenly with a wry smile, Temo remembers that he and Riglan have a fair amount of holy water that Nethza just bought us, many months ago, seemingly at random.
 
@@ -718,7 +717,7 @@ An hour later, the sun has set. Lanterns on the cart are lit. The barrels are co
 
 He met Nethza. She was at the church before he arrived. She'd fight with her shadow, her literal shadow, unless that shadow spirit was around; in which case she seemed more at ease. She left only a couple of days before we arrived.
 
-After another couple of hours, we reach what looks almost like a town - but is in fact a fortified manor. Stone walls around the base of a small rise, rocky, the manor built rising up out of it. It almost looks like a keep except more elegant than that. Small workers huts around, fields; even a few small houses. It is an estate. We go past a beautiful stone sign, "Darkon Manor" carved into the plaque. There's a crest above, painted. A three dog heads (or a three-headed dog?!) in white against a pale blue background, with swallow-shaped birds flying outwards in between.
+After another couple of hours, we reach what looks almost like a town - but is in fact a fortified manor. Stone walls around the base of a small rise, rocky, the manor built rising up out of it. It almost looks like a keep except more elegant than that. Small workers huts around, fields; even a few small houses. It is an estate. We go past a beautiful stone sign, "Dakkon Manor" carved into the plaque. There's a crest above, painted. A three dog heads (or a three-headed dog?!) in white against a pale blue background, with swallow-shaped birds flying outwards in between.
 
 Denny eyes up the manor. "I don't think I'll go in there." "Probably wise!" says Riglan. "I'll carry on this road towards the city." "OK. Maybe we'll catch up with you there some time." "Thank you for letting me travel with you. I hope you find her." "And I hope you find your way home. Safe travels." And just like that, Denny walks onto a left-hand fork as we carry on bearing right towards the estate gatehouse. Seeing that there are guards there, Riglan re-casts Disguise Self, 6ft human, just like at Sungift. We all pull our cloaks around us. We put the dog onto the wagon and cover it in a blanket! There's a heart-stopping moment when the guards check the barrels, but they don't seem to mind that there's a blanket there too.
 
@@ -757,3 +756,33 @@ It's a weird situation:
 * People here know all about vampires. It's matter-of-fact to them.
 * Giving up your village's *children* for consumption is a whole other level of fucked up, but then, Anna is clearly trying to protect - well, *herself* but her village too.
 * There's a twisted morality there. In a world where vampires are widespread and you have no powers against them, how do you survive?
+
+We chat with the guards, offering to pay for their food and drink; they don't think we should necessarily pay! We talk about the (quietly) vampires. Riglan explains that in his tribe, an exchange of children for safety would result in them fighting to their deaths if they must. But Anna made a different choice and, in fairness, the people of the village do live - but at a terrible, *terrible* price. "Things have been getting worse" they confess, "but we don't know why". Only two other tables are occupied plus the staff, and we are overheard; people are clearly listening in with fear. Even the chef appears in the kitchen door. Distant, but watching. (Perception 15)
+
+When the matron comes over to clear the table later, speaks generally to the table. "Was everything alright?" "Very good thank-you"... And the dialogue opens. Very oblique conversation, but another table is indicated - a story to tell - they live on the other side of the woods. Hunters. Trackers, from another village. "We've seen many things and overheard many conversations over the years. You're not wrong... That *stuff* is happening... Do you want dessert? I baked a damp cake." A good excuse to stay longer. Temo and Riglan will have a slice. Maireagh asks about brandy; there is some. Riglans the two guards... They share a slice.
+
+Temo and Riglan sidle over to the other table, as indicated. We say that times are difficult, but we have had some luck in adventures and trading lately; we want to share it; offer to buy them drinks (and the other table) - in exchange for good conversation. They agree and all are brought. Temo, adv persuasion 32! He tries to get into the angle of the village that these people are from. "Used to be the eldest daughter of the village, for a long time. Once a year. Then it became the eldest child, son or daughter. Then twice a year. Then three times. There just weren't enough children... It became a slippery slope. We'd agreed to it. A frog boiling in water; we just couldn't say no. We didn't have young men anymore to fight either. And they're scary! They're so powerful. You can't say no. What can you do? But it's become untenable. They've come to ask twice, this month. We have no children left to give! People are moving away from the village; they're disappearing, not coming back, don't know what happens to them. I don't know what to do. There are only eight of us left. It's dead. Our little hamlet is gone."
+
+We learn that hunting there was bad too. They started finding animals torn apart; not eaten, just turn up, scattered, sometimes even so widely that parts were found thrown into trees. Blood congealed and black. Riglan insight dirty 20. As we're being told this, another person at the table is showing a lot signs of fear... "It... We... We're cursed. We are cursed... You remember Damon? We found him. We *found* him..." - he tells us he'd caught a stag, was gutting it, but *inside* the stag instead of a stomach he found his own child's head and deformed body.
+
+Riglan's staff *creaks*; his grip on it is so tight. Rage. White hot. His nerves burn away a little. "I said our village would've fought to the death. Looks like I'll stand by that tomorrow."
+
+We hear that the lands were always ruled by lord vampires but they didn't used to do this kind of thing. They ruled 'nobly' - they'd sometimes ask for sacrifices (!) but the villages considered it *reasonable* or necessary, whatever *that* might mean. But at least it didn't destroy the realm. They did the minimum, it seemed, required by their nature. They ruled fairly - built roads, defended the land. Then the days got shorter, the nights got longer, and things got more and more out of balance.
+
+(Azalin isn't a vampire but is undying. Maybe a lich. We've had good dealings with them! Perhaps there is hope there. He rules from Citeaux).
+
+"If I can, me and my group will avenge your children", vows Riglan.
+
+"Maybe that will help them be delivered to Ezra."
+
+This is a society - a country - robbed of hope. It is hard to know if this has any relevance to Nethza, or if any of it makes any difference.
+
+5gp. A cheap bill for the whole room for us, these days. A big sum for them.
+
+Later, back at our room, reminiscing a little, Riglan recalls that he almost went to Shadowtop to try and get a barrier tattoo against the Shadowfell. Good thing he put it off. We remember more about Nethza's past, when she once opened up to us; her mother making a pact with Levistus, her father with a devil through a warlock, the two magics struggling and in the end, her mother being the cost. Riglan notes that if his dream was accurate, her father didn't just give up and abandon her - it looks like the village forced him.
+
+Eventually, we retire to bed. Riglan is once again very, very nervous about tomorrow; the nerves replace the earlier anger. He's never had anything much good in dealings with undead and vampires are even worse somehow, but he does his best to hide his fear from the group. As he drifts to sleep, Riglan things of moonbeams and sunbeams... Spell changes, for the morning.
+
+Temo, Riglan and Maireagh are at least inspired (literally) to act.
+
+(END OF PART 3.1 - Part 3.2 next)
