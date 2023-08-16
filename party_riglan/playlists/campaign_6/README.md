@@ -12,7 +12,7 @@ Darkness across the land. Admist creeping rot and ruin at every turn, the search
 
 
 
-# The Bright Blue Sky
-## Warrior
+# Part 3
+## The Bright Blue Sky
 
 Familiar surroundings are tainted by the suspicion of a dark arrival, at first unclear but made certain by terrible news from the East. Brave adventurers must travel further than they have ever travelled before on a quest to tackle a dark and twisted adversary already so powerful that the Dark Powers themselves are unable to act directly.
