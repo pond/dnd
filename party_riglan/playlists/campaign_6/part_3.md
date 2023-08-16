@@ -1,5 +1,6 @@
 # The Bright Blue Sky
 
+* https://open.spotify.com/playlist/5b97eVPYxx2Z6tPnPxs1vS
 * This is a placeholder; this section of the campaign is still being played and there are lots of playlist gaps.
 
 ## Campaign Six Part Three
