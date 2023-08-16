@@ -1,6 +1,6 @@
 # Shadows Fell
 
-* Spotify TBD
+* https://open.spotify.com/playlist/4aGbNR8IwZtDu6Bn5Oieft
 
 ## Campaign Six Part Two
 ### Prologue

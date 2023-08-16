@@ -1,6 +1,6 @@
 # New Beginnings
 
-* Spotify TBD
+* https://open.spotify.com/playlist/7z6aKOBdSpgaIku1l0oyZp
 
 ## Campaign Six Part One
 ### Prologue
