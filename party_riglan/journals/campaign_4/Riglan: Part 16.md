@@ -140,7 +140,7 @@ Dex save DC 16, but everyone fails :-/ so 4d8 -> 19 damage and we're all prone. 
 
 Another reaver comes, heading for Riglan, sword drawn. Shiver casts a spectral ice kind of armour. Temo aims and fires, hitting but with a crappy damage roll of 5d6+6 -> only 18.
 
-Nethza centres a big area spell in a way that tries to catch as many cultists as possible while avoiding the party; through her piece of Shaowfell, throws out a sort of bioluminescence which looks similar to that which we saw at Shadowtop, but here it forms a kind of Sickening Radiance that spreads out. She then moves behind the water elemental.
+Nethza centres a big area spell in a way that tries to catch as many cultists as possible while avoiding the party; through her piece of Shadowfell, throws out a sort of bioluminescence which looks similar to that which we saw at Shadowtop, but here it forms a kind of Sickening Radiance that spreads out. She then moves behind the water elemental.
 
 The fleeing priest at the edge of Nethza's area spell fails a con save., taking 4d10 of radiant -> 20, and it suffers a level of exhaustion, glowing with a strange green luminescence. It throws a Chill Touch at Nethza, but misses. It runs out of the room through a side door - damn. It'll raise the alarm.
 

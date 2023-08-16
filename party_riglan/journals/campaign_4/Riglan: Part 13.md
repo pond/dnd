@@ -342,7 +342,7 @@ So there's no one philosophy, no overarching codes, or leader. This means it's a
 
 Payment isn't via currency. That's not how things happen here. People exchange things of use, e.g. potions, rescued animals, rare plants, magic items, scrolls; intrinsic value outside the concept of currency. Things of utility or of implicit value in the wild. Just like a day in Riglan's tribe really.
 
-**Temo considers a tattoo of masquerade; Nethza, of ghost step, maybe one day of life ward; Riglan thinks that perhaps one day a tattoo of Shaowfell, or a barrier but it would need to be quite a high level one**.
+**Temo considers a tattoo of masquerade; Nethza, of ghost step, maybe one day of life ward; Riglan thinks that perhaps one day a tattoo of Shadowfell, or a barrier but it would need to be quite a high level one**.
 
 We say our thanks and goodbyes and go to visit the Loxodon, Aramais. He's in his library. A few very colourful cockatoos are there; he seems to be trying to teach them things from the book. Coconut husk bows filled with nuts and seed appear to be in use as bribery! When he sees us arrive, he says, "Right! Class is dismissed - see you all later" - though the birds don't seem in a hurry to leave.
 
@@ -404,7 +404,7 @@ We seek out Irrasil leaders (mother) Lyrei and (daughter) Anhearn Ilira to ask a
 * The one we know of is the elemental cult book.
 * Another refers to the Dark Seldarine - the original elven pantheon of gods; talks about how the Drow split off. Largely mythology due to how far back it tries to describe events.
 * A third book talks of the 3 separate elven empires of the ages and the magics used across that time. 
-* A fourth considers the crossing of the veil into the other planes, linked to the elves; the Fey Wild for the Eladrin, the Shaowfell for the Shadar-Kai; the Lower Planes (Abyssal Planes) for the Fey-Ri (demonic, corrupted elves).
+* A fourth considers the crossing of the veil into the other planes, linked to the elves; the Fey Wild for the Eladrin, the Shadowfell for the Shadar-Kai; the Lower Planes (Abyssal Planes) for the Fey-Ri (demonic, corrupted elves).
 
 None are an obvious choice for destruction by Gromsch. The last book seems the most likely; it talks about people and methods for closing portals and pushing back incursions on the past. The books in total though contain knowledge that isn't widely known; that could in the wrong hands lead to people achieving feats not known to be possible. Perhaps the point was to destroy all of them, or at least as many as possible.
 

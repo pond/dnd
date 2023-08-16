@@ -310,7 +310,7 @@ He returns to this party and explains, then they bed down. We don't set watch, t
 
 ## DAY 89
 
-Just before 7am, we are woken. The game is afoot. It's just getting light. Riglan's experience the night before makes him decide to memorise Lesser Restoration rather than Create Or Destroy Water. We tell the servants to head upstairs and take cover. The boy from last night has found  a crossbow and bolts but looks conflicted. Some of the men go for weapons too... In the end we agree that the ruse of them not knowing this was happening is over, but them fighting at the front line isn't great, so we ask them to keep quiet, keep safe upstairs and lie in wait - if we need help we'll holler.
+Just before 7am, we are woken. The game is afoot. It's just getting light. Riglan's experience the night before makes him decide to memorise Lesser Restoration rather than Create Or Destroy Water. We tell the servants to head upstairs and take cover. The boy from last night has found a crossbow and bolts but looks conflicted. Some of the men go for weapons too... In the end we agree that the ruse of them not knowing this was happening is over, but them fighting at the front line isn't great, so we ask them to keep quiet, keep safe upstairs and lie in wait - if we need help we'll holler.
 
 We lie the body of the king on the table closest to the main entrance and scatter around the room in strategic areas. Temo insists on sitting on the throne! We wait. Riglan calls a hawk to outside the keep; it perches on the roof, observing. Temo finds the throne too big, so pulls from his bag of tricks - gets the weasel. It sits on his shoulder. He tries again - panther! So we've a hawk, a weasel and a panther... One more weasel and I think it might remind me of a film...
 
