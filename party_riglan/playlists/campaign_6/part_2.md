@@ -50,5 +50,5 @@
 
 ### Closing Titles
 
-* (Philipp Beesen) Out Of The Grey: Nethza
+* (Philipp Beesen) Out Of The Grey: Nethza (And The Raven Queen)
 * (IMAScore) Where Do We Go: World (Difficult Choices Of A Campaign)

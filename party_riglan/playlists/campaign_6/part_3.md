@@ -14,10 +14,9 @@
 * (Honor Of Kings 7) Painted Love: Of Schools, Of Orchards And Of Keeps - TQC
 * (Princess Mononoke) Evening At The Ironworks: We Must Leave - Equinox At Yartar
 * (Enya) Aldebaran: Morningspire Guidance - "Look To The Rising Sun"
-* ...: Aneeria's Spell
+* (Expanse Season 1) Respite: Aneeria's Spell
 * (Halo 4) Solace: Dark Power Revelation / Nethza's Origin / Feather Of The Raven Queen
-* ...: "I Just Got Worried That She'd Start Sleepwalking Again"
-* ...: Silverymoon Negotiations Go Well
+* (Planet Of Lana) Progeny: "I Just Got Worried That She'd Start Sleepwalking Again" / Silverymoon Negotiations Go Well
 * (David Chappel - Awaken) Call Of The North: The Knights Of Samilar Ride Once More
 
 ### Chapter Two: Alliances
@@ -30,22 +29,22 @@
 
 ### Chapter Three: Wanderer No More
 
-* ...: Neowin's Findings
-* ...: A Politician Or A Harper - Head Over Heart
-* ...: "It Is My Honour And Privilege To Call You A Friend"
-* ...: Silverymoon, So Suddenly
+* (Hollow Knight) Reflection: Lanowin's Findings - Valinus Sarnastum
+* (Honour Among Thieves) Goodbye Xenk: A Politician Or A Harper - Head Over Heart
+* (Genshin Shimmering Voyage 3) Soothing Nightfall: "It Is My Honour And Privilege To Call You A Friend"
+* (Planet Of Lana) Nightfall: Silverymoon, So Suddenly
 * (Planet Of Lana) Peculiar Encounter: Thunderspells
 * (Shadow Of The Colossus) Shadows Creeping: Long Hours Of Research Montage / The Tale Of The Soldier Who Hid
 * (Assassin's Creed Revelations) The Road to Masysaf: The Dream - The Shepherd's Warning; The Eye Of Azalin Rex
-* ...: "We'd Better Arm Ourselves With As Much Forbidden Knowledge As We Can!"
+* (Genshin Sand Dunes) Oracle Of The Void: "We'd Better Arm Ourselves With As Much Forbidden Knowledge As We Can!"
 
 ### Chapter Four: To The Farthest Corners
 
-* (Genshin) Rapid As Wildfires: The Assassin
-* ...: Silune's Assistance
+* (Genshin Jade Moon) Rapid As Wildfires: The Assassin
+* (Foundation Season 1) The Imperial Library: Silune's Assistance (Nethza Is The Threat)
 * (Quantum Break) I Kept Waiting: Star Map
-* ...: Portal East
-* ...: Village Heat
+* (Genshin Sand Dunes) Dividing Paths: Evereska By Portal
+* (Planet Of Lana) Entering The Desert: Village Heat
 
 ### Epilogue
 
@@ -53,4 +52,5 @@
 
 ### Closing Titles
 
-TBD
+* (Talking Heads) Road To Nowhere: Riglan (Entering The Desert)
+* (Bjork) New World: World (Of Opportunities)

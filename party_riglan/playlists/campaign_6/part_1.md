@@ -62,5 +62,5 @@
 
 ### Closing Titles
 
-* (Athlete) Wires: Nethza
+* (Athlete) Wires: Riglan (Carrying Nethza)
 * (Kishi Bashi) In Fantasia: World (Shadowfell)
