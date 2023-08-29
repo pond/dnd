@@ -39,7 +39,7 @@
 * (Expanse Season 4) Rest In Peace Brother: Sneaking Through Destruction
 * (Stargate Conflict) No Man's Land: Oketra's Temple (Battle At The Archive)
 * (Phatom Of Theatre) Untouchable Love: "I Promise We'll Come Back For You. We're Leaving Nobody Behind."
-* (Dream Of The Red Turtle): Jungle And Marsh; A Yuan-Ti Shrine On Amonkhet
+* (Dream Of The Red Turtle) The Tsunami: Jungle And Marsh; A Yuan-Ti Shrine On Amonkhet
 * (Genshin Stellar) Wishes Unspoken: Temple Of Hazaret
 * (Shadow Of The Colossus) Lakeside: Walking Under The Gate; The Crematorium
 * (Dragon Age: Origins) Ferelden At War: Trusting The Amonkhet Yuan-Ti / That Escalated Quickly
