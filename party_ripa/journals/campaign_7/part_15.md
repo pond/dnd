@@ -82,7 +82,7 @@ The Aasimar, Carant, makes it over. "Well done. I recall maybe conversation of m
 
 Penny counters with, "What does the Order value? We have some currency of course, gems, art items. And the head itself, which has, for people wit the right skill, a wealth of opportunity in its teeth alone, if not more."
 
-Arturo meanwhile starts a long bluster about how we only took a small amount, plenty more in the hoard if they go to it; Thorin joins in; Snark roll (!) - persuasion - 26. He looks almost ashamed of his presumption and retreats, but graciously; Penny does though say that we don't have skills to deal with the head. Is anyone here skilled? The "Roast the head!" call starts back up! Well - at least that's taken care of.
+Arturo meanwhile starts a long bluster about how we only took a small amount, plenty more in the hoard if they go to it; Thorin joins in; Snark roll (!) - persuasion - 26. He looks almost ashamed of his presumption and retreats, but graciously; Penny does though say that we don't have skills to deal with the head. Is anyone here skilled? The "Roast the head!" call starts back up, and that's enough to persuade Carant that it should be dealt with properly. The teeth alone should be useful, if nothing else. Well - at least that's taken care of.
 
 Arturo tries to see if anyone's keen to get back to the Mere and skin the dragon - the scales could be useful. But people are too drunk; maybe he'll try again tomorrow.
 
@@ -176,9 +176,9 @@ We regather.
 
 * Thay embassy in Waterdeep - we don't know enough to even know what questions to ask.
 * Underdark - vast and we lack equipment and skills to navigate it right now.
-* Seer - our Vallin may be different, or not; we can ask the seer to find out.
+* Seer - our Vallin may be different, e.g. an impostor or even an entirely different person, or could somehow be this same individual - either way, we can ask the seer to find out!
 
-Looks like the Seer, but via Neverwinter. We can trade our stuff, get the armour made and plan out how to get to this portal town. The Helm can teleport us, but we need some focus for the destination.
+Looks like the Seer, then, but via Neverwinter. We can trade our stuff, get the armour made and plan out how to get to this portal town. The Helm can teleport us, but we need some focus for the destination.
 
 We're too tired for that now. Back to the tavern, long rest... But first...
 
