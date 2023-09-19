@@ -293,22 +293,3 @@ It takes a while to find the hoard, but it's really just a matter of being metho
 * **A Helm of Teleportation**
 
 (End of part 14)
-
-
-
-
-## Additional notes
-
-Clues:
-
-* Lady Velindra Shadowmantle
-* Elf, golden eyes, cursed the dancer at the Beached Leviathan
-* "Aura of decay" about her - probably a lich - we probably have her phylactory!
-* Doesn't like New Neverwinter; probably not got city's bests interest at heart
-* Still political but ascended "above office" via various means.
-* In the pocket of wealth families.
-
-Obligations:
-
-* Return the Orcish tablet to that circle somehow
-* Visit Forlorn Keep (crow people).

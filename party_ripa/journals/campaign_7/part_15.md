@@ -134,7 +134,7 @@ Querria apologises for seeming aloof - she didn't want to play her hand with peo
 
 For sure!
 
-"One is out far to the East - into the desert. There is a portal there that will take you to her. She is a seer of Savras. She is often referred to as the Oracle Of Savras. But there is another entrance, far to the South - easier to get to perhaps - a Prophet's Outpost. A town used for pilgrimages, south of Baldur's Gate, just a little bit further than Candlekeep but before the kingdom of Amh. There's an oasis with a library town which holds a temple to the All-Seeing Eye with a portal that takes you to her. She doesn't exist 'here' - she exists somewhere that her visions aren't clouded by the mundane things of everyday life."
+"One is out far to the East - into the desert. There is a portal there that will take you to her. She is a seer of Savras. She is often referred to as the Oracle Of Savras. But there is another entrance, far to the South - easier to get to perhaps - a Prophet's Outpost. A town used for pilgrimages, south of Baldur's Gate, just a little bit further than Candlekeep but before the kingdom of Amn. There's an oasis with a library town which holds a temple to the All-Seeing Eye with a portal that takes you to her. She doesn't exist 'here' - she exists somewhere that her visions aren't clouded by the mundane things of everyday life."
 
 There's more. "I don't know that this is the biggest, most pressing thing! This lich that you speak of - the reason we're quite confident that they're not from another plane is because we believe that this particular lich - especially if you think that you think they're female - was tied to Neverwinter. We think she has connections to another force; another pretty evil force, that's seeped into the Sword Coast of late. I can't really tell you more about this as we've only just covered it more ourselves. **I urge you to go to Waterdeep. There's a recent embassy, since the war, for this thoroughly evil force - I don't understand how it happened or why it was permitted - but this lich has ties to the Thay.** We think this all has something to do with the rip, this tear in the weave - this incursion that we feel. If you would be happy to help us out, we would be glad to have you."
 
@@ -187,8 +187,6 @@ We're too tired for that now. Back to the tavern, long rest... But first...
 * Arturo: Arcana 14. As he's about to jump into bed, he notices small motes of light floating around him. They're a colour that reminds him of the fey wild. They float towards the window and out into the night, whispering his name... "**Arturo. Be careful what path you take. There are many that will lead somewhere without a good end. You are keeping dangerous company! We fear for your safety...**" - but then different voices overlap, disagreeing with each other. This is the first time in a long time he's heard the voices this clearly and loudly.
 
 * Penny: As she comes out of the inn bathroom she sees someone in a hooded cowl at the top of the stairs. The person looks like they're trying to hide from everyone else... She pulls back the hood. **It's Querria!** "Is there somewhere private we can talk?" We find an empty room. "I sense in you much of what we also hold to be sacred. I sense you too are a Watcher. That you guard this realm from others. Am I mistaken?" "You are not mistaken." "You have proven yourself very capable. A person of virtue. Someone with principles that align with ours and clearly not afraid to lay low any threats with extreme prejudice! I am extending an offer to you; an offer to join the Order Of The Guilded Eye. To be a Watcher against the coming darkness. You may choose to keep this to yourself. Your companions need not know - this is your choice. Do not answer now. But think on it." - she hands Penny a small pin, for a cape or cloak, with the Order's symbol. "If you do choose to accept, please wear this with pride. And those in our Order will know." Penny nods, doesn't answer, and heads back to her room. Querria leaves quietly behind.
-
-
 
 ## Day 14 (back to Neverwinter)
 ### 8am
@@ -255,7 +253,7 @@ It takes 2 hours to investigate to find the best places to sell the art objects,
 
 We're nearing the Tower District for Tamyo. It's a tower! A strange entrance, going up onto stairs for a landing, then down again to another door and stairs that snake around the outside of the tower. Painted on the tower are little paintings of eyes that seem to follow us as we walk around; and as we reach the door in the tower, which is closed; we knock.
 
-After a pause, the door is yanked abruptly open and there stands a surprised gnome! Tamyo introduces herself. "Wait. How did you avoid my security system?! It gives me a chance to assess people and I decide whether or not to open the door! Well, you might as well come in..."
+After a pause, the door is yanked abruptly open and there stands a surprised gnome! "Wait. How did you avoid my security system?! It gives me a chance to assess people and I decide whether or not to open the door! Well, you might as well come in..." - and Tamyo introduces herself.
 
 Arturo remembers that our amulets protect us from any magical scrying, and points that out. Tamyo relaxes a bit at this. He then explains that we come here via recommendation of Hela. They get into a conversation. He asks about a Pearl Of Power (D20 roll -> 15), or maybe anything that might make him a bit more hardy? She says we're in luck; she has an empty Pearl - colloquially so; this is actually an amethyst set into a ring. 250gp. We all agree that this is a good idea! Then there's the question of anything else... "I have an amazing thing for you here! It's one of my favourite things to enchant" - she pulls out a beautiful, shimmering black cloak, with two long tassels ending in weird pods with sharp spikes on them. Arturo Arcana 15; he's not seen this in action but he's heard of them. "Let me show you what it does. It's currently attuned to me."
 
@@ -266,6 +264,8 @@ We "um" and "ah", so she sees that and shows us another option. Again, a cloak; 
 Arturo realises he wants the pearl most of all - but that fills his attunements. Thorin figures he'd like a cloak, though; so Arturo tries to bargain. Penny pitches in to help too. Arturo persuasion 26... She drops the 850gp to 775gp for the two. Great!
 
 * We'll hold there to give Francesc a chance!
+* Penny might want to get something to help with Darkvision?
+* Put on the new armour *after* next long rest
 * Note that **day 42** would have the Neverwinter armour ready to go.
 
 (End of part 15)
