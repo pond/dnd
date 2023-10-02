@@ -144,7 +144,16 @@ We're looking for info on stone giants, settlements, forges... Investigation: Pe
 
 Thorin thinks about cross-referencing our "pre-marsh" Mere of Dead Men map vs all the giant artefacts we found. It seems there must be something there - Thorin investigates more, with Francesc's help. Investigation: Only 8 sadly, even with Advantage. We might have to pass that onto Tamra.
 
-Arturo wonders if someone here might be able to translate our Giant books. He asks around to see if anyone in Candlekeep can help. We learn that the proprietor of the smithy is fluent in Giant - a Gold Shield dwarf who knows a lot about giant runes. We might be able to convince him to help!
+Arturo wonders if someone here might be able to translate our Giant books. Francesc spoke enough Giant to get the gist of them. They are two separate books:
+
+* One is "Dian Castra's Saga" opens with a long, rather dull (!) poem; it tells a mythic history of Giant kind and how Dian Castra, apparently more or less elevated to Goddess of the Giants, tricked their creator God (kind of) into granting her divinity; chronicles the downfall of the society before she did this.
+* It lays out the caste system - but the whole book is in poem - so it can be a bit lengthy. Giants prize skill; the best crafter, best smith amongst fire giants is elevated to the top of their caste. The leader would be the best smith.
+* Within each caste, the greatest of a lower caste is less than the lowest of the next caste above. Hill giants are below stone giants, always.
+
+* The other book is written in some kind code.
+* Talks about three opposing philosophies in Giant life; we're not sure how much is true; talks about worlds and realms.
+
+He asks around to see if anyone in Candlekeep can help. We learn that the proprietor of the smithy is fluent in Giant - a Gold Shield dwarf who knows a lot about giant runes. We might be able to convince him to help!
 
 Perhaps that is our next port of call.
 
