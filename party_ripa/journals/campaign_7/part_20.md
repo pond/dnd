@@ -177,7 +177,7 @@ Everyone's exhausted, and head off to bed.
 
 ### Day 18
 
-That morning, a decision is made by the Candlekeep staff that ot's just too hard to recover the Barn Door. Instead, carts are sent out - it's an hour's ride or so - to start collecting books before wards are removed to "disconnect" that tower from the library. **Then, to our surprise, we're handed a hastily written deed for the Barn Door to use and look after on behalf of Candlekeep.**
+That morning, a decision is made by the Candlekeep staff that it's just too hard to recover the Barn Door. Instead, carts are sent out - it's an hour's ride or so - to start collecting books before wards are removed to "disconnect" that tower from the library. **Then, to our surprise, we're handed a hastily written deed for the Barn Door to use and look after on behalf of Candlekeep.**
 
 We own a tower!
 
