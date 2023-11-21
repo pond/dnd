@@ -50,7 +50,7 @@ We believe the find of this book in the library was significant. We make a copy 
 
 We can't teleport to Candlekeep. We figure we'll ask the Amnian traders about the nearest towns - maybe that'll be enough; maybe they have something *from* such a town that we could use for the teleport. So, at the Guild, we ask; and they ask around; fairly thorough checking within the group; basically, no. They're unremarkable and nobody can give us enough to even try a high-risk teleport.
 
-It takes 3 days by caravan to get there, we're told. It seems that not only don't we have any idea where or if this "mystery town" might be; but it might not even exist.
+It takes 5-6 days by caravan to get there, we're told. It seems that not only don't we have any idea where or if this "mystery town" might be; but it might not even exist.
 
 Thorin wants to risk it. He got a good description of a town, unremarkable though it might be, and wants to try to teleport. He has 3 charges and can bring us back to our lodgings via the room key. We need a place to do this.
 
