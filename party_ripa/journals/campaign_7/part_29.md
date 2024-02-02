@@ -55,7 +55,7 @@ This is a trader, on his way back to somewhere called **Gracklstugh**. An addres
 
 Penny's wrestling with the fact that we seem to have just straight-up murdered an innocent trader.
 
-We have to ask questions, so Penny puts in a few HP to wake him up. He's paniced and thrashes around. Penny tries to calm him down, apologise, it can't be fixed, and so-on, he clearly thinks we're bad people (we are!) - persuasion 26 - but for all that, he'll at least talk. *He* doesn't want to die and suspects we'll kill him if he doesn't cooperate.
+We have to ask questions, so Penny puts in a few HP to wake him up. He's panicked and thrashes around. Penny tries to calm him down, apologise, it can't be fixed, and so-on, he clearly thinks we're bad people (we are!) - persuasion 26 - but for all that, he'll at least talk. *He* doesn't want to die and suspects we'll kill him if he doesn't cooperate.
 
 * Has he heard of strange stone tablets, two in particular, found by Drow hunting parties and brought down along with prey they captured - **no knowledge at all**. We'd be better off asking Drow about Drow affairs! His only contact with Drow is avoiding them, getting into unwanted fights from them, or occasionally in controlled areas of Darklake District (on the shorts of The Darklake) there are controlled inns and taverns where Drow are allowed.
 
