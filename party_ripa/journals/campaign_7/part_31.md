@@ -4,7 +4,7 @@
 
 We are camping a safe distance from the shores of the great underground lake. Across it, likes our target - the city of **Gracklstugh**. We intend to cross the water tomorrow.
 
-Perception, disadv without darkvision:
+Perception, at disadvantage for those without darkvision:
 
 * Arturo (disadv) 15
 * Penny (disadv) 4!
