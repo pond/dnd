@@ -1,5 +1,5 @@
 # RIPA: Part 27
-## Session 27 (2021-01-16)
+## Session 27 (2024-01-16)
 ### Day 27, late, at the near-Neverwinter deforestation front lines
 
 We're up a tree, looking at the heavily deforested - razed, burned - forest beyond, with a fortified encampment of sorts protecting the loggers and other people responsible. Thorin has seen are furrows criss-crossing the ground in most recently cleared areas, and mounds of earth; we realise that the logging is just a ruse - really, **they're looking for something**. We don't know what yet.

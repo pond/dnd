@@ -1,5 +1,5 @@
 # RIPA: Part 30
-## Session 30 (2021-02-13)
+## Session 30 (2024-02-13)
 ### Underdark, stopped at the first waypoint on the way to Gracklstugh
 
 Watch is set.

@@ -1,5 +1,5 @@
 # RIPA: Part 29
-## Session 29 (2021-01-30)
+## Session 29 (2024-01-30)
 ### Underdark, Drow watchtower
 
 We have battled and defeated Drow in a watchtower, but uncovered disturbing evidence indicating that at least two of the tablets of interest to Velindra Shadowmantle are down here somewhere. This group of Drow are some sort of demon-worshipping cult, hiding themselves it seems from the usual Loth-worshipping Drow (they certainly lied about their religious allegiances to us!).

@@ -1,5 +1,5 @@
 # RIPA: Part 28
-## Session 28 (2021-01-23)
+## Session 28 (2024-01-23)
 ### Day 28, Underdark, drow tower
 
 Having literally fallen into the Underdark, we've not done a good job of trying to understand Drow or convince them to help us in any way and, given that it seems they are minded to kill us, we try have the first word on that. Penny has drawn and activated her Sun Blade.
