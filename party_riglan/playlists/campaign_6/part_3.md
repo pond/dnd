@@ -1,12 +1,12 @@
 # The Bright Blue Sky
 
 * https://open.spotify.com/playlist/5b97eVPYxx2Z6tPnPxs1vS
-* This is a placeholder; this section of the campaign is still being played and there are lots of playlist gaps.
 
 ## Campaign Six Part Three
 ### Prologue
 
 * (Our Planet) This Is Our Planet: The Sky Above, The Grass Below, The Trees Around - And A Threat Afar
+* (Ori Will Of The Wisps) The Heart Knows It's Safe: Title Card
 
 ### Chapter One: Detection, Revelation And Hope Anew
 
@@ -22,7 +22,7 @@
 ### Chapter Two: Alliances
 
 * (Ori Will Of The Wisps) A Keepsake Trom The Past: Meeting A Very Old Friend
-* (Interstellar) Cornfield Chase: Four Strange Ships - Race To The Waterbaron
+* (Interstellar) Cornfield Chase: Four Strange Ships - Race The Courier To The Waterbaron
 * (Anthem) Haluk's Wisdom: Ilithylia's News; The Split Soul, Stored; Course Projection To Deepgarden Keep
 * (Assassin's Creed Valhalla) Leofirth's Honor: Attack Of The Drowned
 * (Ori Will Of The Wisps) Main Theme: The Stronger Alliance, Forged By Battle
@@ -52,5 +52,5 @@
 
 ### Closing Titles
 
-* (Talking Heads) Road To Nowhere: Riglan (Entering The Desert)
-* (Bjork) New World: World (Of Opportunities)
+* (Talking Heads) Road To Nowhere: Maireagh (Entering The Desert)
+* (Miracle Of Sound) Soul Of Sand: World

@@ -6,6 +6,7 @@
 ### Prologue
 
 * (The Promised Neverland) Isabella's Lullaby: Nethza Awake
+* (Ori Will Of The Wisps) The Heart Knows It's Safe: Title Card
 
 ### Chapter One: The Last Days
 
@@ -29,10 +30,10 @@
 
 ### Chapter Three: Into The Grey
 
-* (Earthsea) Losing The Way - The Hunted: Archives Required - Retrying The Tunnel Entrance To The Inner City; Ecrit Escape
+* (David Chappell) Bring Out Your Dead: Archives Required - Retrying The Tunnel Entrance To The Inner City; Ecrit Escape
 * (Chill Hawaii) Flamingos In Paradise: Blue Flamingo
-* (Genshin) Destined Parting: Spirits Surround Her - "Do You Help Or Hinder Her Ascension?" - It Is Her Destiny, But She Will Lose Herself
-* (Genshin) Memories Of Gurabad: The Protector - "Speak To Avacyn."
+* (Genshin Shimmering Voyage) Destined Parting: Spirits Surround Her - "Do You Help Or Hinder Her Ascension?" - It Is Her Destiny, But She Will Lose Herself
+* (Genshin Sand Dunes) Memories Of Gurabad: The Protector - "Speak To Avacyn."
 * (Elder Scrolls Blades) The Elves Of Old: The Grand Archives
 * (Castle In The Sky Symphonic) Robot Soldier / Resurrection Rescue: Vampiric Assault
 
@@ -40,7 +41,7 @@
 
 * (Honour Among Thieves) Swim To The Beach: A Kindness In Every Sense
 * (The Last Guardian) Mirrors: Descendant Of Azalin
-* (Genshin, Sand Dunes) Her Wishes: Avacyn's Gift / A Terrible Choice
+* (Genshin Sand Dunes) Her Wishes: Avacyn's Gift / A Terrible Choice
 * (Interstellar) Flying Drone: Tummil's Manor
 * (Disasterpeace - Hyper Light Fragments) Verdigris: Cloud Flight
 
@@ -51,4 +52,4 @@
 ### Closing Titles
 
 * (Philipp Beesen) Out Of The Grey: Nethza (And The Raven Queen)
-* (IMAScore) Where Do We Go: World (Difficult Choices Of A Campaign)
+* (Miracle Of Sound) Another Day In Paradise (Latin Version): World (Of The Blue Flamingo)
