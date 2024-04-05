@@ -1,5 +1,5 @@
 # RIPA: Part 35
-## Session 35 (2024-03-26)
+## Session 35 (2024-04-02)
 ### Day 35, Neverwinter
 
 We've found our way into a walled garden at one of Valindra Shadowmantle's mansions, in Neverwinter. It seems to have been recently abandoned. A discovery of a vampire tree has led to the largely accidental summoning (by said tree!) of two *ghosts* who can, in theory, answer our questions about where Shadowmantle has gone.
