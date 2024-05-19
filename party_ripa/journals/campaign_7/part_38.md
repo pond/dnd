@@ -1,6 +1,6 @@
 # RIPA: Part 38
-## Day 40, approximate (time of day unknown)
-### Annam's Cradle, giant keep, portal room
+## Session 38 (2024-05-07)
+### Day 40, approximate (time of day unknown), Annam's Cradle, giant keep, portal room
 
 The party has joined Thorin at Annam's Cradle, via teleportation helm, after his dramatic two kilometre controlled fall. We end up seeking the stone tablets in a giant rock pillar, which looked superficially natural but on closer inspection appeared to be artificially constructed but ancient, into which we discovered a giant-scale keep.
 
