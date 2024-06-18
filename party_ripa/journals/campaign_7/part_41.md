@@ -123,6 +123,8 @@ Gertrude is aware of who else is here - and warns us...
 
 We try talking to the bugbear. No response. Head in hands. We unlock the door and Penny goes in to see what's wrong - but it's already dead, from lack of water or food. Gertrude says the cultists are very strange; they need prisoners for sacrifice, yet let them die from neglect.
 
+(Penny meanwhile adds her remaining hands-on 8 points from the pool to help Gertrude; she's only at 48, some *90* short of max, but it's better than nothing...)
+
 Does she know where the ritual is being done? They're taken to a summoning circle to the north of us. North it is!
 
 (End of part 41)
