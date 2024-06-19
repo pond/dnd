@@ -135,9 +135,9 @@ Thorin is able to shout warnings about the deer - polymorphed, don't hurt it! Fr
 
 Francesc manages to grapple and overcome the deer; that's it! We tie it up.
 
-Done. Thorin can't cast Healing Spirit - concentration, he's holding Polymorph! He gets 26. Still pretty terrible - only 44 hp of 98! - but all we can do right now. Penny self-heals via Cure Wounds for 13, swapping Channel Divinity to get that spell slot. She's only got 3 spells left, in total, with no hands-on pool and no other Channel Divinity uses, and no healing potions.
+Done. Thorin can't cast Healing Spirit - concentration, he's holding Polymorph! He gets 26. Still pretty terrible - only 44 hp of 98! - but all we can do right now. Seeing his predicament, Francesc helps with a Healing Spirit which over the course of the next minute helps him with 24hp more. Penny self-heals via Cure Wounds for 13, swapping Channel Divinity to get that spell slot. She's only got 3 spells left, in total, with no hands-on pool and no other Channel Divinity uses, and no healing potions.
 
-Gertrude guards the entrance to the summoning chamber. Arturo checks for hidden doors with Francesc's help, then moves on to start looting! They find no door or similar on the wall. But they still have a suspicion. They figure - spend more time and do it again; another minute goes by. This time Francesc's investigation - albeit with a luck point! - is 25.
+Gertrude guards the entrance to the summoning chamber. Arturo checks for hidden doors with Francesc's help, intending to then move onto looting! They spend a minute or so but find no door or similar on the wall... But they still have a suspicion. They figure - spend more time and do it again; another minute goes by. This time Francesc's investigation - albeit with a luck point! - is 25.
 
 Arturo was right!
 
