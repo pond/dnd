@@ -1,5 +1,5 @@
 # RIPA: Part 43
-## Session 43 (2024-07-0)
+## Session 43 (2024-07-02)
 ### Day 43, Web's Edge
 
 (As aside we realise we have been in error on Francesc's abilities - Hunters Mark and Favoured Foe cannot stack, as both require the equivalent of spell concentration. The table agrees to play RAW from this point on).
