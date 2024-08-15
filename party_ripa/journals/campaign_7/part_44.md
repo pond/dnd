@@ -118,7 +118,14 @@ We reconvene. Before we speak, Penny holds up a hand. "We have anti-scrying. But
 
 ### Bastion turn
 
-(...deferred for next session...)
+Bastion turn:
+
+* The red dragon scale shield is ready; Penny and Thorin discuss it, and Thorin will take it for now
+* A scroll of Remove Curse
+* Arturo gets the Identify spell from his arcane study
+* Thorin gets a "free" Potion of Healing out of the garden and a Greater from the greenhouse
+* He also commissions a Potion of Greater Healing
+* Penny gets pair of Sending Stones from the Sacristy; 200gp; but they only last 7 days
 
 At the bastion, we offer Gertrude a room... A stable, or we could add an outbuilding, and so-on! She's welcome to stay as long as she wants. She agrees, and says she'll probably stay until we get back.
 
