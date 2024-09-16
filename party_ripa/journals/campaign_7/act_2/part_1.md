@@ -14,19 +14,17 @@ All of this is, at least, what we *would* surmise if we could recall our prior l
 
 
 
-## Outlands day 1 - when we meet again
-### Initiative rolls
+## Outlands day 1
+### Meeting again
+
+Initiative rolls for narrative:
 
 * Penny 23
 * Francesc 22
 * Arturo 15
 * Thorin 14
 
-
-
-### Penny
-
-Penny sees a wide expanse of landscape, a plain; soft clouds; distant trees. Penny has been guided by the term "Spireward" - towards the hub, where Sigil can be reached. Rimward is circumferential. Penny has been headed Spireward for a while. It seems closer now but it's been a long time, and not as much closer as she'd hope! The floating torus of Sigil is clearer though, lit by the sort-of-day light, but mostly invisible in the sort-of-night.
+Penny wanders the Outlands, but not without purpose. She sees a wide expanse of landscape, a plain; soft clouds; distant trees. Penny has been guided by the term "Spireward" - towards the hub, where Sigil can be reached. Rimward is circumferential. Penny has been headed Spireward for a while. It seems closer now but it's been a long time, and not as much closer as she'd hope! The floating torus of Sigil is clearer though, lit by the sort-of-day light, but mostly invisible in the sort-of-night.
 
 On very clear days, she can almost make out - very faintly above - the "other world" in the sky. At other times, it seems more like her imagination.
 
@@ -114,6 +112,10 @@ Penny asks if Arturo wants to join us going - "there" (points to Sigil). He says
 
 Thorin is close now; insight, 25. The group isn't behaving the way he remembers. Instead of excitement about the "band being back together", he gets a bit concerned. The behaviour is odd. He keeps going anyway.
 
+
+
+### Arturo's story
+
 Arturo starts talking. He came to being, somehow. Falling in an endless wind; a cavern, with no end. He lost track of time - weeks, months, years?! He then spotted some kind of exit, but fell right past it. "But I found that after 100,000 breaths, I would pass it again. And so I had a moment when I could do something. It turns out I have this incredible magic power, to make the sun, which it seems not everyone can do? Perhaps I'm a better sort of person? I might even have willed myself into being. I did see other things; sometimes a face would whiz past, sometimes with a body, some tried to speak but in the wind you couldn't make it out. But I was the only one who had their faculties and I reached the exit. I could cast a spell, something amazing happening every time; occasionally, this inclded me moving slightly to the side. So I focused on that and, bit by bit, I got to the exit, in cycles of 100,000 breaths."
 
 He ended up in the Outlands. Locals were so impressed by his magic powers that they offered him clothing and food.
@@ -137,6 +139,10 @@ Thorin asks if Vallin saved Frances; "No, Velindra". She explains a bit. Penny d
 > **So, this is death.**
 
 ...but the name Vecna does not register with Arturo. He remembers *nothing*. Thorin inspects Arturo - medicine check 24. No evidence of any healing procedures, physical trauma, or other issues. Nothing _physical_ anyway.
+
+
+
+### Into the tavern
 
 The house jolts, as it takes a sharp turn to the left, leaning. DEX saves; Arturo and Penny don't catch themselves in time. We fall. As Arturo falls, he loses concentration on the fly spell and we both fall! Fortunately, we do stay on the roof; we're prone, but sliding down. Penny shouts, "I think we should fall off the roof now and carry on, on foot" but Arturo disagrees and says we should check out the lodgings. Hanging on by fingernails, now, Penny watches as Arturo demonstrates how to get into the room. Penny ATHL 17, she manages to get in there too.
 
@@ -208,7 +214,7 @@ While we wait and drink, we tell our stories. Arturo told his; D6 -> yields orde
 
 
 
-### Francesc
+### Francesc's story
 
 The place was the *complete* opposite of a natural forest. Very ordered, very structured. Strange creatures. All round, or triangles, or boxes. She couldn't remember a thing on landing other than the name of Velindra Shadowmantle - but didn't even know why. There was a connection to the worn bow she carried; she was clearly well travelled.
 
@@ -230,7 +236,7 @@ Francesc definitely feels like she could've distracted Vecna. The anger includes
 
 
 
-### Thorin
+### Thorin's story
 
 Vallin helped Thorin escape. She explained a lot, in a brief flash of visions. He knew Toril was fully lost, but like the rest of us, didn't remember that at first.
 
@@ -248,7 +254,7 @@ The spire called him.
 
 
 
-### Penny (pre-game full text - in-game recital was heavily shortened)
+### Penny's story (pre-game full text - in-game recital was heavily shortened)
 
 As already mentioned, at the moment of Vecna's apparent victory, Penny believes that she died.
 
