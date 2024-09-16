@@ -354,15 +354,17 @@ The fact of the matter is, whatever that other plane was about, Penny feels rene
 
 * Sigil is - *that* way. It looks like a long way, but she is told by people in town that "distance in the Outlands can be deceptive" - and isn't able to get much of an explanation beyond that. In any case, she has no sending spells, only short range messages. She can't see too far, can't cast spells for helpers or similar, but *she has an orb*. She apologises to Meliki (!) and swaps her amulet attunement for the orb that night. In so doing, she realises in surprise that she had ended up disconnected from all her magic items, except that amulet.
 
+* So focused is Penny on trying to understand what's happening and how to rejoin her friends (if they live), she never enquires about simple things. The only reason she even ultimately remembers the name of her inn is because the sign hangs above the front door that she has to walk through! **It never even occurs to her to ask the name of the town.**
+
 * She vows that every morning thereafter, she will use the orb to try and scry on her friends. Always starts with Arturo. If anyone's smart enough to get here, it'll be him, she thinks; and he *might* be smart enough to realise that if we are to find each other, amulets that prevent detection are unhelpful!
+
+She leaves the town, heading directly towards the spire, travelling under now-familiar awnings and market stalls until at the town's edge, then forwards, into the land beyond. Eyes forward; focus on the future, not the past.
 
 
 
 ### Back at the tavern
 
-People have been listening to our stories. When Penny starts to describe the town she was at, people recognise parts.
-
-**She was at Trade Gate to start with!**
+People have been listening to our stories. When Penny starts to describe the town she was at, people recognise parts. **She was at Trade Gate to start with!**
 
 Not so smart after all.
 
