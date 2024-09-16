@@ -12,6 +12,8 @@ We have no idea in detail of Vecna's actions anywhere other than the events we w
 
 All of this is, at least, what we *would* surmise if we could recall our prior lives! Instead, we remember only selective things; names, abilities... A vague sense of loss.
 
+Weeks, perhaps months, pass.
+
 
 
 ## Outlands day 1
