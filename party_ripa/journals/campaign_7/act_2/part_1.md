@@ -411,7 +411,7 @@ Watch.
 
 
 
-## Sigil day 2
+## Outlands day 2
 
 In the morning, Thorin asks Arturo what he wants to do. The wind thing... He's a bit triggered. And does he still want to go to Trade Gate? He says he feels personally wronged by Vecna. He's worried about the Wind Walk spell, so - mostly really just for colour and reassurance, but with _some_ merit - Penny casts Aid on him before we use Wind Walk and will do so each day we continue this travel. She bolsters Francesc and Thorin too, since the magic allows for it, and there's no point wasting it.
 
