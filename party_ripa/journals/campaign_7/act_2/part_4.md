@@ -22,7 +22,7 @@ Our angle is that the Helm lets us get directly to the location. The Hadozi argu
 
 OK, so, the Hadozi say they'll come with us to where the helm takes us. They want *some* assurance! Some kind of exchange - something to guarantee we won't just leave them stranded. *Then* they'll agree to 50:50 between their group and ours. Arturo makes up something about needing a totem to get back places... 28 deception... They shake on it. But we *must* give them the idol and we'll get the sword back, so we can return it to the Githyanki. We have to wait for that until ready for departure, to ensure nobody cheats.
 
-Meanwhile, Penny is talking to the Githyanki. He can't help with navigation, it'd be more physical stuff; but she should talk to a navigator. She seeks out the Arrow navigator and they explain as best they can that the understanding of location and relative position just sort of "happens". It'll be enough to visit with the helm and come back, then describe what we _understood_ inately.
+Meanwhile, Penny is talking to the Githyanki. He can't help with navigation, it'd be more physical stuff; but she should talk to a navigator. She seeks out the Arrow navigator and they explain as best they can that the understanding of location and relative position just sort of "happens". It'll be enough to visit with the helm and come back, then describe what we _understood_ innately.
 
 Later, we all regroup. Penny learns about the deal. She's concerned about that; now it's "god first, ship next". And time spent "protecting" the Hadozi. We'll have to be very careful with teleport charges. Thorin argues that he wants to use the necklace first anyway, as the idol has been separated from the god for years; certainly not within 6 months. Well that's OK, but - we'll have to make sure the Hadozi don't freak out when we land on the deck of the cutthroats!
 
@@ -86,7 +86,7 @@ Penny clambers around to the cockpit window where the Hadozi were looking and ge
 * Francesc 16 - all OK above
 * Penny 13 - surprised but recovers after some clumsy movements
 
-We are beckoned inside and squeeze inside - it's a tight fit with all of us in there! "All right" say the Hadozi. "WHat now?" - we need something from the ship. Penny asks the captain what might "belong" in this ship. "Look in the tool box!" There's something the Hadozi say is called a "wrench". We take that, to use as the helm focus to return. Penny shouts up, "I don't know how long it'll take... Hopefully not long? Not even sure how time works here!"
+We are beckoned inside and squeeze inside - it's a tight fit with all of us in there! "All right" say the Hadozi. "What now?" - we need something from the ship. Penny asks the captain what might "belong" in this ship. "Look in the tool box!" There's something the Hadozi say is called a "wrench". We take that, to use as the helm focus to return. Penny shouts up, "I don't know how long it'll take... Hopefully not long? Not even sure how time works here!"
 
 Arturo meanwhile is sneaking in a screwdriver, too. He doesn't tell the rest of us. SOH 7! THe Hadozi see immediately. "We ned this too!" he says - "Backup!" It takes some convincing (their insight was nat 20!) but they decide to leave the idol behind, since Penny mentions that the Captain is still here and wouldn't abandon her share.
 
@@ -152,11 +152,11 @@ We get back on track. Thorin elects to stay in giant snake form - that'll be rat
 
 The female of the two spins around. "How dare you utter that name! Who are you? *Who* are you?!" - they look ragged. Haggard, almost; feral. L1 Healing Word on the male doesn't help. So she shouts down, "We are the advance of a rescue party. The ship The Scarlett Arrow is on its way to rescue the crew."
 
-It's super tense. They back away down to the deck of the ruined stern section, which is partly embedded in the god's remains, in a defensive posture, fully armed. Penny suggests Arturo talk them down - she'll assist. He tries to give ship names, descriptions, how we got to know the Githyanki names, the necklace of the other crew member and *that* person's name - all that stuff. ADV persusasion 32!
+It's super tense. They back away down to the deck of the ruined stern section, which is partly embedded in the god's remains, in a defensive posture, fully armed. Penny suggests Arturo talk them down - she'll assist. He tries to give ship names, descriptions, how we got to know the Githyanki names, the necklace of the other crew member and *that* person's name - all that stuff. ADV persuasion 32!
 
 At least this stops them immediately attacking. They take a step back. One lowers their sword. The other even sheathes theirs. "You? *You* have come to rescue us? How did you know we were here? What is the story?"
 
-Arturo tries to bluff. Penny decides to tell the truth. She metions the powerful magic artefact; that's how come we knew they were here. The sword is drawn again!
+Arturo tries to bluff. Penny decides to tell the truth. She mentions the powerful magic artefact; that's how come we knew they were here. The sword is drawn again!
 
 "I knew it. You're just another person who wants the rod. We have defended it with our lives this whole time. You are *not* getting it."
 
@@ -190,7 +190,7 @@ Kycera also looks haggard. As there is to-and-fro, which mostly leads to general
 
 Persuasion ADV 27 from Arturo. Kycera is convinced, though she's not sure why. "I think that they mean well and their hearts are in the right place. That still doesn't help us, because we still - we're never going to get Ilwyn to agree. And Figaro has totally lost his mind! He's locked himself in the state room and he's the only one know hows how to disable the safety field around the front of the ship. Even if we could get there, we would probably get killed trying to in there. And I'm pretty sure Inda is in there" - Penny interjects, "She is in there and she is alive" "- Well we could *try* teleporting in there but it is really risky."
 
-Penny points out that, rod or not, she is honour-bound to rescue the female Githyanki. And of course, we are here to rescue at leasy Kycera too.
+Penny points out that, rod or not, she is honour-bound to rescue the female Githyanki. And of course, we are here to rescue at least Kycera too.
 
 At that point, a haggard-looking elf, a sort of hippie-vibe, hobbles up the stairs. Sees us - Thorin as a giant snake - but immediately speaks in Druidic. So there's an understanding at that point.
 
