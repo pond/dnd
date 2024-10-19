@@ -42,7 +42,7 @@
 * (Kubo) Rebirth: Welcome To The High Forest
 * (Carlos Nuñez) Spanish Dragon: Smoke On The Horizon - Chase The Orcs
 * (Macross) Frontier 2059: Besieged Compound; First Attacks
-* (Solo) Corelia Chase: Assault Of The New Arrivals
+* (Solo) Corellia Chase: Assault Of The New Arrivals
 * (Conan) Night Bird: Brokering A Fragile Truce
 * (Witcher 2) Who Did This To You?: Difficult Town Hall
 * (Solaris) Is This What Everybody Wants: Early Morning Parley - A Stay Of Execution

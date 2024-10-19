@@ -1,6 +1,6 @@
 # Future's End
 
-* https://...tbd...
+* https://open.spotify.com/playlist/ ... TBD ...
 
 ## Campaign Six Part Six
 ### Prologue

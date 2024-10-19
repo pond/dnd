@@ -1,6 +1,6 @@
 # Eye Of The Sun
 
-* https://...tbd...
+* https://open.spotify.com/playlist/ ... TBD ...
 
 ## Campaign Six Part Four
 ### Prologue
