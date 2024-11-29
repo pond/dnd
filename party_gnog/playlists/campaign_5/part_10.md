@@ -48,9 +48,9 @@
 
 * (Genshin) Enchanting Bedtime Stories: Krenko And Ma ("You Know, I Don't Think I've Ever Felt Braver")
 * (Thomas Bergersen) Made Of Water: Final Safehouse Gathering - Taz's Spark Ignites ("...And Love Is Eternal")
-* **TBD**...: Gnog And Ajani
+* (Honour Among Thieves) Remembering You: Gnog And Ajani
 * (Genshin) The City Favoured By Wind: Exchanging Tokens, Saying Goodbyes; Returning Our Key
-* (Once Upon A Time, Space) Orchestre Espace (Thème Principal): Tea With Ma; Rebuilding Nivix ("The Gibo And Bebe School Of Residence"); The Goodbyes At The Guild Meeting
+* (Once Upon A Time, Space) Orchestre Espace (Thème Principal): Tea With Ma; Rebuilding Nivix - "The Gibo And Bebe School Of Residence"; The Goodbyes At The Guild Meeting
 * (Genshin) Memory Of Distant Green Fields: Levinia, Quintorious And Nissa
 * (Doctor Who TV Movie) Farewell: The Last Barrel Atop Skaarg ("It's Kind Of Poetic, Don't You Think? Leaving As We Arrived")
 * (Genshin) Time To Say Farewell: Jace's Future; Niv's Guilt And Hope
@@ -61,15 +61,15 @@
 * (Porco Rossa) Porco E Bella: More Pieces Of Limbo
 * (Into The West) Much To Learn About Each Other: Escort To The Boundary; Guildspace No More - Astral Sea, By The Gods!
 * (The Orville) Laura's Theme: Reunited With Reirdan And Zorbu
-* **TBD**...: Reuinted with Beevi
+* (Princess Kaguya) Autumn Harvest: Reuinted with Beevi
 * (Solo) Lando's Cloest: Meeting Oona
 * (Genshin) A Puff Of Cool Breeze: Reconciliation; Stories Until Bedtime
 * (Genshin) Thoughts And Prayers: The Shrine
 * (Genshin) Surasthana Fantasia: Tearful Goodbyes And Fancy Flying
 * (Genshin) Winding Through Avidya: Toril, At Last; So Suddenly Back At The Tavern
-* **TBD**...: Cedric Is Here
+* (White Witch) Mummy's Tummy: Cedric Is Here
 * (Genshin) Those Lucid Dreams: Helm's Hall - "I Hope That When My Time Comes, We Might Meet Again"
-* **TBD**...: Fly Above Mount Waterdeep
+* (Princess Kaguya) The Procession Of Celestial Beings II: Fly Above Mount Waterdeep
 * (The Last Guardian) Homeward: Our Little House At Duskhollow
 * (Halo 3) Choose Wisely: Granny
 * (Cocoon) First Tears: Gnog And Eliastra
@@ -83,5 +83,5 @@
 ### Closing Titles
 
 * (Kishi Bashi) Penny Rabbit And Summer Bear: Our Family
-* (Watership Down) My Name Is Hazel: Gnog's Death
+* (Watership Down) My Name Is Hazel: The End Of Gnog's Journey
 * (Old Gods Of Asgard) Balance Slays The Demon: World / D&D

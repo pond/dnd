@@ -12,7 +12,7 @@
 * (Horizon Zero Down) Aloy's Theme: In Search Of Wave Echo Cave
 * (Ori Blind Forest) Approaching the End: A Terrible Discovery
 * (Ori Will Of The Wisps) Shriek: The Bat
-* (Battle Beyond The Stars) Malmori Rear Guard: The Ghouls, The Jelly, The Brave Spider And The Clumsy Fish (Finding The Skeleton)
+* (Battle Beyond The Stars) First Fight (AKA LP - Malmori Rear Guard): The Ghouls, The Jelly, The Brave Spider And The Clumsy Fish (Finding The Skeleton)
 * (Crisis 2) Times Square Evacuation: The Black Spider
 * (Witcher 3 Wild Hunt) Spikeroog: Gundren And Nundro Reunited - Remembrance Of Tharden
 
@@ -20,10 +20,10 @@
 
 * (Ori Will Of The Wisps) Howl: Battle The Scull
 * (Waterworld) The Bubble: A Chat With A Spectator; Mormesk's Invitation
-* (Battle Beyond The Stars) Nanelia's Capture: Mormesk's Attack
+* (Battle Beyond The Stars) Nanelia's Capture (*not* LP version): Mormesk's Attack
 * (Witcher Season 2) I Believe In You: Spectator Departs; Remaking The Staff
 * (Genshin) Welcome Back My Companion: Saying Goodbyes; Depart For Home
-* (Battle Beyond The Stars) Heading For Sador: Orc Encounter
+* (Battle Beyond The Stars) Another Space Battle (AKA LP - Heading For Sador): Orc Encounter
 * (Death Stranding) Strands: Getting 10%; Tavern - Maireagh's Photo And Memories Of Danain; Riglan's Staff's Dream
 * (Genshin) A Yearning Breeze: Clear Skies Over The Mountains
 

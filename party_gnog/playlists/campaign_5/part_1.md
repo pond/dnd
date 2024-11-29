@@ -5,7 +5,7 @@
 ## Campaign Five Part One
 ### Prologue
 
-* (White Witch) Mummy's Tummy: Back in Duskhollow (Cedric The Horse)
+* (White Witch) The Fairyground: Back in Duskhollow (Cedric The Horse)
 
 ### Opening Titles / Comicon Teaser
 

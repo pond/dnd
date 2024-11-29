@@ -21,7 +21,7 @@
 
 ### Chapter 2: Escalation and displacement
 
-* (Earthsea) Light & Shadow: Refugee Crisis; Corine And Beryk
+* (Earthsea) Light & Shadow (Light And Shadow): Refugee Crisis; Corine And Beryk
 * (Witcher 3) Farewell, Old Friend: Rout Of The Misty Forest
 * (Ori) Calling Out: Gallin's Secret
 * (Genshin) Scattered Amongst The Tides: The Druid And The Ents
@@ -32,7 +32,7 @@
 * (Witcher 3) Eredin, King Of The Hunt: Seeing Red At Daggerford
 * (Erhu's Ghibli Music) Merry-Go-Round Of Life: 50%
 
-### Chapter 3: News from the well
+### Chapter 3: News from the Well
 
 * (Hook) Prologue: All Aboard Again
 * (Dragon Age Inquisition) Return To Skyhold: Reunion Amongst The Clouds

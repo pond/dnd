@@ -10,11 +10,11 @@
 ### Chapter 1: One Hundred
 
 * (Watership Down) That's Our Home: Bad Visions
-* (Into The West) The Path of Old Tradition: ...Now, A Wanderer
+* (Into The West) The Path of Old Tradition: ...Now, A Wanderer...
 * (Ruined King: Inns Of Bilgewater) Pocket's Lookin' Light: Exploring Sungift - Temo And Briony
 * (Genshin) Charge! Fearless Warriors: A Minor Disagreement About Economics - Meeting Danain
 * (War Of The Worlds) Brave New World (Acoustic) - First Road
-* **TBD**...: The Bookshop; Ten Days To Make Money
+* (Macross Frontier) HighSchoolLife: Verrunsgard - Ten Days To Make Money
 * (Crisis 2) One Way In: A Successful Hunt
 * (Joe Hisaishi: Another Piano Stories) Les Aventuriers: The Dark Woods Of The Undead
 * (Journey) Nascence (London Symphony Orchestra): Kyla's Sorrow

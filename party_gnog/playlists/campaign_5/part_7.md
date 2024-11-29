@@ -14,9 +14,9 @@
 ### Chapter 1: Brace for...
 
 * (Genshin) Lingering Memories: Regroup
-* (AC3) A Bitter Truth: Perched Atop New Prahv
+* (Assassin's Creed 3) A Bitter Truth: Perched Atop New Prahv
 * (Genshin) The Comrades' Ambush: First Skirmish
-* (AC Revelations Vol II) We Talk Together: Intensive Care
+* (Assassin's Creed Revelations Vol II) We Talk Together: Intensive Care
 * (His Dark Materials) Look To The Stars: Unexpected Izzit Encounter
 * (Genshin) Lost In Sweet Gentle Breezes: Safehouse
 * (Deus Ex HR) LIMB Clinic: Guardians Of The Deep
