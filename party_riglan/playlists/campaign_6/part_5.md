@@ -1,6 +1,6 @@
 # The Assault
 
-* https://...tbd...
+* https://open.spotify.com/playlist/ ... TBD ...
 
 ## Campaign Six Part Five
 ### Prologue

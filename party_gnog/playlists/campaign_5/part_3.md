@@ -19,7 +19,7 @@
 * (Genshin) Never-Ending Performance: The Ill-Advised Foray Into The Warehouse
 * (Honor Of Kings vol 1) The Return Of Kings: Acceptance Of The Gruul
 * (Genshin) Resonant Chant In The Woods: Aurelio And The Carnival Of Wonders
-* (Phantom Of Theatre) Betrayal And Redemption: Intrigue At The Library; "Halt! The four of you are under arrest!"
+* (Phantom Of Theatre) Betrayal And Redemption: Intrigue At The Library; "Halt! The Four Of You Are Under Arrest!"
 * (Silent Running) Tending To Huey: Judgement Day - An Unexpected Orzhov Path Towards Taysa
 * (Genshin) Shogun's Abdication: Accident At The Factory
 * (Stranger Things 1) Agents: Crystals And Coolant - "They're Going To Try Again!"
@@ -53,7 +53,7 @@
 * (Genshin) Endless Echoes: Another Day, Another Warehouse
 * (Pink Panther) Royal Blue: The 1970s Disaster Movie Set Restaurant Is Actually Really Good
 * (Bastard) Encounter: Late-Night Intrigue
-* (Battle Beyond The Stars) Battle Begins: Murder And Sabotage - The Crash
+* (Battle Beyond The Stars) Space Battle (AKA LP - Battle Begins): Murder And Sabotage - The Crash
 * (Genshin) Overnight Dew In The Woods: The Aftermath - Feathers On The Wind ("This Is As Far As I Can Help You")
 
 ### Epilogue

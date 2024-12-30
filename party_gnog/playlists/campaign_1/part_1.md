@@ -32,7 +32,7 @@
 
 ### Chapter 3: A journey home, waylaid
 
-* (Battle Beyond The Stars) Gelt's Death: Of Rage And Regret
+* (Battle Beyond The Stars) Gelt Dies (AKA LP - Gelt's Death): Of Rage And Regret
 * (Blade Runner 2049) Mesa: The Trail; A Harpy's Call
 * (Assassin's Creed 3) What Came Before: Jahia's Story - Once More A Hero
 * (Assassin's Creed 3) Trouble In Town: The Village Of Fricklee Fights

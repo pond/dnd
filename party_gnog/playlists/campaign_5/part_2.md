@@ -46,7 +46,7 @@
 * (Bladerunner 2049) Someone Lived This: Lavinia's Tragedy
 * (Watership Down) Violet's Gone: Time For Tea - We See The Floating Island
 * (Genshin) Seething Animosity: Stampede; "It Feels Like When The Draakhorn Sounded"; Closed Until Further Notice
-* (Genshin) End Of The Feast: Healing With Elias
+* (Genshin) Return To Trueness: Healing With Elias
 * (Stranger Things 1) One Blink For Yes: An Alliance With Aurelio; The Cheap Rental
 * (Genshin) Sieh an, mein Sommernachtgarten!: Gnog's Night On The Town
 

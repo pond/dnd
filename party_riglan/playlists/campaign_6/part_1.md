@@ -5,11 +5,11 @@
 ## Campaign Six Part One
 ### Prologue
 
-* (Princess Mononoke) The Legend Of Ashitaka: A Spider's Eye - Return To The Keep
+* (Princess Mononoke) The Legend Of Ashitaka: A Spider's Eye - Return To The Keep / Title Card
 
 ### Chapter One: As Shadows Fall
 
-* (Genshin) Midday Prospects: Riglan Returns To Goldenfields
+* (Genshin) Whispering Seabreeze: Riglan Returns To Goldenfields
 * (Honor Of Kings Alsahraa) Stepping On The Jade, Flying Above The Eaves: School Opening Day
 * (Honour Among Thieves) Reunited With Kira: Temo And Nethza's Joy (Montage)
 * (Dragon Age Inquisition) Nightmare's End: Nethza Hasn't Come Home - Temo Sees The Fracture
@@ -58,9 +58,10 @@
 
 ### Epilogue
 
+* **OR** THE ABOVE AND THE BELOW COMBINED: SHADOWS IN THE SAND?
 * (Anthem) Valour: Flee - Orin's Rescue
 
 ### Closing Titles
 
-* (Athlete) Wires: Riglan (Carrying Nethza)
+* (Starsailor) Where The Wild Things Grow: Riglan (Carrying Nethza)
 * (Kishi Bashi) In Fantasia: World (Shadowfell)
