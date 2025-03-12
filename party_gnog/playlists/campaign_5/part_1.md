@@ -9,7 +9,7 @@
 
 ### Opening Titles / Comicon Teaser
 
-* (Brandon K Verret - Legend) Prologue: Welcome Back (Campaign One & Two Location Beauty Shots)
+* (Brandon K Verret - Legend) Unicorn Theme Reprise: Welcome Back (Campaign One & Two Location Beauty Shots)
 
 ### Chapter 1: Private investigations
 

@@ -137,14 +137,14 @@ The construct appears to comply. It says its *name* is **Spike**. The Capital is
 Arturo is trying to figure out where dangerous actors are by asking some of these questions. The "heart of the nation" is some 20 days away. We'd never get past the perimeter. We contemplate use of the Helm but can't figure out a reliable way to get there and besides, it sounds like certain death!
 
 * This is just one unit out of Glaive's platoon
-* He has been tasked with securing this area and figuring out how to rid Lladro and the surrounding parts of all intruders who have encamped in the area
-* **Lladro cannot be reached in person due to a very strange effect around him (though he is not alive) - people who try to approach can get thrown great distances**
-* Lladro teleported *into a mountain* during the Cataclysm; they are fused
-* The Lord of Blades really wants to secure Lladro and recover "the technology" therein
+* He has been tasked with securing this area and figuring out how to rid Llandro and the surrounding parts of all intruders who have encamped in the area
+* **Llandro cannot be reached in person due to a very strange effect around him (though he is not alive) - people who try to approach can get thrown great distances**
+* Llandro teleported *into a mountain* during the Cataclysm; they are fused
+* The Lord of Blades really wants to secure Llandro and recover "the technology" therein
 
 Arturo asks why peace is not possible; "Nobody can be trusted. None of the five nations can be trusted." "We are not from there." "But you are of the same people. You look like them and act like them. Creatures of flesh cannot be trusted."
 
-Despite this rhetoric, Arturo learns that this isn't a universal view of Warforged - just those that follow the Lord of Blades. Even other Warforged in this area might not hold that viewpoint and, if so, they're either convinced to think in the same terms, or destroyed! We may well be able to get help from them if we're to try and reach the mountain-encased Lladro, within which we are fairly sure is embedded the third rod segment.
+Despite this rhetoric, Arturo learns that this isn't a universal view of Warforged - just those that follow the Lord of Blades. Even other Warforged in this area might not hold that viewpoint and, if so, they're either convinced to think in the same terms, or destroyed! We may well be able to get help from them if we're to try and reach the mountain-encased Llandro, within which we are fairly sure is embedded the third rod segment.
 
 As we have found so often before, our big question is - what next?!
 

@@ -178,7 +178,7 @@ Penny reads about Eberron: The war that created the land we're going into. Our o
   - They are also the ones who developed some of the technology that led to other nations creating **Warforged** - sentient, mechanical beings
   - Francesc asks, "Do you mean Modons?" - no, MUCH bigger! We are shown drawings
   - The capital city nation had created Colossi, 50-100ft tall mechanical siege machines powered by very powerful magic items
-  - They managed to use a rare artefact they discovered, which had been in the Archives, to create a sort of bio-mechanical power source for Lladro, a particularly vast colossus, which was an answer to Cyre's terrible weapon
+  - They managed to use a rare artefact they discovered, which had been in the Archives, to create a sort of bio-mechanical power source for Llandro, a particularly vast colossus, which was an answer to Cyre's terrible weapon
   - They intended to teleport this into Cyre and force a surrender
   - But... And nobody knows exactly what happened... The cataclysm happened.
 

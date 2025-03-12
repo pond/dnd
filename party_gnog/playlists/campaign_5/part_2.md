@@ -31,7 +31,7 @@
 
 * (Macross Frontier) Tally Ho!: An Unexpected Fishing Trip
 * (Genshin) Unpredicted Conspiracy: Star Moth Patrol
-* (Alien) The Landing: Enter Guildspace; Glistening Shards Within; Touchdown At Ridani Station
+* (Alien) The Landing: Enter Guildspace; Glistening Shards Within; Touchdown At Ravnica Station
 * (TRON Legacy) The Son Of Flynn: Wander The Station; Ridani's Pieces Of Limbo; Study The Guilds
 * (Genshin) Caelestinum Finale Termini: Trouble At Clancy's - The Predictable Attack
 * (Lone Echo) Welcome To Kronos II: The Boat To Underground

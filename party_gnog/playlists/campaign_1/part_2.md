@@ -47,7 +47,7 @@
 
 * (Earthsea) Fire Of Life: "They're Still Out There, Somewhere"
 
-### End Credits
+### Closing Titles
 
 * Upside Down: Deni
 * Lovely Day: World

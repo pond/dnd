@@ -1,4 +1,4 @@
-# Beginning
+# In The Beginning
 
 * https://open.spotify.com/playlist/3jG2mhOm1pF8U4ac3Mdu5X
 
@@ -43,7 +43,7 @@
 
 * (Nausicaä) The Distant Days: Eliastra's Cooking
 
-### End Credits
+### Closing Titles
 
 * (Norman Greenbaum) Spirit In The Sky: Garren
 * (The Muppets) I'm Going To Go Back There Someday: World
