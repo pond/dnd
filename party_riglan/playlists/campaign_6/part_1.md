@@ -58,7 +58,6 @@
 
 ### Epilogue
 
-* **OR** THE ABOVE AND THE BELOW COMBINED: SHADOWS IN THE SAND?
 * (Anthem) Valour: Flee - Orin's Rescue
 
 ### Closing Titles
