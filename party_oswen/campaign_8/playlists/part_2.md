@@ -26,7 +26,7 @@
 
 ### Chapter Three: Rampage
 
-* (Honor Of Kings - Chinese New Year 2024) Sun Ce, Dragon Of Protection.: Pincushion And The Carpet / Six Tin Down
+* (Honor Of Kings - Chinese New Year 2024) Sun Ce, Dragon Of Protection: Pincushion And The Carpet / Six Tin Down
 * (Kiki's Delivery Service) Rough-Flying Airship Adventure: Gotta Find Oink / The Mound
 * (Seven Deadly Sins) Young Heroes: Sorry, Wrong Room (Stumbling Upon Sowfoot)
 * (Mr & Mrs Smith) Taxi!: Tin Toys And Boggles At The Loom

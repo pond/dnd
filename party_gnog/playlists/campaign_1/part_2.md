@@ -11,7 +11,7 @@
 
 * (Roger Eno: Voices) Voices: We Dream
 * (Aliens) Going After Newt: Lennithon Attacks!
-* (Battle Beyond The Stars) Cowboy And The Jackers: Gnog's Unexpected Defeat Of Langdedrosa
+* (Battle Beyond The Stars) Cowboy And The Jackers (LP Version): Gnog's Unexpected Defeat Of Langdedrosa
 * (Genshin) Riders of the Wind, Onward: Tasked With Rescue
 * (Ni No Kuni: Wrath Of The White Witch) One Fine Morning: A Rescued Friend, A Growing Tribe
 * (Assassin's Creed Origins) Winds Of Cyrene: Infiltration
@@ -38,7 +38,7 @@
 * (Dragon Age Inquisition) Journey To Skyhold: To A Flying Castle, Astride Wyverns
 * (Princess Mononoke) The Battle In Front Of The Ironworks: "I Didn't Expect To Fight A Carpet Today"
 * (Wrath Of Khan) Battle In The Mutara Nebula: Rezmir's Defeat, Rath Modar's Escape
-* (Battle Beyond The Stars) Shad's Pursuit: "Wait - There Are THREE Of Them?"
+* (Battle Beyond The Stars) Destruction Of Hammerhead (AKA LP - Shad's Pursuit (shorter track)): "Wait - There Are THREE Of Them?"
 * (Aliens) Futile Escape: Rest In Peace, Glazhael The Cloudchaser (May Tiamat Welcome You)
 * (Ori) Restoring The Light, Facing The Dark: Mopping Up In The Courtyard; Did We Save The World Today?
 * (Laputa) A Big Adventure: "I Cannot See Your Future. I Don't Know What That Means."
@@ -47,7 +47,7 @@
 
 * (Earthsea) Fire Of Life: "They're Still Out There, Somewhere"
 
-### End Credits
+### Closing Titles
 
 * Upside Down: Deni
 * Lovely Day: World

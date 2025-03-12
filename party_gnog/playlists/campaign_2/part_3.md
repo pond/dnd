@@ -21,7 +21,7 @@
 ### Chapter 2: Preparations
 
 * (Nausicaa) The Road To The Valley: Downtime
-* (Revelations) Altair and Darim: The War Council
+* (Assassin's Creed Revelations) Altair and Darim: The War Council
 * (Genshin) Hence, Begins The Journey: A Tree For Duskhollow
 * (Marnie) High Tide, Low Tide: Cedric's Hat Of Disguise
 * (Dragon Age Inquisition) Trespasser - Lost Elf Theme: "They Are Your Moon" (Eliastra's Theme); Gnog's True Name; Portal Away

@@ -5,11 +5,11 @@
 ## Campaign Five Part One
 ### Prologue
 
-* (White Witch) Mummy's Tummy: Back in Duskhollow (Cedric The Horse)
+* (White Witch) The Fairyground: Back in Duskhollow (Cedric The Horse)
 
 ### Opening Titles / Comicon Teaser
 
-* (Brandon K Verret - Legend) Prologue: Welcome Back (Campaign One & Two Location Beauty Shots)
+* (Brandon K Verret - Legend) Unicorn Theme Reprise: Welcome Back (Campaign One & Two Location Beauty Shots)
 
 ### Chapter 1: Private investigations
 

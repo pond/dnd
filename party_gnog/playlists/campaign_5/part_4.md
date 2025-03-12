@@ -34,7 +34,7 @@
 
 ### Chapter 3: Ravnica Station
 
-* (TRON Legacy) Arrival: Convincing Ridani To Give The Evacuation Order
+* (TRON Legacy) Arrival: Back On Station - Convincing Ridani To Give The Evacuation Order
 * (Watership Down) Through The Woods: Nervously Transporting Crystals ("There's A Catch. There's Got To Be A Catch!")
 * (Valerian) Reading The Memo: Star Moths At The Gates - Shrike Liftoff - Workshop Destruction
 * (Valerian) Spaceship Chase: Dash For The Dock - Ravica Station Attacked ("Run! Run For Your Lives!") - Fight On The Stardock
@@ -49,4 +49,4 @@
 ### End Titles
 
 * (Leprous: Pitfalls) Observe The Train: The Azorius / Precognition
-* (Adele) Hometown Glory: World
+* (Duncan Sheik) Lost On The Moon: World

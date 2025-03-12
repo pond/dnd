@@ -19,7 +19,7 @@
 * (Fifth Element) Koolen: Somewhere Over The Rainbow
 * (Batman Arkham City) Main Theme: Choas At The Chamber - Gnog's Waking Nightmare
 * (Genshin) Imminent Triumph: Jace
-* (Genshin) End Of The Feast: Four To Black (And Betrayal Afoot)
+* (Genshin) A Shallow Promise: Four Days To Black (And Betrayal Afoot)
 * (Macross Frontier) Prologue F: Successful Disruptor Test; Niv Mizzet At Last!
 * (Fifth Element) Leeloominai: "I Can Hope For Both Of Us"
 

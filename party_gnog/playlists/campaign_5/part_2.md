@@ -31,7 +31,7 @@
 
 * (Macross Frontier) Tally Ho!: An Unexpected Fishing Trip
 * (Genshin) Unpredicted Conspiracy: Star Moth Patrol
-* (Alien) The Landing: Enter Guildspace; Glistening Shards Within; Touchdown At Ridani Station
+* (Alien) The Landing: Enter Guildspace; Glistening Shards Within; Touchdown At Ravnica Station
 * (TRON Legacy) The Son Of Flynn: Wander The Station; Ridani's Pieces Of Limbo; Study The Guilds
 * (Genshin) Caelestinum Finale Termini: Trouble At Clancy's - The Predictable Attack
 * (Lone Echo) Welcome To Kronos II: The Boat To Underground
@@ -46,7 +46,7 @@
 * (Bladerunner 2049) Someone Lived This: Lavinia's Tragedy
 * (Watership Down) Violet's Gone: Time For Tea - We See The Floating Island
 * (Genshin) Seething Animosity: Stampede; "It Feels Like When The Draakhorn Sounded"; Closed Until Further Notice
-* (Genshin) End Of The Feast: Healing With Elias
+* (Genshin) Return To Trueness: Healing With Elias
 * (Stranger Things 1) One Blink For Yes: An Alliance With Aurelio; The Cheap Rental
 * (Genshin) Sieh an, mein Sommernachtgarten!: Gnog's Night On The Town
 
