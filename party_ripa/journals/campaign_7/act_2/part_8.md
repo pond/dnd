@@ -1,5 +1,5 @@
 # RIPA: Act 2 Part 8
-## Session 53 (2024-12-10)
+## Session 54 (2024-12-10)
 ### About 4 miles from Trade Gate, Outlands, Sigil day 7 (maybe)
 
 It took a long time and a lot of effort, but we have acquired the second rod segment and, at least for now, we have a new companion in the second segment's previous protector and courier, Captain Inda. Tagging along are the Daveras trio - Daveras, blink dog Icasa and treant Redbud.

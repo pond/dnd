@@ -1,5 +1,5 @@
 # RIPA: Act 2 Part 11
-## Session 56 (2025-02-04)
+## Session 57 (2025-02-04)
 ### Mournlands, ruined mage's tower, Outlands relative day 10
 
 We met Mercy, leader of a small group of Warforged who want to save, rather than harness, docents - technology that held what they consider to have been souls (as close as the analogy can be drawn) of Colossi. These are held in reverence, instead of being used as now-"dead" mere tools for power amplification, as the Lord Of Blades would have it.

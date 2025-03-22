@@ -1,5 +1,5 @@
 # RIPA: Act 2 Part 13
-## Session 58 (2025-03-11)
+## Session 59 (2025-03-11)
 ### Inside Llandro, Outlands relative day 10 (very late)
 
 We're being pursued by Warforged inside Llandro; we've reached the Bridge.

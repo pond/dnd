@@ -1,5 +1,5 @@
 # RIPA: Act 2 Part 9
-## Session 54 (2025-01-14)
+## Session 55 (2025-01-14)
 ### Eberron (!); Outlands relative day 9 (afternoon there)
 
 After the unexpected meeting with Alustriel and Tasha at our magically-relocated bastion - now stationed about 3 miles out from Trade Gate - we have been given a way onto Eberron. At our request, we were sent to the Mournland, a war-shattered region where both the land and the weave of magic are broken. We believed that the third rod segment was in that area. Close by, though, was a mysterious black portal, which got the better of our curiosity. We ventured through and found the room of a vampiric, but evidently officially sanctioned researcher from the University Of Khorvaire, who was trying to find out more about the Mournland and the cause of its Cataclysm. Their "guard bat" was very helpful!

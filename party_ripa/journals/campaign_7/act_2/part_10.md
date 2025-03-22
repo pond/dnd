@@ -1,5 +1,5 @@
 # RIPA: Act 2 Part 10
-## Session 55 (2025-01-21)
+## Session 56 (2025-01-21)
 ### Eberron - Mournlands, time unsure
 
 We've a Warforged captive called Spike who has told us about how Llandro was teleported *into* a mountain, and that the Lord of Blades - themselves an old Colossus - wants to find the technology within too. We first need a short rest to heal up.

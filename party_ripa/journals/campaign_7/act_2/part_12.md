@@ -1,5 +1,5 @@
 # RIPA: Act 2 Part 12
-## Session 57 (2025-03-04)
+## Session 58 (2025-03-04)
 ### Mournland, in Llandro's Mountain, Outlands relative day 10 (late)
 
 It's been a long day, from finding our way into the mage's tower, battling for the crystal, feeling an angry air elemental and being chased by Warforged, but here we are; inside the mountain, in a network of tunnels and caverns, next to a strange seam of quicksilver which Arturo has just discovered carries the consciousness of Llandro themselves.
