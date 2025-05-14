@@ -176,7 +176,7 @@ Thorin lets go. It's a show of good faith. "Don't run, please."
 
 The child stands; the shield drops. Penny looks confused at not hearing part of what Thorin "heard", but she heard what Thorin said and does not advance. It reaches out its hands and the scrolls levitate to it. They look to the caravan and say, "The chaos beings have found us". The way that's said is strange, as if the *general chaos behind* is a sort of manifestation of a single entity; a being; an enemy; as if they are the opposite of that. Order, not chaos.
 
-Thorin is confused. "Why were you in this carvan?!"
+Thorin is confused. "Why were you in this caravan?!"
 
 "I was being transported to another sanctuary and hiding place. I am being hunted."
 
