@@ -1,5 +1,5 @@
 # RIPA: Act 2 Part 19
-## Session 65 (2022-05-20)
+## Session 65 (2025-05-20)
 ### Athas desert ruins (Outlands relative day 19)
 
 We hide in an encampment made within mostly-buried ruins, within dunes adjacent to the trade route between once-port city Gulg and the capital city, Tyr. We have with us some 30 rescued elves, now furnished with scrappy armour and simple weapons. Present also is the "rescued" Mul child - rumoured to be the child of two Mul, something which is meant to be impossible - who is certainly very powerful, if nothing else. We now suspect that this child had plans to disrupt things at Tyr as they had apparently allowed themselves to be captured deliberately and said we had "ruined" their plan when we freed them.
