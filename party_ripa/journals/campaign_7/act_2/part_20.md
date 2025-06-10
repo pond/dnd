@@ -70,7 +70,7 @@ So, the druids ask; what is our plan to swell the ranks for this resistance? The
 Watch:
 
 * Arturo: 17. It's surprisingly noisy. People having an argument they're trying to keep quiet. Minor altercations on the street - seems to be soldiers harassing people.
-* Thorin: 21. A lot of time to think about what we might do next. The flow of magic around him feels strange. The city is... Lively with nature magic. Trees grow here. But there is a weakness, a frailty. Something saps away their life force.
+* Thorin: 21. A lot of time to think about what we might do next. The flow of magic around him feels strange. The city is... Lively with nature magic. Trees grow here. But there is a weakness, a frailty. Something saps away their life force. 
 * Penny: 7! She's distracted, and half asleep. But she's fully woken by the sound of yelling and banging from downstairs; doors slammed open or shut; sounds of protest.
 
 Penny wakes up the other two. "Trouble". She peeks her head out the door. At the stairs, she sees a group of four guards who've burst into the inn. The Innkeeper is being pinned against a wall and someone else is being restrained; two others seem to be kicking down doors and dragging people out. "We know you're harbouring rebels in here!" she overhears.

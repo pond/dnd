@@ -2,9 +2,9 @@
 ## Session 47 (2024-09-10)
 ### An unknown length of time after the cataclysm, in an unknown location
 
-We are no longer on Torril. One or perhaps many unknown entities rescued us - but we possibly do not remember what happened, or perhaps even realise we were rescued.
+We are no longer on Toril. One or perhaps many unknown entities rescued us - but we possibly do not remember what happened, or perhaps even realise we were rescued.
 
-Some of our party - if we remember! - might believe that all on the world were dead and the world itself perhaps even physically destroyed. Others in our party, even if their memories are completely intact, would not understand what had happened at all, in the craziness and confusion of those last few seconds. In point of fact, as far as our collective recollection would show, Vecna killed all souls on that world who could not escape in time to another plane, though Torril itself is most likely physically intact.
+Some of our party - if we remember! - might believe that all on the world were dead and the world itself perhaps even physically destroyed. Others in our party, even if their memories are completely intact, would not understand what had happened at all, in the craziness and confusion of those last few seconds. In point of fact, as far as our collective recollection would show, Vecna killed all souls on that world who could not escape in time to another plane, though Toril itself is most likely physically intact.
 
 We don't know if other creatures - birds, animals and so-on - survive, what might have become of, say, Undead, or what might have become of anyone living deep below the surface in the Underdark. We only know for sure that Vecna appeared over both Waterdeep and Candlekeep simultaneously, but have good reason to believe he attacked other locations too - because some of us were contacted magically (or perhaps telepathically) by allies, or at least acquaintances, in other places across the world. They told us that all was lost.
 
@@ -336,7 +336,7 @@ The unicorn turns as if to run back down the hill, but as it does so, with a flo
 
 It's a *very long way* away though. Should've been more careful about asking for that door!
 
-And she realises she remembers it all. It happened when the door closed, she thinks? How strange to only recognise it now, several seconds later. And it's not a good feeling. Not good at all. Torril is dead. Her parents, her friends, everyone. Her world is gone. Penny is homeless.
+And she realises she remembers it all. It happened when the door closed, she thinks? How strange to only recognise it now, several seconds later. And it's not a good feeling. Not good at all. Toril is dead. Her parents, her friends, everyone. Her world is gone. Penny is homeless.
 
 That's a *lot*. She might have lost herself in that; be crippled by grief. But while Vecna declared himself a god, she just met another one that she prefers. **And *her* god told her to get on with it. So get on with it she shall!**
 

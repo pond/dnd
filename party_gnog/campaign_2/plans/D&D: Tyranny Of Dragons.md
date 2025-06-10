@@ -8,7 +8,7 @@ Our forces (all numbers approximate)
 |  Giants of Skyreach Castle<br/>(King Blagothkus) | 60 from various clans<br/>8 fire giants for infiltration |
 |  High Forest Elves<br/>(Prince Alagarthas - Knights)<br/>(Syleirosillyrin - First Archer Company)<br/>(Val'Erulial - Second Archer Company) | 500 archers in 2 companies<br/>250 knights to protect archers |
 |  Dwarves<br/>(Captain Hjoldan - Armoured Cavalry)<br/>(Captain Baerdain - Artillery)<br/>(Captain Kathlyl - Shield Maidens)<br/>(Captain Briggit - Hammerfists) | 200 cavalry<br/>200 shield maidens<br/>200 Hammerfists<br/>20 ballistae<br/>10 manganels<br/>8 war towers<br/>100 artillery plus helpers to run these |
-|  Shadar-Kai (Shaowfell)<br/>(Luwarin - Contact)<br/>(Cocerys - Leader) | 500 cavalry (witch knights)<br/>Can portal in and out via Shaowfell at will |
+|  Shadar-Kai (Shadowfell)<br/>(Luwarin - Contact)<br/>(Cocerys - Leader) | 500 cavalry (witch knights)<br/>Can portal in and out via Shadowfell at will |
 |  Order Of The Gauntlet<br/>(Onthar Frume (and Thaneros) - Logistics)<br/>(Idranim - Field Leader Cleric) | 100 paladins<br/>100 clerics<br/>300 knights |
 |  Harpers<br/>(Leosin) | 150 harper argents - very mixed in field<br/>Additional non-combat agents for comms  |
 |  Zentarim<br/>(Jamna and Rian - primary contacts) | 16 assassins (require specific targets) |

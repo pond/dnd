@@ -170,8 +170,8 @@ Then someone runs into that gap. Penny, close behind, has just seen the funniest
 Initiative:
 
 * Penny, 18+4 -> 22
+* Arturo, 22
 * Thorin, 10+2+0 (thrown 20ft, out of aura!) -> 12
-* Francesc 10
-* Arturo 5
+* Francesc, 10
 
 (End of act 2, part 2)

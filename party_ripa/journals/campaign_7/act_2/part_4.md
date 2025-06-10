@@ -148,7 +148,7 @@ Thorin, perception 16. Doesn't seem to be anything else coming. Francesc neither
 
 We get back on track and head for the nearest section of the ship - the stern. The Hadozi aren't sure if they should stick with us or not. They disagree about where to mine and one is sure they'll be attacked! Arturo offers to let the spirit dragon hang around - hope on it and fly back to us if anything is attacked. That does it!
 
-We get back on track. Thorin elects to stay in giant snake form - that'll be rather scary! There's a big "O" ring kind of area that we have to pass through. As Thorin gets through that he feels underneath him. Looking down, he sees - standing astride the strange coral-like mess near the ship - two fierce Githyanki, attacking him with swords... 13 and 11 damage, radiant. Penny shouts down "Oh bugger off, he's with us! We've come to rescue you! And we particularly want to find **Zastra**! Their creche mate **(name)** wants to find them!" - ADV persuasion, 23.
+We get back on track. Thorin elects to stay in giant snake form - that'll be rather scary! There's a big "O" ring kind of area that we have to pass through. As Thorin gets through that he feels underneath him. Looking down, he sees - standing astride the strange coral-like mess near the ship - two fierce Githyanki, attacking him with swords... 13 and 11 damage, radiant. Penny shouts down "Oh bugger off, he's with us! We've come to rescue you! And we particularly want to find **Zastra**! Their creche mate **(name)** wants to find them!" - ADV persuasion, 23. 
 
 The female of the two spins around. "How dare you utter that name! Who are you? *Who* are you?!" - they look ragged. Haggard, almost; feral. L1 Healing Word on the male doesn't help. So she shouts down, "We are the advance of a rescue party. The ship The Scarlett Arrow is on its way to rescue the crew."
 
@@ -188,7 +188,7 @@ Kycera also looks haggard. As there is to-and-fro, which mostly leads to general
 
 **We learn that at least one of the other groups who tried to take the rod was our rivals! Their mage wasn't the lich but the others match.**
 
-Persuasion ADV 27 from Arturo. Kycera is convinced, though she's not sure why. "I think that they mean well and their hearts are in the right place. That still doesn't help us, because we still - we're never going to get Ilwyn to agree. And Figaro has totally lost his mind! He's locked himself in the state room and he's the only one know hows how to disable the safety field around the front of the ship. Even if we could get there, we would probably get killed trying to in there. And I'm pretty sure Inda is in there" - Penny interjects, "She is in there and she is alive" "- Well we could *try* teleporting in there but it is really risky."
+Persuasion ADV 27 from Arturo. Kycera is convinced, though she's not sure why. "I think that they mean well and their hearts are in the right place. That still doesn't help us, because we still - we're never going to get Ilren to agree. And Figaro has totally lost his mind! He's locked himself in the state room and he's the only one know hows how to disable the safety field around the front of the ship. Even if we could get there, we would probably get killed trying to in there. And I'm pretty sure Inda is in there" - Penny interjects, "She is in there and she is alive" "- Well we could *try* teleporting in there but it is really risky."
 
 Penny points out that, rod or not, she is honour-bound to rescue the female Githyanki. And of course, we are here to rescue at least Kycera too.
 

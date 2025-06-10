@@ -751,6 +751,8 @@ Navigation Taz 21 with BFS. Gnog perception adv 28. The city below already looks
 
 There's the strange sense of self as we abruptly transition into the Astral Sea.
 
+(Back on Amonkeht, a yellow canary perched atop a spire watches as the beam of light flickers out and the portal closes behind the ship).
+
 Astonishingly, we realise that after leaving Manesh, it was a blur - everything took only around half an hour!
 
 ### Only 10:00 Ravnican. 3 hours awake. 7 hours remain on the feast.

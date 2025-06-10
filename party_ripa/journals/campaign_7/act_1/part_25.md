@@ -82,7 +82,7 @@ Two scrolls, though. The other is a list, like a matching game. Experimental not
 * "Okuzor - eyes"
 * A few other body parts and names, some guesses
 * "Me?" (Arrows point to possible organs including pancreas)
-* "Semru Thal - nerves"
+* "Xemru Thal - nerves"
 * Heart and kidneys mentioned
 
 It ends with, "Must be nearby. How many of us are there in here?"

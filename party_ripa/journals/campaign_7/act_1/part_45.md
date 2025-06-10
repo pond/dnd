@@ -60,7 +60,7 @@ Inside the crystal ball, Penny sees the draconian feeding some sort of chunk of 
 
 Vercatus says, "Why not go to Krynn?" and Wilim scoffs. "Krynn is the wrong place to be! Nothing's happening on Krynn. Sure, there may be _something_ there - we don't know where it is - and **each piece leads to the next**. We need to get one of them first, and I'm telling you! That party has one of those pieces. I sensed it. Are you going to listen to me or do I need to go my own way?" Then Wilim hisses. "Wait!" - he casts something. He's looking for her spell, she thinks... Arcana 20-1. He's casting True Seeing. He looks straight at the arcane scrying censor. Penny drops her scrying spell. The last thing she sees is Wilim looking at the censor, two dots of light in his sunken eye sockets.
 
-It tells us nothing new really, although confirms suspicions. We think the 'starting' reference might be related to all of Torril given the Krynn discussion, not (say) a specific town.
+It tells us nothing new really, although confirms suspicions. We think the 'starting' reference might be related to all of Toril given the Krynn discussion, not (say) a specific town.
 
 Penny asks if we have Sending. If this party can't scry us, they'll have to do it the old fashioned way - and that would lead the to the bastion. And we can't warn them. Penny suggests one of us remove our amulet, so they *can* find us. Thorin argues against it; he thinks they're too strong. In the end we find out that Waterdeep has pay-for messaging services; we pay 20gp and get a warning message sent to the Bastion. That four might come looking; they *can* say where we went; but they might need to defend themselves.
 

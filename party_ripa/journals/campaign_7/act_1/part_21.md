@@ -41,7 +41,7 @@ D20s all round:
 
 * Penny does some Palladin-ing. Persuasion 18. She tries to preach the message of Meliki - to not cut down the woods; in fact, maybe even plant trees around the tower.
 
-We procure some meat for the griffons from town, get packed up and fly!
+We procure some meat for the griffons from town, get packed up and fly! 
 
 Towards the end of day 20, we each roll a D6 - **the number of Bastion Points we accumulate**:
 

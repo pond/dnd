@@ -1,6 +1,6 @@
 # RIPA: Act 2 Part 11
 ## Session 57 (2025-02-04)
-### Mournlands, ruined mage's tower, Outlands relative day 10
+### Mournlands, ruined mage's tower, Outlands relative day 10 
 
 We met Mercy, leader of a small group of Warforged who want to save, rather than harness, docents - technology that held what they consider to have been souls (as close as the analogy can be drawn) of Colossi. These are held in reverence, instead of being used as now-"dead" mere tools for power amplification, as the Lord Of Blades would have it.
 
@@ -94,7 +94,7 @@ Emerging out in a swirl of cloud, rapidly expanding to fill a 10ft space around,
 * Arturo 28
 * Francesc 28
 * Penny 22
-* Thorin 11
+* Thorin 11 
 
 Arturo sees this and "bends time" and Penny goes first. She tries Abjure, WIS 17 save, which it fails; it is frightened, and has to now flee at maximum speed. Penny sees the cloud suddenly shrink away and she shouts, "TIME TO GO!" and tries to jump back onto Quetz.
 

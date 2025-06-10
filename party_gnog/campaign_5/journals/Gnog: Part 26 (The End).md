@@ -39,7 +39,7 @@ We head away, and Gnog wonders if he can spot the mother for one last thing in t
 
 She doesn't notice us arriving; she's just looking at the banners, holding a basket. It's empty. Gnog clears his throat and asks about the basket? "Oh, for flowers." - she's laid some out.
 
-Gnog talks bout the spirits rising, of the last few goblins born on angel's wings, literally.
+Gnog talks about the spirits rising, of the last few goblins born on angel's wings, literally.
 
 She agrees that they'll be there, waiting in the afterlife; and says: "You know, I don't think I've ever felt braver. I don't fear death! When it comes, I shall welcome it with open arms and a smile. But that is for another day!"
 
@@ -96,7 +96,7 @@ More talk. The Immortal Sun is brought up. Vi wants to keep a hold of it.
 
 We learn of ships in the sky; Ravnica Station, of course. The word must've got out that it was safe to land. The ships descend with aid. The gig is up, then; Spelljamming will be known to Ravnicans far and wide.
 
-We talk about the Infinite Consortium and Xaryxians. The designs they might have on Torril; their destruction of worlds. We will stay with Gatewatch, yes, but only if we can *all* come; our strength is on our party. We need to figure out what's going on with the Xarxyians and solve that somehow... **Mu Yanling gives us a strange beautiful polyhedral crystal - a Lore Crystal.** (And Taz returns his Thought Crystal that she'd given him). We will find it useful if we ever are to pursue that thread of enquiry! "If you ever need more information, you can find me at the Archives." "Thank you."
+We talk about the Infinite Consortium and Xaryxians. The designs they might have on Toril; their destruction of worlds. We will stay with Gatewatch, yes, but only if we can *all* come; our strength is on our party. We need to figure out what's going on with the Xarxyians and solve that somehow... **Mu Yanling gives us a strange beautiful polyhedral crystal - a Lore Crystal.** (And Taz returns his Thought Crystal that she'd given him). We will find it useful if we ever are to pursue that thread of enquiry! "If you ever need more information, you can find me at the Archives." "Thank you."
 
 Since Mu wants to get back to the archives to start writing this incredible Story, Gnog asks for the assembled crowd to indulge him with one more.
 
@@ -132,9 +132,9 @@ We finish up the tea, hugs all round; she knows she can always reach us via Niv.
 
 Nivix.
 
-Much rebuilding is underway; that's what happens when you have a lot of powerful mages, I guess! A new campus seems to be being constructed using walls of stone extended from a collapsed area. There is already a sign. "The Gibo And Bebe School Of Residence." The first act of the new Guildmaster, Mareka Destin. She's there in person, giving instructions. We head over. Gnog points and says "Thank you for that. They were important to us." "Yes, they were important to our world! Thankfully we have quite a few of those who worked in the war lab in P5 who can now head up this school - Izzit engineers who, I have to say, were probably overlooked by the other schools as their studies didn't neatly fit into the curricula of other departments. But resonance and sound; it's time we had a school dedicated to it. And really, Gibo and Bebe founded this line of study - at least within the Izzet." They're waiting for the right time to tell the mother; heard she might be moving, and if so might buy the old house to turn it into a kind of museum. Time to start remembering contributions of *all* the Izzet.
+Much rebuilding is underway; that's what happens when you have a lot of powerful mages, I guess! A new campus seems to be being constructed using walls of stone extended from a collapsed area. There is already a sign. "The Gibo And Bebe School Of Residence." The first act of the new Guildmaster, Mareka Destin. She's there in person, giving instructions. We head over. Gnog points and says "Thank you for that. They were important to us." "Yes, they were important to our world! Thankfully we have quite a few of those who worked in the war lab in P5 who can now head up this school - Izzet engineers who, I have to say, were probably overlooked by the other schools as their studies didn't neatly fit into the curricula of other departments. But resonance and sound; it's time we had a school dedicated to it. And really, Gibo and Bebe founded this line of study - at least within the Izzet." They're waiting for the right time to tell the mother; heard she might be moving, and if so might buy the old house to turn it into a kind of museum. Time to start remembering contributions of *all* the Izzet.
 
-We ask after Niv. Kicked off campus! Not part of the Izzit now. Awww. His tower isn't even rebuilt; his stuff has been moved to P1, where a new Hall will be built. It won't be over the old hall. There'll be a meeting; she's surprised we haven't heard about it - it'll be held at Orzhova. Only area big enough. We should head there.
+We ask after Niv. Kicked off campus! Not part of the Izzet now. Awww. His tower isn't even rebuilt; his stuff has been moved to P1, where a new Hall will be built. It won't be over the old hall. There'll be a meeting; she's surprised we haven't heard about it - it'll be held at Orzhova. Only area big enough. We should head there.
 
 "Wait! Before you go. I think he would've wanted you to have this..." - she pulls out a small locket. It has a smiling spinning hologram when you open it, of Ral casting a spell. "Does he not want this?" "He has others. I have one that he gave me as well. But I recovered this from this office." "Yeah... OK, thank you." "We were there together, all of us, at the end. I'll have a hologram of him put next to him in the Hall. He was never named Guildmaster, so has no place in the Hall of Guildmasters in theory, but I think he deserves to be remembered. Anyone arriving by air will be greeted by his hologram. I thought that might be a nice touch, since he made that my job for so long! You'd better get going."
 
@@ -146,19 +146,21 @@ Taysa waves and beckons us over. We head to her. She's allocated us seats! We th
 
 Within about 20 minutes, others have arrived, full room, it starts. Taysa stands and welcomes everyone to the makeshift first new era summit of the Guildpact. A new living Guildpact. "There will be much rebuilding but I'll hand over now to Niv, who is the new Living Guildpact." (Murmurings, some not fully happy!)
 
-Niv takes (and fills) the floor, thanking everyone and assuring them that he's removed entirely from the Izzit - he's basically kicked out! - no more allegiance or loyalty to them as any other guild, he swears.
+Niv takes (and fills) the floor, thanking everyone and assuring them that he's removed entirely from the Izzet - he's basically kicked out! - no more allegiance or loyalty to them as any other guild, he swears.
 
 His first order of business is to thank people who have given so much. He pulls an illusory scroll and starts reading a litany of the fallen, with contributions. "As each Guildmaster provides me with names of their fallen, they will be added to this scroll and the scrolls themselves will be etched onto the walls of the new Chamber Of The Guildpact so that people can honour those who protected this world, and all we stand for. Which brings me to - what we stand for. What we seek to protect. What all these sacrifices, all the unfulfilled potential, what that *cost* has bought for us. What future has this price paid for? I cannot answer that. No-one in this room can answer that. I believe we must return to our original purpose - in *service* of the people of Ravnica, so it is to *them* to decide, for *them* to determine, the path that we walk and it is our duty to guide, to enable, to protect, to discover, to remember, to build. We are here for them and not the other way around."
 
 He proposes that the laylines are anchored over the old Hall where a will memorial be built, and from Augustin Station (or any station) there will be free air travel to a *new* platform. The *platform* of the Guild Pact. We shall move the Hall up into the air. Makes it more accessible for everyone - you don't need to walk to P1, D10. You can take airships for free.
 
-Concerns are raised, as things become more political. The Boros Parehelion. The Simic Guardian Project. The Gruul - under an injured, but present and wiser-looking Boboremos - threaten to walk out, again! "What of our sacrifices? We claim tracts of the Red Wastes" - but this time, the Boros hold their objections. Less to patrol! Surely, of any guild, it makes the most sense for them to hold it. There is a vote. Objections: Azorious, Orzhov object; Izzit abstain; Dimir are not present, surprisingly. Others agree, so it is passed easily.
+Concerns are raised, as things become more political. The Boros Parehelion. The Simic Guardian Project. The Gruul - under an injured, but present and wiser-looking Boboremos - threaten to walk out, again! "What of our sacrifices? We claim tracts of the Red Wastes" - but this time, the Boros hold their objections. Less to patrol! Surely, of any guild, it makes the most sense for them to hold it. There is a vote. Objections: Azorious, Orzhov object; Izzet abstain; Dimir are not present, surprisingly. Others agree, so it is passed easily.
 
 Selesnyans talk about food resources. They've taken stock. It'll require mass transfer of food stocks around to balance reserves but it can be done quite quickly. Many farms and food stores in D10-D12 are heavily depleted, but not an immediate humanitarian crisis.
 
 Some raise a concern about the off-worlders to ostensibly offer aid. A vote is taken, and the decision is 5:4 to allow them to stay and help.
 
 * The floor is opened. We get to thank Ravnica for their welcome when we arrived, hope that their less helpful differences - e.g. the invisibility of the Kraul - are seen past for a stronger future, and assure them that they need fear nothing from off-worlders in terms of security. *Nobody* is going to fuck with Ravnica now.
+
+* We get to relay Krenko's request for a lighter touch of law from the Boros. Surprisingly, this is received and very well understood without debate! It seems that, in their own individual ways, everyone is looking at their world with new eyes today, no matter many old habits might show up in this meeting hall.
 
 * The new Azorious Guildmaster, sphinx **Quinlin** is there - with the 3 precogs we know. We are introduced. We return the vault keys and "borrowed" artefacts. We get in return, on request, a platinum rod - Taz can use this as a Planeshift focus.
 
@@ -184,9 +186,9 @@ Some raise a concern about the off-worlders to ostensibly offer aid. A vote is t
 
 We sneak out. Rakdos hasn't stuck around either! We find Nissa. She's talking to a squirrel. "OK! Let's go." - the squirrel is put into her pocket. We head to P3 where huge movements of food supplies are already underway, but before we leave, Gnog hurries over to the old Chamber rubble and grabs a small stone of it. "Souvenir", he says. "I'm sure they won't mind!"
 
-Vitu Ghazi is there. The withering damage is obvious. "I might like to have a chat wit her before we go" says Gnog. Many tent cities too, around parts of the concourse that are still intact. Much rubble is being cleared manually - lots of damage here from when the Platform fell (P3 and P4 badly hit by that). Tired, but high spirits. Today they are free! They can honour their dead, start replanting, think about the future.
+Vitu Ghazi is there. The withering damage is obvious. "I might like to have a chat with her before we go" says Gnog. Many tent cities too, around parts of the concourse that are still intact. Much rubble is being cleared manually - lots of damage here from when the Platform fell (P3 and P4 badly hit by that). Tired, but high spirits. Today they are free! They can honour their dead, start replanting, think about the future.
 
-We're taken to one of the remaining Verdani. There are only about four left, but the rest of the planet will be contributing more in time. Nissa calls down some vines and we're pulled up into what seems to be a food distribution centre up in the tree. She calls out - and there is Levinia. She sees us and shouts over. "Did you see? I fired arrows at the dragon!" "Did they hit?" "Yes, I think! How are you?" "Good, thanks; all things considered. You?" She met someone, in the midst of it all. **Quintorious**. Before the world, a historian - very unusual for a Selesnyan, writing things down instead of telling them verbally. "He says it's the future. I don't know about that but he's very cute!" - we meet him. A loxodon, too; wearing glasses, holding a clipboard, directing things. It's good to see that they've found each other. "Thank you. For believing in me." "Always, from the start." "Wherever you go, I hope the sun will shine, the rain will nourish and your family will flourish. I'm glad you find your heart's desire!" she says to Fee-Ree. "Likewise. I hope we meet you again sometime."
+We're taken to one of the remaining Verdani. There are only about four left, but the rest of the planet will be contributing more in time. Nissa calls down some vines and we're pulled up into what seems to be a food distribution centre up in the tree. She calls out - and there is Levinia. She sees us and shouts over. "Did you see? I fired arrows at the dragon!" "Did they hit?" "Yes - I think! How are you?" "Good, thanks; all things considered. You?" She met someone, in the midst of it all. **Quintorious**. Before the world, a historian - very unusual for a Selesnyan, writing things down instead of telling them verbally. "He says it's the future. I don't know about that but he's very cute!" - we meet him. A loxodon, too; wearing glasses, holding a clipboard, directing things. It's good to see that they've found each other. "Thank you. For believing in me." "Always, from the start." "Wherever you go, I hope the sun will shine, the rain will nourish and your family will flourish. I'm glad you find your heart's desire!" she says to Fee-Ree. "Likewise. I hope we meet you again sometime."
 
 Another departure.
 
@@ -194,15 +196,15 @@ Nissa will head back, speak to Jace and return to her home world. Hugs all round
 
 **A last look. A last moment in the strange, but wild, connected world of the Selesnyans.**
 
-We seek out Greena and Mela. We talk about the Gruul; they are delighted! "I never thought I'd see the day that we'd have a nation of our own. We'll most definitely want to be part of that!" We walk them up to Skarrg. As we go, they're reminiscing with Arxcis. Gnog has a hard time keeping his shit together, really, with the emotional overload of it all.
+We seek out Greena and Mela. We talk about the Gruul; they are delighted! "I never thought I'd see the day that we'd have a nation of our own. We'll most definitely want to be part of that!" We walk them up to Skaarg. As we go, they're reminiscing with Arxcis. Gnog has a hard time keeping his shit together, really, with the emotional overload of it all.
 
-Much activity at Skarrg. From the parapets we hear a shout. "You're still here!" - Ajani! Gnog is surprised - "Ha! Hello! What are you doing here?!" "Well, to be honest I followed the booze... I always liked being up here actually. Reminds me of abandoned forts back home. Always had a sense that there were significant things afoot!"
+Much activity at Skaarg. From the parapets we hear a shout. "You're still here!" - Ajani! Gnog is surprised - "Ha! Hello! What are you doing here?!" "Well, to be honest I followed the booze... I always liked being up here actually. Reminds me of abandoned forts back home. Always had a sense that there were significant things afoot!"
 
-Gnog uses the sending stone. "Hey, anyone still on-world, Ajani has a massive keg of beer up at Skarrg. Come party!" - but he's not really expecting an answer.
+Gnog uses the sending stone. "Hey, anyone still on-world, Ajani has a massive keg of beer up at Skaarg. Come party!" - but he's not really expecting an answer.
 
 **We hang out for a while, drinking together and telling stories. Greena and Mela, Arxcis, Fee-Ree and Deni, Taz, Gnog and Ajani. Gnog takes this moment in, trying to capture it in his mind forever somehow. It seems to precious to ever forget.**
 
-The big funeral pyres have been set up around Skarrg. Areas around it have been more or less flattened, providing lots of space. As the sun begins to set, the now-familiar drum beat music of the Gruul starts. From the vantage point up on the wall, we can see processions beginning - not sombre or respectful, but drunken, jostling, spontaneous little fights and general revelry. One by one, Viashino ready bows with flaming arrows; the goblins throw bottles of spirits onto the pyres, smashing as the arrows hand. A line of the pyres light up, stretching into the red wastes.
+The big funeral pyres have been set up around Skaarg. Areas around it have been more or less flattened, providing lots of space. As the sun begins to set, the now-familiar drum beat music of the Gruul starts. From the vantage point up on the wall, we can see processions beginning - not sombre or respectful, but drunken, jostling, spontaneous little fights and general revelry. One by one, Viashino ready bows with flaming arrows; the goblins throw bottles of spirits onto the pyres, smashing as the arrows hand. A line of the pyres light up, stretching into the red wastes.
 
 Gnog looks to Ajani, "This is quite a first date!" "Yes. The smell of baking...(!)" - joke of the year right there. Toooooo soooooon. He'll be headed back to his world though, soon; responsibilities there that he's been avoiding. He asks if we're leaving tonight? Deni says, "It's kind of poetic, don't you think? Leaving as we arrived." "In the dark?" "Yeah!"
 
@@ -214,13 +216,13 @@ We reach the tunnel entrance. An apparition appears next to us at the tunnel ent
 
 **"So long" says Gnog. Jace answers, "Fly safe". "Heh. Thanks. Taz always does!" - and Jace fades away.**
 
-The goblin lady is still here, "Tickets please!" she says as a joke and laughs - but then takes on a firey aura. We recognise the firemind. "We're heading away Niv." "Yes. All things come to an end. This has been a long time coming. Even I could not have foreseen the way that these things panned out! This was not the future I was shown, but I dare say it is better than the one I could have imagined." He talks of the guilt he carries - desperate times, desperate measures. He sees how it could seem callous... But Gnog saw how much he cared, that first time that Bolas broke through and attacked Ravnica.
+The goblin lady is still here, "Tickets please!" she says as a joke and laughs - but then takes on a firey aura. We recognise the firemind. "We're heading away Niv." "Yes. All things come to an end. This has been a long time coming. Even I could not have foreseen the way that these things panned out! This was not the future I was shown, but I dare say it is better than the one I could have imagined." He talks of the guilt he carries - desperate times, desperate measures. He sees how it could seem callous... But Gnog saw how much he cared, that first time that Bolas broke through and attacked Ravnica in person.
 
 **"Farewell, Niv Mizzet. We'll see you again."**
 
 **"If you come back to this world, you will always be welcome."**
 
-...and the goblin is back. "Did you want your cart back?" "Consider it our gift. The least we could do for services rendered". "Hurry along now! Ships are coming back. They want the space!"
+...and the goblin is back. "Did you want your cart back?" she asks. "Consider it our gift. The least we could do for services rendered". "Well then, hurry along now! Ships are coming back. They want the space!"
 
 So we head down to the Navigator and Taz says "Well this is a buzzkill - you'll have to wait an hour!"
 
@@ -232,27 +234,27 @@ Taz thinks, then says (Keen Mind Feat) - "Some of the minutes don't add up. It i
 
 "We should not go chasing long lost dreams...! It shall always be the missing minute. Oh! Your timing is good. We are ready to fly."
 
-Gnog says, "Would you mind a bit of a fly by - let's cruise over Skarrg, look down, then have a proper look at this world we saved."
+Gnog says, "Would you mind a bit of a fly by - let's cruise over Skaarg, look down, then have a proper look at this world we saved."
 
 And so, we ascend. We head of the Red Wastes. Looking down, funeral pyres stretch out in their row, lighting up camps full of revelry. The Gruul are in force. 
 
-We fly past the huge bonfire at Skarrg. Taz used Sending to Boboremos - "We are looking down. Haunting beauty. The pyres burn so brightly that even the Gods must see them!". At this, Gnog asks Taz to send one last message. Boboremos again. "One last thing. We fight the passing of years as we fight any enemy. Wisdom is wise, but do not grow old gracefully, honoured king!" (25)
+We fly past the huge bonfire at Skaarg. Taz used Sending to Boboremos - "We are looking down. Haunting beauty. The pyres burn so brightly that even the Gods must see them!". At this, Gnog asks Taz to send one last message. Boboremos again. "One last thing. We fight the passing of years as we fight any enemy. Wisdom is wise, but do not grow old gracefully, honoured king!" (25)
 
 Then, a bright flash, a sunbeam, spinning around. Ajani's axe. Gnog shouts down, "Goodbye!" as loudly as he can, but probably isn't heard. Taz dips the ship's wings; left, right, left, right, then steadies us. The lights of Vitu Ghazi hang like a thousand glow-worms in a cave and we pass over the Blistercoils, glowing below the streets, with a familiar bioluminescent glow clearly visible from Zonot 7. Deadbridge Chasm, dark. P1, D11, D12 as we start to lift, lit up a rebuilding goes into the night.
 
-Ascending higher, we see the lights like necklaces around the planet, most of which we never got to see. The odd remnanant forest is visible. A few ships are headed down and we pass them, as they carry supplies. We chase the edge of night and day, the sun sparkling and gleaming as it appears over the globe.
+Ascending higher, we see the lights like necklaces around the planet, most of which we never got to see. The odd remnant forest is visible. A few ships are headed down and we pass them, as they carry supplies. We chase the edge of night and day, the sun sparkling and gleaming as it appears over the globe.
 
 Gnog: "*Thank you* Mr Tablabu... That's *very beautiful*..." - another pause, just taking in the view, then a sigh, it's time to leave - "...I think we should drop in at Ravnica Station, check with Alliance to make sure there aren't any other dangers beyond those we know of, then best speed to Rock Of Bral. So first - Ravnica Station, please, at your leisure."
 
 Out, up, away.
 
-About half an hour later, we're at Ravnica Station. Teeming with life. Docked, waiting to dock, patrolling. Three beautiful shrike ships are there; a bombard, a couple of space galleons. "Wow", says Gnog, "Never seen so many ships!" and we queue for docking. Ignominious arrival! Dockmasters apologise; unless we can just land on the surface there's an hour wait, but we're happy to land on a crater so long as there's air. So we touch down smoothly and disembark.
+Only half an hour later, we're at Ravnica Station. Teeming with life. Docked, waiting to dock, patrolling. Three beautiful shrike ships are there; a bombard, a couple of space galleons. "Wow", says Gnog, "Never seen so many ships!" and we queue for docking. Ignominious arrival! Dockmasters apologise; unless we can just land on the surface there's an hour wait, but we're happy to land on a crater so long as there's air. So we touch down smoothly and disembark.
 
 Gnog remarks, "I hope New Garren's OK. Maybe busy making himself known to new followers below!" and we head over, trying to find our way on foot - much destruction, the docks being rebuilt and much not operational yet - to the market area.
 
 We're surprised to find that Redani has reopened Pieces Of Limbo! He's there in person. He thinks the Xaryxians won't dare attack again; the Alliance guard ships are stationed permanently. Ravnica is too important. They're sticking around to help with the relief effort. He says that the Alliance would be happy to escort us to the edge of Guildspace; some are heading that way anyway. Plenty of new recruits now that Ravnica knows about other worlds! We thank him for that and ask when they depart. Any time really - we say, half an hour? Sure!
 
-So we check on the plant we'd seen all those weeks ago. Sold! To someone else! Lots of new trade. Dammit. Never mind - someone else will get more out of is.
+So we check on the plant we'd seen all those weeks ago. Sold! To someone else! Lots of new trade. Dammit. Never mind - someone else will enjoy it.
 
 ### 9pm
 
@@ -268,7 +270,7 @@ They pass, we continue and eventually reach the edge of Guildspace. It's about 8
 
 ## 5am, day 62 (Ravnica 42, Riglan 99, met Riglan on 122 - 6 hours shifted forward)
 
-We slow down at asteroids clustered near the edge. A small debris field; Gnog perception 24. Recognises bits of wing, parts of a ceramic hull; it looks like parts of a Star Moth. He points it out and says "well I don't know if the good guys won but the bad guys definitely lost!" - we can see (but not hear) cheering and celebration on the Flying Fish as they see it too.
+We slow down at asteroids clustered near the edge. A small debris field; Gnog perception 24. Recognises bits of wing, parts of a ceramic hull; it looks like parts of a Star Moth. He points it out and says "well I don't know if the good guys won but the bad guys definitely lost!" - we can see (but with the vacuum between the two ships, not hear) cheering and celebration on the Flying Fish as they see it too.
 
 We reach the Astral Sea. One of the crew flies to us. They're headed to Freedom Station. We can go there, or could peel off.
 
@@ -304,7 +306,7 @@ Taz simply says, "There will be times in my long life when I need aid. At least 
 
 New Garren answers. "I will wander the Astral Sea. If you call to me when you are here, I can come to you. If you tell me your needs when you are on a world, I will do my best to grant you what power I have."
 
-Taz says, "Thank you. That's more than I hoped and more than I ever could have asked for."
+Taz says, "Thank you. That's more than I hoped for, and more than I ever could have asked for."
 
 Gnog says, "Goodbye, New Garren. I hope we meet again."
 
@@ -464,7 +466,7 @@ In the main room, Taz replays the "movie" - his strange sort of minor illusion, 
 
 ## Day 65, Rock Of Bral (Riglan 102, met Riglan on 122 - 6 hours shifted forward)
 
-We wake up 7am, bright and early. Gnog and Deni in one bedroom, Taz in the main room, Fee-Ree and Arxcis in the other bedroom. The Rock has rotated more towards the sun - simulated dawn. He potters about a while, but there's no way to make tea etc. here so in the end he goes into Deni and Gnog's room and pounces on Gnog's bed, saying "wake up! Let's get breakfast at the market".
+We wake up 7am, bright and early. Gnog and Deni in one bedroom, Taz in the main room, Fee-Ree and Arxcis in the other bedroom. The Rock has rotated more towards the sun - simulated dawn. Taz potters about a while, but there's no way to make tea etc. here so in the end he goes into Deni and Gnog's room and pounces on Gnog's bed, saying "wake up! Let's get breakfast at the market".
 
 Gnog goes, "AAAAGH!" and then, "Oh. It's you!"
 
@@ -484,7 +486,7 @@ Gnog suggests that we try something a bit different. New Garren needs followers,
 
 Deni suggests one of the interdenominational temples, though; set up a shrine? Why not! OK, so we head that way. We speak to a ministrant there, and that is in fact why this particular church exists. So many people pass through, that you can set up shrines, so we do that. There is a fee, and Gnog adds a donation. We're asked for descriptions - drawings are done - they can even commission an effigy. Taz is able to produce a Minor Illusion, so they end up with accurate drawings. "How long til it's set up?" The shrine, right away. The statue takes a couple of days. Gives us an excuse to come back soon to have a look. The fee for the statue is 40gp, for the story and shrine, 50gp, plus Gnog donates 50gp from his personal pot. 140gp all-in.
 
-The questions they ask are detailed and leading. We answer as best we can. Astral Sea sea links, Torril roots; a god of redemption, people who are travelling, perhaps adrift. "What about calling them Garren The Redeemer?" they suggest. "Perfect!" says Gnog. Strength and knowledge; balance; connections and friendships. Not solitary. They go the extra mile, thanks to the donation. Not the intention but a nice outcome.
+The questions they ask are detailed and leading. We answer as best we can. Astral Sea sea links, Toril roots; a god of redemption, people who are travelling, perhaps adrift. "What about calling them Garren The Redeemer?" they suggest. "Perfect!" says Gnog. Strength and knowledge; balance; connections and friendships. Not solitary. They go the extra mile, thanks to the donation. Not the intention but a nice outcome.
 
 In the end, we thank them and head out. Outside, Gnog gives a Deni a huge hug. "Thank you! I was sceptical, but that was amazing and just what I wanted. I had no idea. What a great thought! Thank you again."
 
@@ -536,7 +538,7 @@ We're about to leave but someone outside is shouting "wait, wait!" on the dock. 
 
 Everyone's back on board. Gnog uses the speaking tube to call down to Taz. "OK, Mr Tablabu. Time to leave. Don't fret. We'll be back."
 
-Taz lifts off. He does a flash, fly-by spinny thing to make the silver paint glitter. Almost gets us in trouble with traffic control! We can see Zorbu and Rerdian waving. Then he heads under the Rock, towards Torril. It takes a while to clear traffic, then we're clear for fast speed, Taz calls up - "Fee-Ree, would you mind taking the helm for  a moment?" so she swaps over. Confirms the orrery location, then starts flying.
+Taz lifts off. He does a flash, fly-by spinny thing to make the silver paint glitter. Almost gets us in trouble with traffic control! We can see Zorbu and Rerdian waving. Then he heads under the Rock, towards Toril. It takes a while to clear traffic, then we're clear for fast speed, Taz calls up - "Fee-Ree, would you mind taking the helm for a moment?" so she swaps over. Confirms the orrery location, then starts flying.
 
 Taz comes up as we jump to fast travel and walks up to Gnog and just holds his hand. "It's harder than I thought. Leaving."
 
@@ -588,11 +590,13 @@ We disembark. Tarto is here! He greets us. "Hello! Well met!" says Gnog. "Thanks
 
 He talks about the heavy traffic we encountered, giving us more background on how the graduates head out on their first commission. About 9 ships had left in rapid succession; would've been 10 but one of the graduates decided at the last minute that they didn't want to pursue the lifestyle.
 
-Gnog introduces Taz. "Ah! I've only met a few of your kind before. Maybe, six. Everyone of you is different." Taz is delighted to hear that there are others of his kind! Tarto says he even served with one on a galleon, before being at the academy. The **Hyperion Magestic**. "He was the most skilled tracker and ranger I've ever met."
+Gnog introduces Taz. "Ah! I've only met a few of your kind before. Maybe, six. Everyone of you is different." Taz is delighted to hear that there are others of his kind! Tarto says he even served with one on a galleon, before being at the academy. The **Hyperion Majestic**. "He was the most skilled tracker and ranger I've ever met."
 
 Tarto tells us that Mert's awake in his quarters. He'll take us there. We have a bit of paperwork first; they can store the ship for now.
 
-We reach his quarters. Tarto's shift is done but we're around in the morning, we can catch up a bit more. "It falls to me, I guess, to say - welcome home; and to Tazythus, welcome to Toril."
+(Just as the group leaves, Gnog hestiates, places a hand on the Navigator, head bowed just for a moment, in a gesture that of gratitude and love, before following the others).
+
+We reach Mert's quarters. Tarto's shift is done but we're around in the morning, we can catch up a bit more. "It falls to me, I guess, to say - welcome home; and to Tazythus, welcome to Toril."
 
 Mert welcomes us. Has a bit of wine left - opened the bottle too early!
 
@@ -680,7 +684,7 @@ Gnog takes a deep breath. He says, "I know you were watching over us on Ravnica 
 
 Gnog jumps at this and looks at Taz... Taz speaks differently; "...I see. It was a conscience. I'm my own person, but he was guiding, still."
 
-Gnog speaks of the strange new God. The new "orphanage" (flop house) on the Rock. And of Ajani. There's no acrimony in the feeling of response; it's one of nobody being able to see the future, it will play out as it must; he's proud of what we have achieved and that his gifts have been useful. "You've been in a big journey. Made some very big decisions. Those are never easy. I had to make some big decisions when I left you, so perhaps you might forgive me a bit more. I know you carried a resentment in your heart at my departure when the wound was fresh, but I see you have had to put yourself in the same situation. You perhaps understand more."
+Gnog speaks of the strange new God. The new "orphanage" (flop house) on the Rock. And of Ajani. There's no acrimony in the feeling of response; it's one of nobody being able to see the future, it will play out as it must; he's proud of what we have achieved and that his gifts have been useful. "You have been on a big journey. You have made some very big decisions. Those are never easy. I had to make some big decisions when I left you, so perhaps you might forgive me a bit more. I know you carried a resentment in your heart at my departure when the wound was fresh, but I see you have had to put yourself in the same situation. You perhaps understand more."
 
 Gnog goes bright red. "I didn't know anyone saw that. I kept that hidden." Deni laughs. "No you didn't!" "Oh. Well. It was true, I guess I did a bit, but not a lot; it was a struggle, I think, figuring out - were we deceived, of course no, and we were used, of course, again no, and other things. But in the end - I don't know if I understand more, or just accept this now. Either way, I have acquired, I must say, a faith. Not in the gods I have seen, because I saw them. Not in life after death, because I have walked amongst spirits. It is in the After. Something beyond. And I hope that when my time comes, we might meet again."
 
@@ -690,7 +694,7 @@ Gnog says, "I know *exactly* what you mean."
 
 "What will you do now. Do you know? Have you thought?"
 
-We don't really know. The future is unknown - and that is a good thing. We'll take it as it comes and mould it if we can. Our private time is almost up. We bid farewell; we will of course be back.
+We don't really know. The future is unknown - and that is a good thing. We'll take it as it comes and mould it if we can. Our private time is almost up. We bid farewell; we will of course be back - perhaps with an answer to Garren's question.
 
 We head out, thanking people as we go, assuring them of our return, and outside Gnog checks with Arxcis, "I hope that wasn't too much..." - he's fine. Our attention turns to Vajra. Cedric tells us she's not at the tower. It's her day off! She was at home when he last saw her. We figure we'll try the house - if she's not there, never mind. We get nearby, but the apartment is high up. Gnog tries the sending stone to Vajra - "Hi, we are in town. If you are not busy and would like company, we could meet for a picnic or something!"
 
@@ -766,7 +770,7 @@ Edgin's repertoire kicks off. It's all water and rivers. Very relevant. The crow
 
 
 
-## Day 68, Wildpsace (Riglan 105, met Riglan on 122)
+## Day 68, Waterdeep (Riglan 105, met Riglan on 122)
 
 In the morning, after breakfast, we figure we'll update the harpers, sort some stuff at Balthors and head to Duskhollow.
 
@@ -896,11 +900,12 @@ Taz stays awake. The sun peeks over the trees, orange and red fire on the mounta
 ## Epilogue
 
 * For the most part, their future is their own. We do not predict it for them.
-* At least we know that they get the Waterdeep "tuning fork". Helm's Hall is a regular place for storytelling and teaching. Granny is visited more often.
+* At least we know that they get the Waterdeep "tuning fork". Helm's Hall is a regular place for storytelling and teaching. Granny is visited more often...
+* ...And of course we check in with Ma on Ravnica from time to time.
 * Gnog and Ajani have a curious relationship that's always at distance, but they put in the work, and it grows into something beautiful.
-* Amonkhet is returned to in due course. Taz makes sure he gets a Planeshift focus made at Amonkhet so he can return more easily. Orisa's book is returned just a few months, it transpires before her passing; but she has lived to see Naktamun's restoration well underway, with a future assured.
+* Amonkhet is returned to in due course. Taz makes sure he gets a Planeshift focus made at Amonkhet so he can return more easily. Orisa's book is returned just a few months, it transpires, before her passing; but she has lived to see Naktamun's restoration well underway, with a future assured.
 * Ravnica is an occasional haunt. They do well. It will always be a strange place. Levinia and Quintorious are still together, living in a young Verdani.
-* Holiays at Xonthal's Tower are always nice and it's good to catch up with Yarrow.
+* Holidays at Xonthal's Tower are always nice and it's good to catch up with Yarrow.
 
 
 
@@ -909,7 +914,6 @@ Taz stays awake. The sun peeks over the trees, orange and red fire on the mounta
 **Perhaps this new god might one day search the space around Amonkhet for a once-small child, accompanied by a construct, looking for her parents.**
 
 * We must return to the Veil and seek out the old seller in the woods that used to speak to Cedric, if he still lives. I think he might like to know where people ended up and what happened.
-* Return to Amonkhet one day. And Ravnica, for that matter. Get "tuning forks."
 * what of the Mercane, the Xarixyans, the teddy bear and the drifting ship?
 * Maybe we can find out if the Mercane called Vocath is due to ever come to the Rock Of Bral and arrange to be on the Rock at the same time. We've tried to arrange a meeting, and have to wait to be contacted about it.
 * **VERY IMPORTANT** - the mystery of the girl in the asteroid belt. We were tasked with going back to Amonkhet, after all; but many months or years had passed since that last journal entry.

@@ -17,7 +17,7 @@
 * (Assassin's Creed 3) A Bitter Truth: Perched Atop New Prahv
 * (Genshin) The Comrades' Ambush: First Skirmish
 * (Assassin's Creed Revelations Vol II) We Talk Together: Intensive Care
-* (His Dark Materials) Look To The Stars: Unexpected Izzit Encounter
+* (His Dark Materials) Look To The Stars: Unexpected Izzet Encounter
 * (Genshin) Lost In Sweet Gentle Breezes: Safehouse
 * (Deus Ex HR) LIMB Clinic: Guardians Of The Deep
 * (Genshin) A Transparent Moon (Liuli Pavillion): Gnog's Terrible Realisation (The Immortal Sun)

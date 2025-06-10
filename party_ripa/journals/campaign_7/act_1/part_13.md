@@ -95,10 +95,10 @@ Penny says, "We'd like to discuss killing a dragon."
 
 * She recognises the squire from the knight who helped us out early upon our arrival, along with the knight/paladin in question
 * Another paladin - female, bronzed skin, black curly hair cropped short, also with a squire
-* An unusual-looking human - ? - who has golden skin and eyes that seem to slightly *glow*
+* An unusual-looking human - ? - who has golden skin and eyes that seem to slightly *glow* (an Aasimar, we later learn)
 * An older-looking knight, a bit younger than Javen and in better fighting shape; this is the one who chucked.
 
-The knight speaks. "Huh. You're going to go and kill the dragon?!" "No", says Francesc. "We're saying we'd like to *discuss* killing a dragon...!" Persuasion rolls are low. They don't really agree to share info and don't seem to take us too seriously.
+The knight speaks. "Huh. You're going to go and kill the dragon?!" "No", says Francesc. "We're saying we'd like to *discuss* killing a dragon...!" Persuasion rolls are low. They don't really agree to share info and don't seem to take us too seriously. 
 
 Querria says that their plan, and the discussion at hand, is to speed up the efforts to move the entire city *into* the mountain. It'll protect people from the dragon. That's her primary mandate - protect the people.
 
@@ -124,7 +124,7 @@ The female knight then decides to introduce people.
 * **Carant** has the golden skin.
 * The older knight we met early on is **Tyrros**.
 
-Zara says, "I know of someone - a druid - slightly crazy druid who likes to camp out in the ruins of **Leilon**, the village nearby." (We saw this on the way in, ruined by the edge of the Mare). "He knows the Mare well; he might know more about the dragon, **Klaugmyathar**".
+Zara says, "I know of someone - a druid - slightly crazy druid who likes to camp out in the ruins of **Leilon**, the village nearby." (We saw this on the way in, ruined by the edge of the Mare). "He knows the Mare well; he might know more about the dragon, **Klaugmyathar**". 
 
 (Penny's stories from the war mentioned a famous black dragon in the Mare; she can't quite place its name, but she's pretty sure it's not that - so this must be a different one?)
 

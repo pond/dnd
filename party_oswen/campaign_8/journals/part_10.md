@@ -748,3 +748,22 @@ Through the window, outside, we can see that Kindle is in the garden, emptying a
 **END OF WILD BEYOND THE WITCHLIGHT.**
 
 (End of Part 1.10)
+
+
+
+LOOSE ENDS
+
+* Aviary windows password: **Canzus**
+* Talk to Igrik? Talk to Shon?
+* Avoid the League! Where is the fourth member?
+
+* CHECK PLAYLIST for Hither and Carnival loose ends
+* The kids and Star are still in Thither, *some* of whom want to go home - ZYBILNA
+* Meadowleaf the Centaur and Winterbow, the lost centaur, in Thither - ZYBILNA
+* We have the Witchlight Carnival ticket signed by Isolde - give back to Witch & Light
+
+PEOPLE
+
+* Bavlorna, Granny Nightshade AKA Scabatha and Endelyn Moongrave (Creeping Lyn, Bitter End, Evil Lyn)
+* Zybilna and Professor Madrick Roslof
+* Mairgold wants to find the 'real' Earnest's body

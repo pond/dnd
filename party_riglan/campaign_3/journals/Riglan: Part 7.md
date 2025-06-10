@@ -45,7 +45,7 @@ We estimate, given roughly 5 days from Sungift to Deepgarden total travel time a
 * The family heirloom - Thel Drendar's wife, Mirna - is returned. It's a little melancholy but it was always an odd place to be and it's good to have the heirloom back.
 * She thought we'd keep it as payment for rescue, but we just say that she should follow Reidoth's wishes - be told what they were told, back when they tried to reclaim the village - let it return to nature and dissuade others from going. Plenty of other places to live.
 
-We check in with Koza with the dragon scales. They measure up Riglan and come back with a pattern that Maireagh takes. Koza gives her some special tools which Maireagh pays for. They're talking in Dwarven the whole time so Riglan isn't sure what exactly is the deal but it's easy enough to guess. Maireagh explains - since they'll be on the road and given the work required, it'll take a long time; 15 days at least. So Maireagh wants to work on-the-go. Just one proviso: Could we get a wagon from the wainwright?
+We check in with Koza with the dragon scales. They measure up Riglan and come back with a pattern that Maireagh takes. Koza gives her some special tools which Maireagh pays for. They're talking in Dwarven the whole time so Riglan isn't sure what exactly is the deal but it's easy enough to guess. Maireagh explains - since they'll be on the road and given the work required, it'll take a long time; 15 days at least. So Maireagh wants to work on-the-go. Just one proviso: Could we get a wagon from the wainwright? 
 
 Sure. Why not.
 

@@ -151,7 +151,7 @@ She's concerned about the crew's mental state on the Astral Sea. The journey has
 
 At this, Penny, who had been keen to dispel the rune in the room - but her L3 spells are tapped out, so she was going to ask Thorin - decides that waiting might be better. Once we lower the ward, Inda might notice and since she's isolated in the bow she won't know what's going on and might be on high ale rt. Leaving her that way while we long-rested would be bad! And it means the safe stays protected while we rest.
 
-Icasa asks when we're going to Daveras... We have to sleep. He'll keep watch! That's very kind.
+Icasa asks when we're going to Daveras... We have to sleep. He'll keep watch! That's very kind; he'll keep watch.
 
 We take a long rest.
 

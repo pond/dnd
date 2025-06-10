@@ -1,4 +1,4 @@
-# D&D Campaign Two: Finalé
+# Gnog: Part 2.x - Finalé
 
 Final battle:
 
@@ -48,9 +48,15 @@ Garren speaks softly and calmly, his expression earnest; Garren's body, but Baha
 
 "Thank you. You've been a good friend. You stayed true in difficult times. You led when you needed to, but you weren't afraid to follow; I guided as best I could. The work here is done. You know, now, that there are many planes. Somewhere else, my help is needed again."
 
-Garren smiles warmly. "Farewell, Gnog."  He leans down and kisses Gnog on the forehead. "I will always be near to you, my friend."
+Garren smiles warmly. "Farewell, Gnog." He leans down and kisses Gnog on the forehead. "I will always be near to you, my friend."
 
 In his shock and surprise and fatigue, Gnog has no time to think of anything to say; and just like that, in such a brief moment, in a sudden fading out of existence from this plane... Gnog's friend is gone. Where he once stood is now just empty air, with the darkening sky beyond. There is a sudden, lurching realisation - a profound and deep feeling of loss. His eyes welling with tears of confusion, anger and sorrow that he cannot stop, Gnog loses consciousness in the cart and crumples down into the hay.
+
+
+
+(Druids portal evacuees through the forest trees, to safety. Spell upon spell, rank upon rank, slowly clearing the battlefield.)
+
+
 
 Gnog awakes. Everything aches. The location is familiar, but impossible. Somehow, Elturel; he sees the familiar light of the Companion mixed in with the sunlight. It feels like the early morning. Did he really sleep through days of travel? No, not days; hurts too much. The druids. Must've been the druids...
 
@@ -175,7 +181,7 @@ Finally returning to the tavern, we climb once more to the turret room. Garren's
 
 Even Deni is relaxed enough to leave the armour at home today.
 
-We arrive a bit early, but Thunderspells, Sir Istabel, along with Remalia and Leosin already there. Ontharr arrives shortly after along with Ravengard (Baldur's Gate Marshall). Dagult Neverember arrives with Rian, then Malandrek and Delenn shortly after; Conrad Braunanvil (Dwarf) too. A little later, Vajra, McCath and Captain Gisella. Near Thunderspells, a person from a while back - we met them at Silverymoon. One of their knights, tactician Searlus. Dala and Elya sit near us. At the front is an unknown-to-us, slightly overweight older human with a white beard and floppy gold-trimmet hat, sitting near Braunanvil. Leirol arrives and starts proceedings at 10am sharp.
+We arrive a bit early, but Thunderspells, Sir Istaval, along with Remalia and Leosin already there. Ontharr arrives shortly after along with Ravengard (Baldur's Gate Marshall). Dagult Neverember arrives with Rian, then Malandrek and Delenn shortly after; Conrad Braunanvil (Dwarf) too. A little later, Vajra, McCath and Captain Gisella. Near Thunderspells, a person from a while back - we met them at Silverymoon. One of their knights, tactician Searlus. Dala and Elya sit near us. At the front is an unknown-to-us, slightly overweight older human with a white beard and floppy gold-trimmet hat, sitting near Braunanvil. Leirol arrives and starts proceedings at 10am sharp.
 
 There is a toast given, using the first of the summer teas grown actually on palace ground, to the future and promise of brighter days to come. Leirol thanks *everyone* present for their sacrifices and commitment. Remalia is asked to give as much of a complete account as currently understood for everything that happened. It is a high level view of how battle proceeded, but they have little information on what happened in the temple as most harpers that attended there ended up on rescue duties.
 
@@ -183,8 +189,8 @@ We are tasked with filling in much of the temple events. Remalia produces the ma
 
 The question of losses comes up.
 
-Cormir: Istabel says, lost 1/4 of their forces, heavily in the Shining Comapny (> 1/3).
-Daggerford: Istabel also describes this: rebuilding continues with docks nearly restored, but they lost an awful 1/2 of their people (!).
+Cormyr: Isteval says, lost 1/4 of their forces, heavily in the Shining Company (> 1/3).
+Daggerford: Isteval also describes this: rebuilding continues with docks nearly restored, but they lost an awful 1/2 of their people (!).
 Dwarves: lost 1/2 of the war machines, around 1/5 of the troops, others beaten up but healing and expected to recover.
 Elves: 150 elves fell, including *everyone* in the temple, 1/5 of their overall forces also.
 Neverember: His mercenaries: About 10%

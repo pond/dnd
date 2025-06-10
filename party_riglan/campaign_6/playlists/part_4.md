@@ -27,7 +27,7 @@
 
 * (Genshin) Distant Portrayal: The Speaker's Assistant
 * (Genshin) Searching For Clues: Embassies And Ambassadors
-* (Tolkien) The TCBS: Skim To Salgaunt
+* (Tolkien) The TCBS: Skim To Selgaunt
 * (Dragon Age Origins) King Edrin: Machinations Of The Senate
 * (Genshin Jnana And Vidya) Fatal Confrontation: Suspicious Little Bird / Learning Of Loic
 * (Anthem) The Titan: Confronting The General

@@ -113,18 +113,12 @@ Passive insight; Francesc notes that despite being feed she's very dispondent st
 
 **We get a strange sense of a - currency. A tether to this currency? Were we to choose to reveal this secret to the 'universe', we could use this strange link with this being we met - we think it was Vecna - to grant us some kind of special boon. If we tell anyone, that's revealing it. We all know this secret so it could be used just once.**
 
-Gertrude is aware of who else is here - and warns us...
+Gertrude is aware of who else is here - and warns us; an elf assassin is around, there are two orc necromancers; two grimlocks (twisted underdark creatures of magic) and an **erinyes** - a fallen angel - very dangerous! Appears to be in charge. Does she know where the ritual is being done? They're taken to a summoning circle to the north of us.
 
-* A dark elf (Drow) assassin is around
-* There are two orc necromancers
-* Two grimlocks (twisted underdark creatures of magic)
-* An **erinyes** - a fallen angel - very dangerous! Appears to be in charge.
-* "There was another prisoner here, who was replaced by the elf (who resisted, was injured and died from the injuries). They were, it turns out, one of the cultists who'd said the wrong thing; they were taken and sacrificed... And I think **at least one Greater Demon has been summoned as a result**."
-
-We try talking to the bugbear. No response. Head in hands. We unlock the door and Penny goes in to see what's wrong - but it's already dead, from lack of water or food. Gertrude says the cultists are very strange; they need prisoners for sacrifice, yet let them die from neglect.
+One more warning! "There was another prisoner here, who was replaced by the elf (who resisted, was injured and died from the injuries). They were, it turns out, one of the cultists who'd said the wrong thing; they were taken and sacrificed... And I think **at least one Greater Demon has been summoned as a result**."
 
 (Penny meanwhile adds her remaining hands-on 8 points from the pool to help Gertrude; she's only at 48, some *90* short of max, but it's better than nothing...)
 
-Does she know where the ritual is being done? They're taken to a summoning circle to the north of us. North it is!
+We try talking to the bugbear. No response. Head in hands. We unlock the door and Penny goes in to see what's wrong - but it's already dead, from lack of water or food. Gertrude says the cultists are very strange; they need prisoners for sacrifice, yet let them die from neglect.
 
 (End of part 41)

@@ -2,13 +2,13 @@
 ## Session zero, 22-Jan-2024
 ### In Which We Meet A Halfling
 
-Oswen, a 22 year-old wizard halfling, was drawn into the Fey when was 14 years old. She arrived in Torril about a year ago, and doesn't understand the process that got her there, or that got her back. This drives her to study magic. Her appearance and her own sense of age may well differ from that of anyone who knew her as a child, since time in the Fey Wild can pass differently.
+Oswen, a 22 year-old wizard halfling, was drawn into the Fey when was 14 years old. She arrived in Toril about a year ago, and doesn't understand the process that got her there, or that got her back. This drives her to study magic. Her appearance and her own sense of age may well differ from that of anyone who knew her as a child, since time in the Fey Wild can pass differently.
 
-Most of her memories are from her time in the Fey domain, but she does remember two parents. She has no idea how to find them. In the Fey, she was raised by Dryads, and found her memories of Torril becoming quite fuzzy very quickly. To her dismay, upon returning to that plane, she realised that while she did have a clear memory of her parents' faces, she can't remember their names.
+Most of her memories are from her time in the Fey domain, but she does remember two parents. She has no idea how to find them. In the Fey, she was raised by Dryads, and found her memories of Toril becoming quite fuzzy very quickly. To her dismay, upon returning to that plane, she realised that while she did have a clear memory of her parents' faces, she can't remember their names.
 
-The Dryads were independent, nature-loving people who tended to trees and animals. They taught her how to live off the land (although the land of the Fey Wild differs from that of Torril rather substantially!). She learned of the Fey Wild rules; people of whom to be wary; to stay out of the way of more powerful Fey who can be very whimsical and impulsive; and so-on, and so-forth. She remembers a great deal of "be wary"! She enjoyed talking to the Fey wild animals; dancing the night away with Satyrs (but knowing not to accept offers of drink!) and used to watch herds of Centaurs from afar but was always too scared to approach, given their huge size.
+The Dryads were independent, nature-loving people who tended to trees and animals. They taught her how to live off the land (although the land of the Fey Wild differs from that of Toril rather substantially!). She learned of the Fey Wild rules; people of whom to be wary; to stay out of the way of more powerful Fey who can be very whimsical and impulsive; and so-on, and so-forth. She remembers a great deal of "be wary"! She enjoyed talking to the Fey wild animals; dancing the night away with Satyrs (but knowing not to accept offers of drink!) and used to watch herds of Centaurs from afar but was always too scared to approach, given their huge size.
 
-She finds Torril social interactions difficult. It's nothing like the Fey. Worse yet, the animals don't speak. A difficult year figuring out how to interact, but her insistent excitement about all the new things she was seeing carried her through. That said, she thinks of her Dryad home often and misses it.
+She finds Toril social interactions difficult. It's nothing like the Fey. Worse yet, the animals don't speak. A difficult year figuring out how to interact, but her insistent excitement about all the new things she was seeing carried her through. That said, she thinks of her Dryad home often and misses it.
 
 More to the point, the new things are *very* new. Too new; she has a sneaking suspicion that she might not have come from this realm originally at all. Her parents may not even be on this world.
 
@@ -16,9 +16,9 @@ A saving grace was her arrival in woods (at a Fey Wild crossing, not that she un
 
 She eventually arrived at a small inn standing alone on the road. She was taken in by the kindly innkeepers (**easter egg note - the inn at Ashara's Crossing, see Riglan, campaign 6**), who marvelled at what she considers her limited magic. The guests were interesting - they seemed to be some kind of secret society! They helped her with a backpack, some food and water, and sent her South, over a bridge over a river, and into a powerful nation which took her in - the city of Ordulin.
 
-People here look after each other (in essence, social security). She remembers are classic poor/poverty, hard work, farming kind of vibe where if you didn't earn, you didn't eat. This leans into the idea that she might not have come from this world as a result (unaware of the sheer size of Torril).
+People here look after each other (in essence, social security). She remembers are classic poor/poverty, hard work, farming kind of vibe where if you didn't earn, you didn't eat. This leans into the idea that she might not have come from this world as a result (unaware of the sheer size of Toril).
 
-Dates in Torril are meaningless to her. People keep referring to times of trouble and **some scary war that happened some way North a few years ago**. Apparently she'd come from a forest close to that war, so they were asking her about it.
+Dates in Toril are meaningless to her. People keep referring to times of trouble and **some scary war that happened some way North a few years ago**. Apparently she'd come from a forest close to that war, so they were asking her about it.
 
 Being at Ordulin was a revelation. She had access to libraries, books, materials; to study however she wanted! Yet so many of her questions could not be answered - it felt like she wasn't *from* here. There was just a pull. A draw to wander afar. To learn more, to study. Her own life is a mystery that must be solved. This always created a bit of a distance between her and even people she ultimately would call friends - they couldn't understand why she wasn't content. It might have come across as being ungrateful (low charisma!) even though it wasn't.
 

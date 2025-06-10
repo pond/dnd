@@ -7,7 +7,7 @@
 
 * (Tolkien) Everything That's Good: "Good Morning, Oswen!"
 
-### Chapter One: With A Single Step...
+### Chapter One: ...With A Single Step
 
 * (Macross Plus) Very Little Wishes: The Book - Fond Memories Of Former Lives Lost (Oswen's Theme)
 * (Henri Vartio) Takeoff!: The Carnival Arrives

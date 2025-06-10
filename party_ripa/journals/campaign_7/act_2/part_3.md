@@ -1,6 +1,6 @@
 # RIPA: Act 2, Part 3
 ## Session 49 (2024-10-01)
-### Trade Gate, "Pig & Whistle" Tavern, early afternoon
+### Trade Gate, Sigil day 3; "Pig & Whistle" Tavern, early afternoon
 
 We have negotiated with Captain Tomoko of Spelljamming hull The Scarlet Arrow, to take us to the Astral Sea in search of the wrecked Lambent Zenith. We believe now that this is a rescue mission, as well as an attempt to recover the second rod segment. Finding the wreck would be all but impossible in that strange realm-between-realms, except for a huge lucky break - we have a necklace given to us by Cyrix, a partner of Kycera of the Lambent Zenith crew. We hope that once in in the Astral Sea we should be able to use the Helm to teleport to that location, on the basis that the necklace's "home location" is with its creator, gather whatever information we need to be able to help The Scarlet Arrow navigate to that position, then teleport back and get the rescue underway. There may have been almost six months elapsed since the necklace was given, though, and after six months the Helm would not be able to make use of the object, so time is of the essence.
 
@@ -56,7 +56,7 @@ The other dwarves have started to figure out who is fighting who and one moves t
 
 The ogre turns and tries to back away from Penny. As it does, the cats hit, which ends its frightened condition. At least it takes 20 damage from them. Regaining its senses, and starts to cast... Penny can't Counterspell, as she's too badly influenced by the rats. A yellow cloud explodes outwards, heavily obscuring the area, making people choke and cough. We all need CON saves from whatever it casts. Penny 16, Thorin 32, Francesc 5, Arturo 26.
 
-The insectoid pushes back against the effects of the rats. It has trouble seeing through the new cloud. It jumps forward, guessing the correct direction, and brings all four of its swords - with a nat 20 - into the ogre! 64 damage. The ogre falls. The rats immediately start to scurry away and the cloud stops thickening, but there's not much of a breeze inside to push that away. The Hadozi on the bar starts flapping its arms, and we see it's a bit like a flying squirrel - there are actually wings there. It does fan some of the cloud away. Meanwhile the githyanki tries to hit Thorin but the cloud obscures its vision and it can't see enough to connect reliably. It avoids the cats adeptly (crit), but still takes 10 damage from them.
+The insectoid pushes back against the effects of the rats. It has trouble seeing through the new cloud. It jumps forward, guessing the correct direction, and brings all four of its swords - with a nat 20 - into the ogre! 64 damage. The ogre falls. The rats immediately start to scurry away and the cloud stops thickening, but there's not much of a breeze inside to push that away. The Hadozi on the bar starts flapping its arms, and we see it's a bit like a flying squirrel - there are actually wings there. It does fan some of the cloud away. Meanwhile the Githyanki tries to hit Thorin but the cloud obscures its vision and it can't see enough to connect reliably. It avoids the cats adeptly (crit), but still takes 10 damage from them.
 
 Thorin Moonlight Step to get close to the orc behind the bar (causing considerable damage, given his scorpion form's size). The stinger is dodged despite a surprise advantage (d20 ADV 4, 5 rolled) but then the claws go for an attack; one of the two gets a hold, dealing a max 10 damage. The orc is temporarily grappled, too.
 
@@ -147,6 +147,10 @@ We see cities that make any other city look like backwater hamlets. Tens of glit
 
 Vecna, behind, sighs - or something like that; lets go and turns his head; the portal closes. *A cultist who is half-way through is sliced in half!* Nobody seems to bat an eyelid. The body part is dragged away and thrown down to the space below.
 
+
+
+### Trade Gate, Sigil day 4
+
 Thorin wakes up and sees Francesc on watch alone. Arturo and Penny are asleep. It's getting up time, so we are shaken awake. We do so normally and are fully rested, but...
 
 * Arturo: "I was doing some reconnaissance work in my dreams!"
@@ -182,7 +186,7 @@ Initiative: Penny 15, Githyanki 15. We both punch and dodge simultaneously! Agai
 * Penny hits once more, L2 smite. 15 damage. It falls back onto the ground, its eyes rolling back; it yells out something, the word "Gith" in there; lands, catches itself, coughs up blood; tries to get up, collapses; tries again; and the ref starts counting - 1... 2... 3...
 * ...it can't get back up.
 
-There's huge applause. Penny rushes forward, avoiding the ref taking her arm and throws 30hp into the Githyanki, somewhat horrified by what she's had to do. It gets up, blinking as its vision returns. It clutches its own holy symbol and casts something. Turns out - Tongues. Now it speaks, curiously in Elvish for some reason - she understands it - "A noble defeat. And nobler yet to see the character and values of your opponent. Gith would welcome you into her fold in an instant! You can walk amongst us with no shame. You are better than your kind. I will abide by your demands. I will not interfere in your mission for surely it is a holy one. I will provide assistance however I can, should you need it."
+There's huge applause. Penny rushes forward, avoiding the ref taking her arm and throws 30hp into the Githyanki, somewhat horrified by what she's had to do. It gets up, blinking as its vision returns. It clutches its own holy symbol and casts something. Turns out - Tongues. Now it speaks, curiously in Elvish for some reason - she understands it - "A noble defeat. And nobler yet to see the character and values of your opponent. Gith would welcome you into her fold in an instant! You can walk amongst us with no shame. You are better than your kind. I will abide by your demands. I will not interfere in your mission for surely it is a holy one. But I will provide assistance however I can, should you need it."
 
 Penny says back, "We spoke the truth. We go there to rescue the crew. We will do everything we can to rescue your mate if they live."
 

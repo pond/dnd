@@ -33,7 +33,7 @@ A beautiful dressing room. Curtains drawn. A view from up towards the ceiling, l
 
 We do our best to sketch the view, to try and figure out - if we go there - what this viewpoint might be. We look in particular for landmarks, **such as the main gate and outer wall** which are prominent and close. We're north of the bridge, on the hill looking back at the city. We move the viewpoint outside and look back at the house for good measure! **Two storey, manor/villa, stood on its own**. Surprisingly it looks poorly kept; once grand, now overgrown.
 
-Before Penny can grab it, Thorin pockets the True Sight orb!
+Before Penny can grab it, Thorin pockets the True Sight orb! 
 
 Francesc thinks that there's more to this than meets the eye. She reckons the orb should need attunement, but the scrying pool *and* the pedestal help with not needing to attune. In a flash, **she puts the Obscura on the pedestal to try and use it!**
 

@@ -15,7 +15,7 @@ Combat with a black dragon awaits us in the marshes beyond.
 * Destroying it requires equal force in magic to that which created it, so understanding its magical creation can help. The giants know a lot about that kind of thing, or Candlekeep.
 * He's granted a boon from his fey contacts - a fey horse, that can ride through the night.
 
-After a couple of days, Arturo starts to get a growing sense of unease - a feeling that something bad might happen; to him, or to the party, he's not sure; down South. He listens to his instincts.
+After a couple of days, Arturo starts to get a growing sense of unease - a feeling that something bad might happen; to him, or to the party, he's not sure; down South. He listens to his instincts. 
 
 ### Day 11, 7pm
 
@@ -232,7 +232,7 @@ The dragon acts again. It spreads its wings and lifts off. Fortunately the caver
 
 Wisdom saving throws against Fear, DC unknown.
 
-* Penny 20+5->25.
+* Penny 20+5->25. 
 * Francesc 18
 * Thorin 19
 * Arturo with Tides Of Chaos 17

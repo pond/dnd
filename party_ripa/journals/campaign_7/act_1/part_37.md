@@ -110,7 +110,7 @@ Now it's Dwarf Vs Frog. He activates his staff and hits; 11 damage. And finally!
 
 Francesc investigates... She sees etches on the sculls - a giant rune of death. This was probably actually a rather convoluted form of security! Thorin suggests more investigations. Arturo's dragon is around for a while; it clears out a few more strange zombie creatures - including a zombie dragon fly with only two wings, both on the same size! Arturo via the dragon sees that these things seem to be centred - oh, oddly, to the North West, by a nearby giant rock pillar.
 
-Arturo thus suggests that we ignore the ruins to the south and consider going upriver, which at least we can do on foot. We leave the raft pulled up well clear of the river bank and start walking.
+Arturo thus suggests that we ignore the ruins to the south and consider going upriver, which at least we can do on foot. We leave the raft pulled up well clear of the river bank and start walking. 
 
 The pillar is the one we saw from them mesa. From down here it's hard to comprehend; it goes right up into the clouds and, when those move and we see gaps, seem to reach the cavern roof. It seems impossible - its sides are jagged, but seem largely vertical. Close up we see there are sort of fins of rock, with big junks of 10 or 12ft high boulders that have fallen and embedded themselves into the ground around. They seem to be bits of these "fins" that have eroded away over time. Looking closer, it seems like these fins were once very geometric - unnaturally so - constructed; but now, things have eroded and fallen.
 
@@ -147,7 +147,7 @@ Thorin, insight 29. Well, it won't be only one floor! He looks around and sees a
 
 Always a completist, Thorin decides to open more doors on the same floor to see what's here. Through some, a bedroom with adjacent study; more blown out walls, more arrow slits there. Francesc has a poke around in the study - shreds of stone tablets here; a few of them are of a similar shape to the stone tablets for which we are hunting. Francesc understands the language, but the linguistic form is quite different from that with which she is familiar. Basically, it's old. It is a kind of personal account that seems to suggest concern - concepts of disagreement with "what the chaplain is doing", not knowing enough or knowing intentions; "how can one know the intentions of something one cannot understand". One word seems to be probably an equivalent of "far realm". There was some experimentation happening... This was a religious place once... Rites, rituals, consecration...
 
-Arturo wonders if the ring is actually a cylinder, we which we can tell if we change floor. First, we finish investigations on this one. Another bedroom; some giant-scale jewellery of unknown value and dubious resale ability but Thorin bags some anyway! - and finally, downstairs, using the central-ish set we found through the
+Arturo wonders if the ring is actually a cylinder, we which we can tell if we change floor. First, we finish investigations on this one. Another bedroom; some giant-scale jewellery of unknown value and dubious resale ability but Thorin bags some anyway! - and finally, downstairs, using the central-ish set we found through the 
 
 There's an altar here, to the daughter of Annam; stone steps to possibly a temple complex, but collapsed now; and another door. We still have the dragon. We push in. Via passive insight, Francesc and Thorin get a bad feeling... Something's wrong! Thorin voices concern but the door is now opening...
 

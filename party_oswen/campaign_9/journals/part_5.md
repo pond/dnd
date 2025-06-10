@@ -45,9 +45,9 @@ Oswen (self-set DC13 WIS save to stay on mission) WIS save 12. So, she convinces
 
 There are lots of people on the causeway, who make way for it but otherwise pay it no mind. As it walks past, Oswen can't resist. She waves and goes, "Hi, I'm Oswen!" - persuasion is only 9. She's too quiet to catch the attention of this huge creature, especially over the loud thudding footfalls. As it passes, she realises it's even trying to take care not to 'swish' its tail too much and knock people off the causeway. If it tried to take off here, the downdraft would probably throw everyone off the sides!
 
-We carry on. We see Dwarven lettering on the building that she recognises as such but can't read; underneat, in Common, "**The Central Bank Of Abbathor**". She says, almost disappointed, "Oh, it's just a bank!" - HIS check, 20(!)+5->25. She knows the name... It's a minor/obscure god on Torril; the **Dwarven god of greed**! It's "blamed" for the 'curse of gold' of Dwarven myth. She says, "Well, even so, I don't see why a beholder needs gold..." but Inafina says, "Well, it's probably the only way to buy the vegetables on sticks. I mean - it's gotta eat *something*!"
+We carry on. We see Dwarven lettering on the building that she recognises as such but can't read; underneat, in Common, "**The Central Bank Of Abbathor**". She says, almost disappointed, "Oh, it's just a bank!" - HIS check, 20(!)+5->25. She knows the name... It's a minor/obscure god on Toril; the **Dwarven god of greed**! It's "blamed" for the 'curse of gold' of Dwarven myth. She says, "Well, even so, I don't see why a beholder needs gold..." but Inafina says, "Well, it's probably the only way to buy the vegetables on sticks. I mean - it's gotta eat *something*!"
 
-The building is made of huge marble blocks. The main door is at least 50ft wide and high - the whole thing is on a dragon-friendly scale - and closer, now, we see a great list of some 60 or so names underneath the main heading. "Sigil" and "Mithril Hall" are included; so she thinks it's a list of cities. She thinks another couple are Torril cities she's vaguely heard of including one called "Maztica" but no others, so whatever this means, it perhaps requires a city to have a minimum level of wealth, which puts Mithril Hall into perspective if true? Or they could be branch locations?
+The building is made of huge marble blocks. The main door is at least 50ft wide and high - the whole thing is on a dragon-friendly scale - and closer, now, we see a great list of some 60 or so names underneath the main heading. "Sigil" and "Mithril Hall" are included; so she thinks it's a list of cities. She thinks another couple are Toril cities she's vaguely heard of including one called "Maztica" but no others, so whatever this means, it perhaps requires a city to have a minimum level of wealth, which puts Mithril Hall into perspective if true? Or they could be branch locations?
 
 The beholder has wandered inside and is floating away to another level. Through the open door, Oswen sees a giant statue of a dwarf, 40-50ft high, huge gems for eyes and a metallic sheen that looks very like platinum. Too much money by half!
 
@@ -77,17 +77,17 @@ He asks if we want to do a mission - off the books. For sure, yes!
 
 He invites us upstairs now, his study. As we ascend, we can't help but notice how very decorated the whole building is. Quite a remarkable place! The study itself has a mirror that is almost certainly magical, a crystal ball on a pedestal and numerous other items of note that would be quite remarkable, except for us having seen the study at Paliset Hall. Some kind of Silence / anti-scry spell is cast. We have privacy.
 
-"A great power has been rising unbeknownst to most of us, who really should have been more aware of it. It's an old foe, one who I have defeated before although he was less powerful then than he is now. In the intervening years it seems he has attained equal power and status as a god, through forbidden means! Not content with just being an arch-lich, he seeks something more. **His name is Vecna**. Not generally a threat to the world where I come from, or you, but his threat has now expanded beyond his home world of Oerth..." - at this Oswen jumps and says, "Oh, I thought was a low-magic plane!" - "...it generally is! I think that is why he was able to rise to such power unnoticed. He is a planar traveller himself. He has died many times and is now not only undead but godly. We were not aware of this threat until very recently. **My divination spells suggest that Torril and Oerth are sadly - they're un-saveable at this stage.**"
+"A great power has been rising unbeknownst to most of us, who really should have been more aware of it. It's an old foe, one who I have defeated before although he was less powerful then than he is now. In the intervening years it seems he has attained equal power and status as a god, through forbidden means! Not content with just being an arch-lich, he seeks something more. **His name is Vecna**. Not generally a threat to the world where I come from, or you, but his threat has now expanded beyond his home world of Oerth..." - at this Oswen jumps and says, "Oh, I thought was a low-magic plane!" - "...it generally is! I think that is why he was able to rise to such power unnoticed. He is a planar traveller himself. He has died many times and is now not only undead but godly. We were not aware of this threat until very recently. **My divination spells suggest that Toril and Oerth are sadly - they're un-saveable at this stage.**"
 
 (From this point on, Oswen isn't fully listening - her head is spinning)
 
-"Knowing the history of how things are, I fear the Lady Of Pain will close off all the portals to Torril some time soon, just as she has already closed off the portals to Oerth. We only became aware of this when reports started surfacing of those portals not working. Now, recently a friend of mine gave me a very precious book. She's the one who connected me with a component, an artefact that helped me do this divination that led me to you. You know this old friend of mine, but perhaps under a different name - she's **Tashsa**."
+"Knowing the history of how things are, I fear the Lady Of Pain will close off all the portals to Toril some time soon, just as she has already closed off the portals to Oerth. We only became aware of this when reports started surfacing of those portals not working. Now, recently a friend of mine gave me a very precious book. She's the one who connected me with a component, an artefact that helped me do this divination that led me to you. You know this old friend of mine, but perhaps under a different name - she's **Tashsa**."
 
 Oswen is jolted out of her reverie - "So that's why you have her book?"
 
-"A signed copy in fact! Now, Tasha and Alustriel have concluded that the only way of saving Oerth and Torril and the other planes to follow, which will collapse under his influence, is to obtain the parts of an ancient artefact. And this I have done - I have obtained a piece of it. But my fear is that if this accelerates, then... Well. I also have doubts about the Incantarium appearing! I wonder if it's just connected, but maybe I'm just paranoid! Do you - ummm. I trust you. You seem capable but you also seem... Iconoclastic?! You seem... Like a spark of the unexpected. Something which Vecna has not planned for. I am a known quantity. So is Tasha so is Alustriel. In a way, so is all of Sigil! Look - I hope you don't feel pressured but I have a very, very important task for you."
+"A signed copy in fact! Now, Tasha and Alustriel have concluded that the only way of saving Oerth and Toril and the other planes to follow, which will collapse under his influence, is to obtain the parts of an ancient artefact. And this I have done - I have obtained a piece of it. But my fear is that if this accelerates, then... Well. I also have doubts about the Incantarium appearing! I wonder if it's just connected, but maybe I'm just paranoid! Do you - ummm. I trust you. You seem capable but you also seem... Iconoclastic?! You seem... Like a spark of the unexpected. Something which Vecna has not planned for. I am a known quantity. So is Tasha so is Alustriel. In a way, so is all of Sigil! Look - I hope you don't feel pressured but I have a very, very important task for you."
 
-Oswen says, "You said, 'way of saving Oerth and Torril'"
+Oswen says, "You said, 'way of saving Oerth and Toril'"
 
 "I believe it is possible"
 
@@ -103,7 +103,7 @@ Oswen says, "You said, 'way of saving Oerth and Torril'"
  
 "A ship that can traverse planes. She knows how to slip undetected through the Astral Plane to the edge of the Deep Ethereal - to the Golden Vault's location of **The Radiant Citadel** where it should be safe from the Incantarium. Either way it gives us a chance to get that piece to the people who have the other pieces, or will have. Either way it cannot stay here in Sigil. If I am right, and the planes start falling, it may reach a tipping point where the Lady Of Pain does something she has not done for a very long time. She will close *all* the doors. That would make it impossible for the rod to be completed. Inda Malayuri and her crew are on the **Lambent Zenith**, at a Skydock in the Outlands, near the city of **Trade Gate**.
 
-Oswen looks at Bel, in particular, and thinks of herself too. Of course she zoned out earlier - her world will be destroyed with everyone on it, including Leonidas and all the others she cares about so deeply. But what of the Fey, of Bel's people? "If Torril falls, what happens to intersecting planes, like the Fey Wild?"
+Oswen looks at Bel, in particular, and thinks of herself too. Of course she zoned out earlier - her world will be destroyed with everyone on it, including Leonidas and all the others she cares about so deeply. But what of the Fey, of Bel's people? "If Toril falls, what happens to intersecting planes, like the Fey Wild?"
 
 "I don't know. But my understanding is that most of the power and the populations lie in the Material Plane. My prediction is that Vecna will go after them first. The intersecting planes, like the Shadow Fell or the Fey Wild, have their own protectors that may hold back the tide for longer than the Material Plane can. But as soon as he has conquered Material Planes, he'll go after the Lower and Upper planes too. The Inner and Outer; the elemental... Then ultimately, the Astral and Ethereal. I think his ultimate goal is to lay siege upon Sigil and lay claim to the nexus of all reality. That's why she'll close it off and ride that out. But we - *I* - don't want to see my world fall. Tasha is distraught, as her world has already been closed off; it might not be lost, but Vecna is certainly there, taking it over. We had agents that were trying to stop it happening, but everyone there is now trapped. They'll have to go underground until we can reach them some other way. It's only a matter of time before the other planes start to crumble. Eberron, Krynn..."
 
@@ -135,7 +135,7 @@ Great. Arts and crafts... "Well, we can, and we'll check the market - it seems q
 
 The gate is the entrance to an alleyway that so happens to be positioned exactly in the right place so no light ever enters past the entrance. If lit on one side it's always dark on the other. It's in Clerk's Ward. He gives us directions. "I would like to give you something else" he says. "You are a wizard, are you not?" "Well, yes, I try!" "I have set of spells that *I* created!" - he pulls out a scroll case and rolls up three scrolls. He gets suddenly quite enthusiastic. "He puts them in refined these myself - I discovered them - they can be very useful at times! They've served me well over the years. Hopefully they'll serve you well too! I would sign them but if you use them it'll be gone."
 
-Oswen thanks him, says, "We'd better be going I suppose" and people start to get to their feet, her mask drops for a moment, and she's suddenly looking very short, very small, in a big world, and very scared. And she asks, "You're sure there's a chance for Torril?"
+Oswen thanks him, says, "We'd better be going I suppose" and people start to get to their feet, her mask drops for a moment, and she's suddenly looking very short, very small, in a big world, and very scared. And she asks, "You're sure there's a chance for Toril?"
 
 "Yes. I am certain. We can undo this corruption that he has spread through the planes. He *must* be stopped. His point of view cannot be allowed to overtake everything."
 
@@ -148,6 +148,8 @@ Oswen thanks him, says, "We'd better be going I suppose" and people start to get
 We head downstairs and out. Outside Oswen just looks at the group and they know what she's thinking (Leonidas, and everyone else). And she clears her throat and says, "Well, that's a *LOT*. Let's see what we can find in the market for use as a gate key."
 
 We head into the crowds.
+
+
 
 ### 4000XP each for this and all other things since the gala
 ### Market Ward, City of Sigil
@@ -162,7 +164,7 @@ Oswen clears her throat and says "well, I suppose it just hit me. Kaden and Vera
 
 "Perhaps they didn't get there?"
 
-"Well, we don't know. But it seems bad. And - well, you're not from Torril, but I'm from Torril. And Leonidas is there."
+"Well, we don't know. But it seems bad. And - well, you're not from Toril, but I'm from Toril. And Leonidas is there."
 
 "You don't really know that!"
 
@@ -182,7 +184,7 @@ We trade ideas. Then Oswen has a lightbulb moment. If we can find a newspaper, o
 
 So let's look for a stall that's more about books, stories, pamphlets - even politics, of which Sigil seems to have more than its fair share!
 
-Meanwhile Inafina finds (perception 16) a stall with fans, one of which have day and night on each side. We buy that, because it seems like a good bet, but don't stop there. Inafina says, "Wait, do we need one, or one *each?*" - and we realise we don't know! OK, so we might need *four* things. It didn't sound like it from Morden, but then again, better safe than sorry. Orville works on Oswen's theory and looks for stalls that might be political or stories. Flat perception 19. He flies up and sees the middle of the great bazaar. Someone is handing out flyers. OK, he reports back; we head to the middle to see what that's about, keeping our eye out as we go.
+Meanwhile Inafina finds (perception 16) a stall with fans, one of which have day and night on each side. We buy that, because it seems like a good bet, but don't stop there. Inafina says, "Wait, do we need one, or one *each?*" - and we realise we don't know! OK, so we might need *four* things. It didn't sound like it from Morden, but then again, better safe than sorry. Orvil works on Oswen's theory and looks for stalls that might be political or stories. Flat perception 19. He flies up and sees the middle of the great bazaar. Someone is handing out flyers. OK, he reports back; we head to the middle to see what that's about, keeping our eye out as we go.
 
 It's for "The great debate". "What's the debate about?" we ask. It's a classic debate! Two factions of Sigil. Perfect! We have two sides, opposing in debate. One is the Athar, who we remember claim the gods are all false. The other side, The Mind's Eye, who are seekers who see experience and exploration as the path to divine godhood. *Everyone* can be a god.
 
@@ -270,7 +272,7 @@ So we get an escort! Better than we hoped. They march off and we march off with 
 
 "First we must face Spireword!" says the noble. In the distance he points and there's an unfathomably tall spire of rock. We look around; this area is reasonbly brightly lit; to the right it's quite dark, as if shrouded in twilight though - maybe some 20mins walk away. Our area is more like dawn. "Then we must turn left!" so he pivots 90 degrees left; "That way!"
 
-"My name is **Jerrem**. This is might knight, **Darrem**, my Lady, **Mirrem** and my understudy, **Koln**."
+"My name is **Jerrem**. This is might knight, **Darrem**, my Lady, **Mirrem** and my understudy, **Koln**." They are Mustevals.
 
 "I'm Oswen and" - she introduces the others/.
 

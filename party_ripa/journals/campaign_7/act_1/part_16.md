@@ -53,7 +53,7 @@ Arturo starts grabbing belongings. Francesc casts Web, wanting to say something 
 
 Dex 14 save - but all three manage to dodge, very dextrous, obviously not drunk; although the web does encase pretty much all of the fallen objects scattered. Thorin dodges; Arturo gets caught! Penny draws her sword and moves to intimidate. Thorin activates his staff. Francesc notches an arrow. Penny adv. intimidation, 2,17+4->21. "Woah! Woah! Hold on a minute... What is wrong with you people?" they say - then turn and try to flee.
 
-Arturo hasn't seen anything and doesn't know if they took anything. Thorin doesn't want to chance it - he casts L3 Charm Person on all of them - and all are charmed! "Come back here" he says. They turn around. "Oh. Have you fallen over?" they ask, all innocent. Legit belly-laugh from Penny. Thorin asks what they were trying to do. "We were trying to get some medicine for grandma!" is the answer. Penny asks, "What's wrong with grandma?" "He's just got a bad temper". "He" - Thorin figures out - probably a code name for a handler. Thorin asks if they stole anything from us? No. From anyone else? Yes. What? They pull out small trinkets and coins. It's all low-key stuff.
+Arturo hasn't seen anything and doesn't know if they took anything. Thorin doesn't want to chance it - he casts L3 Charm Person on all of them - and all are charmed! "Come back here" he says. They turn around. "Oh. Have you fallen over?" they ask, all innocent. Legit belly-laugh from Penny. Thorin asks what they were trying to do. "We were trying to get some medicine for grandma!" is the answer. Penny asks, "What's wrong with grandma?" "He's just got a bad temper". "He" - Thorin figures out - probably a code name for a handler. Thorin asks if they stole anything from us? No. From anyone else? Yes. What? They pull out small trinkets and coins. It's all low-key stuff. 
 
 Penny says, "Take this to grandma. You got this from the four of us. You're finished for the night now. No more medicine" and hands them 10 silver pieces. They can always keep a piece for themselves if they don't want to give them to "grandma"... Thorin adds "If we catch you stealing again we won't be so lenient!" "OK. Bye..." - they wander off.
 
@@ -178,7 +178,7 @@ Penny taps the sword; "We can offer protection too. When do you leave?" Some lea
 
 A library here... Or there's Candlekeep. We then get distracted by talking about books to get in. Thorin wants to write a book about the dragon attack; "The Elf That Barely Helped", he calls it. Arturo gets swept up in that and the two settle down to write the book...
 
-Penny and Francesc ask for directions to, then head to the library, the other two in tow, walking about the book. Francesc struggles to find anything - the library is *big* (investigation 11). Penny tries asking; persuasion is 23; a librarian assists. "Huh. You know, someone else just recently asked about books on Savras! So I remember where they are. Come, I'll show you." As we walk - "Can you remember what they looked like?" "It was - Hmmm. Elven? No. Human? I can't remember. Either human or elf. Male or female?" (it's a DM History roll and only 6). At least we can find the books!
+Penny and Francesc ask for directions to, then head to the library, the other two in tow, to continue writing the book in the library. Francesc struggles to find anything - the library is *big* (investigation 11). Penny tries asking; persuasion is 23; a librarian assists. "Huh. You know, someone else just recently asked about books on Savras! So I remember where they are. Come, I'll show you." As we walk - "Can you remember what they looked like?" "It was - Hmmm. Elven? No. Human? I can't remember. Either human or elf. Male or female?" (it's a DM History roll and only 6). At least we can find the books!
 
 Deities Of Feyrun; classification: Alignment. True Neutral. 3 books. The other person *was* asking about the "oasis in the desert". Suggestion was to head to Candlekeep... **OK, so someone is ahead of us and looking for the same thing**.
 
@@ -202,26 +202,3 @@ Thorin and Arturo meanwhile continue working on the book. That's going to take a
 * **What if we risked attempting teleport to Candlekeep to try and get ahead of whoever it is we're chasing?**
 
 (End of part 16)
-
-
-
-
-## Additional notes
-
-Important dates:
-
-* Note that **day 42** would have the Neverwinter armour ready to go.
-
-Clues:
-
-* Lady Velindra Shadowmantle
-* Elf, golden eyes, cursed the dancer at the Beached Leviathan
-* "Aura of decay" about her - probably a lich - we probably have her phylactory!
-* Doesn't like New Neverwinter; probably not got city's bests interest at heart
-* Still political but ascended "above office" via various means.
-* In the pocket of wealth families.
-
-Obligations:
-
-* Return the Orcish tablet to that circle somehow
-* Visit Forlorn Keep (crow people).

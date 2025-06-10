@@ -30,7 +30,7 @@ Thorin tries his Dwarven charm by trying to strike up a conversation, in Dwarvis
 
 "Just a moment!" calls a voice; then a rather angry-looking, severe-dressing priest appears. A rather tense conversation takes place; TL;DR, they will try and cast "a veil over us" so that we have some protection but long-term anti-scrying magic is much harder and he says he can't grant such a risk. We have to "talk to the **Holy Watcher** about this" - but he can help in the mean time. He takes out a censer, fills it with incense, lights it, then starts to swirl it around. Thick smoke starts to surround us as he speaks some kind of incantation. When finished, he says, "This will protect you for eight hours." "Thank you!" "Now you'll need to speak to the Holy Watcher - I can't cede on her behalf..." "Where we can find her?" The priest looks at the knight dwarf - "**Sir Fatfoot** - you can take it from here!"
 
-Thorin looks to Fatfoot. "What now?"
+Thorin looks to Fatfoot. "What now?" 
 
 Well, we need to speak to **Holy Watcher Querri**. We came directly from Neverwinter, so "You now fall under the protector's law, which is a law we have here for anyone from Neverwinter." He lights a lamp. "I must insist that you take your armour off, along with any cloaks and capes. You can hold something up, but you need to undress so we can examine you... We need to see if you have any spell scars. From the spell plague! That's really the only reason that Dagult ever sends us anyone from Neverwinter."
 

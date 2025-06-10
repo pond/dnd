@@ -36,7 +36,7 @@ Big door on the right (but Arturo lost his dragon when he was hurt). Big room ah
 
 We try the nearest door. With help from Arturo's Telekenesis, Penny can't budge it (ADV athl 17) - but then she realises it's hinged on the side she is pushing! She moves the other side; ADV athl 24. It opens (with a lot of effort), swinging in from a left hand hinge.
 
-This room is damaged with more rock problems. But this isn't "molten"; it looks like a giant spike of earth has
+This room is damaged with more rock problems. But this isn't "molten"; it looks like a giant spike of earth has  
 been pushed through. It looks like a Giant-sized Wall Of Rock. Thorin, insight 28; the nature of the casting seems to indicate that - in his estimation - a Giant spellcaster (!) has done this mid-battle. It's been here for long enough that it's weathered. Whatever might be on the other side is probably long gone.
 
 We decide to go to a corresponding door further along (Thorin . This one hinges differently! Penny fails on the first attempt and succeeds on the second, very similar to last time. The door grinds open, this time as double doors, opening in the middle.
@@ -195,6 +195,6 @@ She offers help off the tower, but we can fly; Thorin figures he can get us to t
 
 Thorin transforms into a giant flying beast. We jump aboard. Thorin makes his way to the village, up high.
 
-It takes a while even with the giant beast's giant form. On approach, **we see a stone giant engaged in battle at the river's edge with a truly massive creature, crocodile mouth, frog throat, long tail, huge claws!**
+It takes a while even with the giant beast's giant form. On approach, **we see a stone giant engaged in battle at the river's edge with a truly massive creature, crocodile mouth, frog throat, long tail, huge claws!** 
 
 (End of part 38)

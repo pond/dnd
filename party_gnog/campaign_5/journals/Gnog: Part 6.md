@@ -6,7 +6,7 @@ Near the end of that period, we get signalled to stop with a crazy light display
 
 The Star Moth gets to within 50ft. Thaumaturgy is used to loudly shout: "SILVER NAVIGATOR. We have never encountered you before. Where have you come from?"
 
-"New boat we purchased from the Rock Of Bral, after successful adventuring made us a fortune in Torril." "What are Torril people doing out here?!" "Exploring and looking for more fortune!" - Taz insight 18 - he notices that Deni hasn't cleaned up all of the Scavver carcasses off the deck of the ship, so it looks like we've been Scavver hunting - game fishing. So he shouts, "It's my first time, and look at the big game we caught! That big blue one especially!" - deception (adv.) 21. The elves respond, "Ugh, nasty business. At least *someone* is doing something about these creatures - they breed so prolifically, ugh. Hideous creatures. Well. Stick to your lanes! Where is your next port of call?" "Ravnica station" - we're pointed at a line that we need to follow to avoid entering "newly established Xaryxian space".
+"New boat we purchased from the Rock Of Bral, after successful adventuring made us a fortune in Toril." "What are Toril people doing out here?!" "Exploring and looking for more fortune!" - Taz insight 18 - he notices that Deni hasn't cleaned up all of the Scavver carcasses off the deck of the ship, so it looks like we've been Scavver hunting - game fishing. So he shouts, "It's my first time, and look at the big game we caught! That big blue one especially!" - deception (adv.) 21. The elves respond, "Ugh, nasty business. At least *someone* is doing something about these creatures - they breed so prolifically, ugh. Hideous creatures. Well. Stick to your lanes! Where is your next port of call?" "Ravnica station" - we're pointed at a line that we need to follow to avoid entering "newly established Xaryxian space".
 
 Off the fuck, and this is the first time Gnog has been very glad to be free of the company of elves. These are just trumped-up bullies.
 
@@ -27,7 +27,7 @@ We enter Guildspace. Con saves all round!
 * Fee-Ree: 23 
 * Deni: 12
 
-So we're all fine, but on entering Guildspace we hear a yelp from the helm and the ship starts to spin. Fee-Ree runs down to the helm and Taz is there looking very distressed, his magical plating lights flickering erratically. He was suddenly flooded with an awareness of all his biomechanical functions that he'd not even realised were suspended prior; as a construct he had assumed they'd continue normally, but not so - this is part of why he can use healing potions and suchlike. Fee-Ree swaps and stabilises the ship while Gnog sits with Taz until he feels better. Taz eventually comes down to read the now-active orrery and guide Fee-Ree on the start of fast travel in Wildspace towards Ravnica Station; navigation check: with built for success, he gets 17 and knows the correct path and approach for the dark side of the moon at Ravnica Station. The map indicates that the flight should take about 24 hours, so this Guildspace system is smaller than Torril's Realmspace where even the shortest path was about 36 hours.
+So we're all fine, but on entering Guildspace we hear a yelp from the helm and the ship starts to spin. Fee-Ree runs down to the helm and Taz is there looking very distressed, his magical plating lights flickering erratically. He was suddenly flooded with an awareness of all his biomechanical functions that he'd not even realised were suspended prior; as a construct he had assumed they'd continue normally, but not so - this is part of why he can use healing potions and suchlike. Fee-Ree swaps and stabilises the ship while Gnog sits with Taz until he feels better. Taz eventually comes down to read the now-active orrery and guide Fee-Ree on the start of fast travel in Wildspace towards Ravnica Station; navigation check: with built for success, he gets 17 and knows the correct path and approach for the dark side of the moon at Ravnica Station. The map indicates that the flight should take about 24 hours, so this Guildspace system is smaller than Toril's Realmspace where even the shortest path was about 36 hours.
 
 It does, indeed, smell. We clean up the guts and use the water bottle of Deni's to wash things down, then Gnog figures out using borrowed rope how to string out the carcasses on the sides. We have the gutted four brown, the gutted blue and half of the other blue.
 
@@ -75,7 +75,7 @@ Gnog looks for the Cold Storage Warehouse - perception 24. His height allows him
 
 A number is shown to Taz. Persuasion: Only 17 (even with Built For Success) due to dodgy rolls, but still, 17 is OK. Fee-Ree chimes in talking about how fresh they are, so Taz gets advantage. The roll is still a bit low but the total just comes up to 20. Deni had noted that the price was actually fair (via insight) but we were pointing out that some were in very good condition (killed via magic), fully gutted, only a day old etc. etc.! So he agrees to give us 180gp. We thank him and accept. We take a script to a cashier of some kind who offers us different currencies; we split into a Universal currency and some Ravnican trading currency (rather than their church currency). We have to learn the conversion rates and names.
 
-We're told we can leave the cart at the warehouse as they send them back to the docks in batches. We ask if there's a concept of relative time and length of day in comparison with the Rock of Bral. We're told that here, the days are considered a reference 24h long but there's no day-night cycle. People do whatever they want. On Ravnica, day-time varies as it would on Torril but their 10th District is considered their reference (like Earth's UTC).
+We're told we can leave the cart at the warehouse as they send them back to the docks in batches. We ask if there's a concept of relative time and length of day in comparison with the Rock of Bral. We're told that here, the days are considered a reference 24h long but there's no day-night cycle. People do whatever they want. On Ravnica, day-time varies as it would on Toril but their 10th District is considered their reference (like Earth's UTC).
 
 Gnog's curious about the herbalist but it's late and we could do with a rest. We look for an inn to crash for 6 hours or so. Gnog perception 25 -> no problem. We don't really want a dorm room but otherwise basic is good. On the upper levels a bit further away from the market, quieter, but within walking distance is a great spot. "**The Rapid Transit**". Check-in is quick and efficient; there's an arcane ward on the door with a "pass code". It's just a place to sleep. No windows, but maybe you wouldn't want any depending on the moon's position.
 
@@ -83,7 +83,7 @@ We finally get to bed.
 
 ## DAY 20 (Riglan 57)
 
-We wake up at our best guess of 9am rough Torril equivalent. We clean up, check out feeling much better and Gnog is eager to visit the herbalist this morning.
+We wake up at our best guess of 9am rough Toril equivalent. We clean up, check out feeling much better and Gnog is eager to visit the herbalist this morning.
 
 The herbalist shop walls are wooden inside, with wooden shelves. A female Astral Elf tends to the shop. We look around, but a bit uncertain - the shop assistant says, "Yell out if you need anything!" and goes back to reading a book. Gnog sees names on the shelf but doesn't know what they are, so he asks. There's a tincture that be used to can make a tea, which amounts to a potion of psychic resistance - a lot of Astral Sea creatures use psyonic attacks. It's made from desert plants on the world **Athas** which has a lot of similar attack style creatures there. 250gp each.
 
@@ -132,7 +132,7 @@ The locations for landing are:
 * 42nd District
 * 71st District
 
-The 10th sounds good enough to us, so we ask about time of departure in reference to the time now. It departs in 6 hours. Local time on landing would be around half past midnight. Since departure would be around 6pm Torril, we jump forward about 6 hours which isn't the worst. Almost everything would still be open at that time, at least for food, entertainment, transport and lodging.
+The 10th sounds good enough to us, so we ask about time of departure in reference to the time now. It departs in 6 hours. Local time on landing would be around half past midnight. Since departure would be around 6pm Toril, we jump forward about 6 hours which isn't the worst. Almost everything would still be open at that time, at least for food, entertainment, transport and lodging.
 
 We decide that this is the good option and book. We're given four tokens and instructions on where to go, and exactly when to be there - Gnog calculates the time that his Chronometer will be showing then. We're also told that there are three taverns, if we want to use any:
 

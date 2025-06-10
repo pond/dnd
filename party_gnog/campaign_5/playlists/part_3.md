@@ -14,7 +14,7 @@
 ### Chapter 1: Legal entanglement
 
 * (Valerian) Big Market: To Vi Or Not To Vi
-* (Genshin) Evergreen Wish: Izzit Light And Mayhem (Gibo, Bebe And Ma)
+* (Genshin) Evergreen Wish: Izzet Light And Mayhem (Gibo, Bebe And Ma)
 * (Genshin) Overture Of Falling Stars: IPB (Ma Reads Pa's Notes)
 * (Genshin) Never-Ending Performance: The Ill-Advised Foray Into The Warehouse
 * (Honor Of Kings vol 1) The Return Of Kings: Acceptance Of The Gruul

@@ -161,6 +161,6 @@ Perhaps that is our next port of call.
 
 We head to smithy. A sign says "Out For Dinner". That sounds like a good idea - we've not even had lunch! We decide to head back to The Hearth.
 
-We'll pick that up in session 18. If we decide we want to try listening in on people for gossip or even perhaps overhear anything to do with our own interests (should the mysterious person we *might* be chasing somehow already be here themselves), well, that might take some time...!
+We'll pick that up in session 18. If we decide we want to try listening in on people for gossip or even perhaps overhear anything to do with our own interests (should the mysterious person we *might* be chasing somehow already be here themselves), well, that might take some time...! 
 
 (End of part 17)

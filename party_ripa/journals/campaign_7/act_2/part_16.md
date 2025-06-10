@@ -94,7 +94,7 @@ Francesc says that we should collect bowls of water and hold them outstretched, 
 
 Thorin tries Common Sign Language to try and show that we're peaceful. We don't have arms raised. Penny is emerging from the tunnel, soaking wet. The person down here clicks; people above stop; then a bit of movement, one more; the person down below looks up, steps aside and holds up the shell. We realise it's actually a shield; another one comes down. Thorin and Francesc hold out bowls, with water.
 
-This new arrival is older, shorter, 4ft tall. If on Torril this would be a large halfling. They seem confident but very watchful and hold a bone of some large creature, carved with many runes. They look like, as far as we can ever guess - a druid.
+This new arrival is older, shorter, 4ft tall. If on Toril this would be a large halfling. They seem confident but very watchful and hold a bone of some large creature, carved with many runes. They look like, as far as we can ever guess - a druid.
 
 They look at us. Three of us dry, a - fighter? - soaking wet. They examine the bowl, pull back, go in close, prod it so a bit spills; then haltingly, as if this isn't something they often do, tries to vocalise something. But the sounds make no sense to us. Thorin takes a punt and tries Druidic - "We share this water with you".
 

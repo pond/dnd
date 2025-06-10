@@ -65,7 +65,7 @@ A bizarre creature; a kind of frog, long limbs, toad mouth, horns on its head, s
 
 Francesc forces her way into the room (tho we're all aware that being crowded together into this small space is probably exactly what the creature wants, given it's been hiding down here this whole time rather than going up on deck). She shoots, hits and does 18 damage. A second hits too, for 12 more.
 
-Francesc is examining the creature through Hunter's Mark. It seems resistant to lightning, thunder, cold, fire and acid.
+Francesc is examining the creature through Hunter's Mark. It seems resistant to lightning, thunder, cold, fire and acid. 
 
 Thorin brings down L5 Moonbeam - 17 damage on that round, but it takes half as it makes its CON save. Then he tries to get out of the way & Moonsteps just outside the room.
 

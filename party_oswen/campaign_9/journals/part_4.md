@@ -506,7 +506,7 @@ The guards do notice us at the last minute - but seems surprised, perhaps becaus
 
 
 ## Sigil
-### Day 12, not long after 7pm (Torril time)
+### Day 12, not long after 7pm (Toril time)
 
 Not quite what Oswen expected! Did walking through the gate "backwards" bring us to the wrong place? Or was it as simple as...
 
@@ -656,7 +656,7 @@ Above another laneway entrance a distance away is a big neon sign floating. Part
 
 Closer, the neon leaf seems to be connected to a neon vine and snakes around a corner and along another alleyway; there are lots of leaves and sprouts coming off once we get into there. It's all an illusion but a very complicated one and, apparently, permanent. This is "The Vine", which we were looking for.
 
-At first glance it looks very similar; it's in the details where we see dishes that just don't have any "animals" in them. It is quite warm compared to Torril, especially winter, so stews don't seem that great an idea, and we fall back to the old favourite - Things On Sticks! This section is popular. There's a Cambian at a stall we choose... Red, ember glowing skin; folded wings, horns, a wide grin, but not an evil one somehow?! Wears an apron.
+At first glance it looks very similar; it's in the details where we see dishes that just don't have any "animals" in them. It is quite warm compared to Toril, especially winter, so stews don't seem that great an idea, and we fall back to the old favourite - Things On Sticks! This section is popular. There's a Cambian at a stall we choose... Red, ember glowing skin; folded wings, horns, a wide grin, but not an evil one somehow?! Wears an apron.
 
 A devil, in an apron, cooking vegetables on sticks.
 

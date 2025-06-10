@@ -17,7 +17,7 @@
 * (Bastard!!) Bastard!!: The Greatwurm Battle (Nikya's Fury)
 * (Bastard!!) Back In Action: Kneeling To Boboremos - The Gruul, United - The Four, United
 * (Fifth Element) Koolen: Somewhere Over The Rainbow
-* (Batman Arkham City) Main Theme: Choas At The Chamber - Gnog's Waking Nightmare
+* (Batman Arkham City) Main Theme: Chaos At The Chamber - Gnog's Waking Nightmare
 * (Genshin) Imminent Triumph: Jace
 * (Genshin) A Shallow Promise: Four Days To Black (And Betrayal Afoot)
 * (Macross Frontier) Prologue F: Successful Disruptor Test; Niv Mizzet At Last!

@@ -140,6 +140,6 @@ We hand the duegar and assassin over to the guards (temple guards, hired muscle 
 
 The guards offer to hold watch over the rest of the night. This lets us finish our sleep after an extra hour or two.
 
-### LEVEL 7 by milestone
+### LEVEL 7
 
 (End of part 23)

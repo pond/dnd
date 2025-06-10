@@ -29,7 +29,7 @@
 * (Epic North - Return Of The Viking) The Great Nomad: Assess The Field / Sunburst Over The Undead Tsunami / Cormanthor Takes The East Flank / Wage War
 * (Shrio Sagisu) Golden Sun: Afterwards / Goodbyes And Pyres / The Shepherds / Family
 
-### Chapter Three: Honour
+### Chapter Three: Honour 
 
 * (Sam Hulick) Flow State: Eagle Eye View
 * (Ni No Kuni The Movie) A Solemn Vow: "No Stronger Bonds Of Kinship" / A Royal Message / Difficult To Leave

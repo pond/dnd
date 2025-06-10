@@ -261,7 +261,7 @@ It's a picture of Tezzeret. Looks male, twisted and fearsome, glowing in the wel
 
 We talk more about the encounter and how Kaya is now known to him as are we, but we think still not Taysa. She urges us to spend the night here, but then seek Niv tomorrow.
 
-She has a MOU made by **Ral Zarek** (Niv's 2ic sorta) which was one of the alliances that she had made with the Izzit. It should get us somewhere through the door, but we need to hide it. A Bag Of Holding is not sufficient. We will be searched on exit. Gnog looks at Taz and says, "I have a very difficult question which I fear might treat you more as object than a person", but Taz says, "of course you can, it's the obvious solution - the panel on my left hand side is probably the easist to access; Zorbu always seemed to start there for access when I was being commissioned. Deni is easily dextrous enough and hides the paper inside, closing the panel.
+She has a MOU made by **Ral Zarek** (Niv's 2ic sorta) which was one of the alliances that she had made with the Izzet. It should get us somewhere through the door, but we need to hide it. A Bag Of Holding is not sufficient. We will be searched on exit. Gnog looks at Taz and says, "I have a very difficult question which I fear might treat you more as object than a person", but Taz says, "of course you can, it's the obvious solution - the panel on my left hand side is probably the easist to access; Zorbu always seemed to start there for access when I was being commissioned. Deni is easily dextrous enough and hides the paper inside, closing the panel.
 
 More food. Very good of course.
 
@@ -366,7 +366,7 @@ We explain about the IPB and being here basically at Niv's behest. Taz adv persu
 
 "We're making pretty good headway but I don't think we're going fast enough. Niv left very strict, very clear instructions on the specifications that we'd need to meet and I haven't been able to get them. It has something to do with the way the crystals interact." He hesitates - Taz via passive insight picks up, as does Deni, that he doesn't know how much of the rest we know. More about whether what he says would make any sense.
 
-Seeing this, Taz says, "How about we briefly say what we know, at least of the important stuff, so you know if we have context for understanding?" We explain about the red crystals, Tesseret - and we find out that his crystals were in fact stolen from the Izzit, not shipped separately; and not just 30 - he's stolen 60 in total. That's something which is really holding back Ral's work. They need those crystals.
+Seeing this, Taz says, "How about we briefly say what we know, at least of the important stuff, so you know if we have context for understanding?" We explain about the red crystals, Tesseret - and we find out that his crystals were in fact stolen from the Izzet, not shipped separately; and not just 30 - he's stolen 60 in total. That's something which is really holding back Ral's work. They need those crystals.
 
 "Niv set me on the task of a plan B. What we're building here isn't the main plan - what we're building is a contingency. I hope we'll never need what we're building..." - we ask what it is. He says he'll show us. He takes a moment, clears his face of worry - that's why he closed the blinds - and opens them. We say he's not alone; we're here to help... He says that unless we can make miracles or we're very good at finding people... Jace? No. **Niv**. **Niv Mizzet is missing!**
 

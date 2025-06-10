@@ -136,7 +136,7 @@ Most things are hosted in a new outbuilding or just the grounds in general. We a
 * Penny 13
 * Thorin 15
 
-The upcoming  bastion turn is then rolled for as 2d4 and 2d6 for the L5 and L9 rooms we now have, adding:
+The upcoming bastion turn is then rolled for as 2d4 and 2d6 for the L5 and L9 rooms we now have, adding:
 
 * Arturo total 22 (bad luck, rolled *four 1s!*)
 * Francesc total 30
@@ -163,7 +163,7 @@ Arturo invites someone from Candlekeep to visit via our new teleportation circle
 
 By the end of day 38, we figure we'll teleport to Neverwinter. The Helm will then regain its charge overnight and we can go to collect the armour.
 
-Before we go, the Bastion asks what we want them to do. More 2d4, 2d6 rolls are permitted (DM fiat to accelerate use of  Bastion, since our fast-travel ability means the days pass much more slowly for us than they might for parties moving between major cities on e.g. horseback).
+Before we go, the Bastion asks what we want them to do. More 2d4, 2d6 rolls are permitted (DM fiat to accelerate use of Bastion, since our fast-travel ability means the days pass much more slowly for us than they might for parties moving between major cities on e.g. horseback).
 
 * Francesc 44
 * Penny 47
@@ -220,7 +220,7 @@ Thorin is *not* impressed at the expenditure. But we're up and awake and he says
 
 The armourer was already up, apparently waiting for us, figuring we'd be there first thing!
 
-She fetches the black, dragonscale tailored armour. It even comes with an optional helm that she explains is mostly for show...! There are gauntlets and shoulder pads, and even some decorations of teeth to try and add to the intimidation effect. It takes a while to get Thorin fitted, including using an awl to get extra holes for leather bindings and so-on.
+She fetches the black, dragonscale tailored armour. It even comes with an optional helm that she explains is mostly for show...! There are gauntlets and shoulder pads, and even some decorations of teeth to try and add to the intimidation effect. It takes a while to get Thorin fitted, including using an awl to get extra holes for leather bindings and so-on. 
 
 **Finally! The armour is done.** He has to swap attunement with his protective cloak, but still ends up going from 17 (with cloak) to 19 (with attuned armour). There are also some saving throw advantages too along with acid resistance.
 

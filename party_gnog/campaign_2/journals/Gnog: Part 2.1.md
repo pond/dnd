@@ -591,4 +591,88 @@ It is late, but there is time to travel further. There is light from the strange
 
 Travel across the plains is easy but approaching the Bridge becomes somewhat traumatic. We have been talking openly about concerns regarding cultists hidden in plain sight, people who might expect us and attack and so-on ever since the attack at Waterdeep - and unwittingly driven Deni to some amount of paranoia. There is an exodus underway with many refugees at or trying to reach Boareskyr Bridge - some say that the whole area is dying and people are trying to leave - so once off the plains, we're in very busy roads and it's just messy.
 
-Deni grows increasingly nervous and eventually Gnog decides to hoist her up to sit on his shoulders, him sat atop of his own horse, so she can get a good look around. There's nothing we can do about the feeling of being watched, but we can certainly watch back! 
+Deni grows increasingly nervous and eventually Gnog decides to hoist her up to sit on his shoulders, him sat atop of his own horse, so she can get a good look around. There's nothing we can do about the feeling of being watched, but we can certainly watch back!
+
+Eventually we reach what amounts to a huge tent city / slum. People here have between nothing and almost nothing; they're desperate, doing the best they can to survive. People here are, despite the circumstances, looking out for each other; we see them helping to put up or mend tents, carrying water, and in one place, queueing quietly and in a patient, orderly fashion for a water stand pipe that's presumably above a covered well.
+
+We're trying to find **Bolo's Tentside Inn / Tavern** - we ask at random without expecting too much help (given the situation) but are immediately directed towards it; very well known, apparently! It's on the north side, across the bridge. We're challenged by guards at the bridge crossing (who check all people in both directions); they have strange lamps that appear to be some kind of magical truth or illusion revealing device, apparently in search of Yuan-Ti disguised as humans. This doesn't help much with Deni's feeling of paranoia.
+
+We know from general chat and prior checks that the Yuan-Ti used to be rulers of the area, especially the serpent hills, with this area being part of their kingdom of Najara. With the various cataclysms and tumult common to Faerûn, that time has long passed, but their people still live in the hills and are believed to circulate amongst the population in the slums below, taking advantage of the chaos to do - well, *not good* things. News of people mysteriously vanishing, presumed kidnapped and sacrificed, is commonplace.
+
+The "tavern" is a sort of marquee affair, with lots of wooden benches and tables. We meet bolo, who remembers Diderius - a person - he was a legend here! Allegedly, he had a mage with him and had a Keep in the hills, before the serpent kingdom most recently re-arose in that area. He was a seer, scrying using a magic pool. There was a small town of devotees nearby who would offer payments (which over time, inevitably, became ever more burdensome) to have visions - prophecies - told to them. It seems there was enough accuracy in those visions to give some weight to the idea that he was *not* a fraud, and the scrying pool of legend might both exist, and have appropriate magical properties.
+
+* We head over to the Hell Riders, guards from Elturel. We are hoping for assistance in the hills as we try to find Diderius. They refuse - they have their hands full here and, in fact, are not particularly fond of the refugees.
+* So, we give chase anyway!
+
+We ride, alone, out into the hills.
+
+That night, two travellers meet us at the fire. They need help. We manage to see through the ruse; these are in fact two serpent folk, Yuan-Ti in disguise! A battle is inevitable and, hidden in the scrub, a giant snake joins the fray. We prevail fortunately relatively easily, and - not being too squeamish - figure that the giant snake might have some good eating on it!
+
+### Day 3 (serpent hills)
+
+The next day is uneventful. We reach the wooded lower slopes of the serpent hills and turn more inwards and upwards.
+
+### Day 4 (serpent hills)
+
+We make our way through the woods on a barely-discernible foot-worn track, but which appears in fact to be a cover of soil over a larger, broken flagstone pathway that Fee-Ree is pretty sure is potentially old enough to be Netherese. Brief glimpses of road become clearer patches, then longer stretches and then, quite suddenly, we break through the trees into a very large open area, that's a sort of deep natural bowl flanked by hills rising to ridges in a wide, gentle curve, almost entirely enclosing the area before dropping down below the treeline close to our left and right.
+
+There are ruins here. Smaller houses, larger buildings, courtyards - there's no question now. These are Netherese. We're close.
+
+We do not walk straight through the middle. Expecting Yuan-Ti patrols or similar, we skirt around edges, keeping a close eye on the hills. Good thing too - across the 'bowl' on the far side, we spot none other than two *hill giants* that emerge from a big cave, then start down the hill. They don't spend too much time in the town, eventually leaving via the forest; we take the opportunity to see if we can find a hiding spot on "our side". It doesn't take long to find a cave - there are plenty around! - that's unoccupied and fairly deep, without any tunnels or other continuations that could hide danger. We elect to set up a small camp here, mostly for the horses; four days of feed are left, then we venture back to the ruins. We need to find out where the Yuan Ti have gone - find the scrying pool; by all accounts, we need to find a way "in and down", which we figure is probably going to be at the far end of the entry road, against the hill face there.
+
+Before we can make much headway, the giants return. They go back to their cave, but we decide - with a little reluctance, but in view of the importance of what we're doing... - that we can't just keep trying to dodge them. They could easily find the horses, find *us* or just block our escape later. We end up laying a trap, hiding outside their cave and setting an ambush.
+
+Battle commences and it's surprisingly easy - we take them both down. We can't all help but feel a twinge of regret, nonetheless.
+
+Feeling more bold, we spend less time on stealth and head more directly to the hillside where we figured the entrance to Diderius' tomb (or palace, or whatever) will probably be and we were correct - there it is. It's hard to miss. A sort of plaza leads to wide stone steps, shallow and two feet deep, that lead up to a stone double door entranceway flanked by giant statues.
+
+We proceed with caution. Traps abound; Deni does what she can. We eventually reach a room with a huge mosaic floor and, before we know it, the mosaic tiles start to lift up, spinning, moving more and more quickly as if caught by a tornado, eventually forming  **Chimera Mosaic** that attacks viciously. It's a difficult battle; we prevail, but have to burn through quite a few resources to do it.
+
+With battle finished, Deni disarms exit traps from the chamber and we make our way deeper. We find a library; there is a piercing scream; a ghostly apparition appears. This kind of thing is surprisingly unsurprising given all we've seen by now and our location and, pretty quickly, we're in conversation with this strange spirit - its cries were not intended to scare us; they were of anguish.
+
+This is **Ilda**. She is a librarian - a banished spirit now - for Diderius. He accused her of stealing a book of his, "Transsubstantiality Across Potentialities". She insists she never did! It's a sad tale; the more we read or learn of Diderius, the worse he seems and our insight tells us that Ilda is telling the truth. She's been badly wronged. We doubt we can help, but we'll certainly keep our eyes open for any mislaid books!
+
+On a corridor through to more chambers, we are stopped short by an extraordinary sight; **four bearded devils**. They don't attack but instead, challenge us verbally. One who takes the conversation lead says that their master is **Asmodius** who has "an interest in events on this mortal realm". A name **Zariel** is also mentioned in passing in a sentence but none of us can remember anything about who that might be, so it's likely to be a name (or object?) none of us have ever heard before. So, Gnog takes a punt and just asks!
+
+* These devils claim to have been *loaned* to Varram by Zariel, an Arch-Dutchess of Avernus
+* They serve Zariel now - but she is Azmodius' nemesis
+* This is because - for complex reasons - Asmodius wants Tiamat to stay in Avernus, while Zariel wants Tiamat to escape; so we are, we suppose, aligned with Asmodius (for a very specific and narrow version of "aligned")
+* They guard the inner chamber
+
+The discussion goes to and fro and, in the end, we are permitted to pass... It's a battle of wits, of sorts, based around a bearded devil being very, VERY literal about everything that is said, and while we're making mistakes on that front ourselves, so did Varram. His instructions were sufficiently specific that if we're just passing through, they have no reason to attack; indeed, on a literal reading of the rules they were given, they *can't* attack.
+
+It seems there are two ways through - Diderius' bed chamber, no less, with what appear to be many undead inside based on our best detection; or the pool chamber itself. No hesitation there - into the pool chamber.
+
+It's grisly. There's a sacrificed cultist here. There are also many arrows, some broken, some in the body, as if a wider battle took place but the person slumped at the pool had their throat cut by a blade which we *think* might have had magical properties; a jagged nature and indications of since-melted frost burn - white dragon tooth. That's an educated guess based on Varram The White's alignments and associations. There's no immediate indication here what to do next. We find little else. This forces us a rethink.
+
+We return to the devil chamber. They largely ignore us as we head down a side corridor to the bed chamber room. Once inside, the battle is fierce. There are many undead, including some of a strange type we've not before encountered; we're beaten up that bit more. We're still good for a few more fights maybe but we're starting to keep a much more careful eye on health and spells.
+
+The room doesn't tell us much about where Varram might be - but does bear a surprise. On a very high investigation roll, Deni finds, fallen down behind the head of the bed, a very old, on-edge-of-disintegration, slightly damaged book - yes, none other than "Transsubstantiality Across Potentialities". We can "prove" Ilda's innocence, then, but to whom? There's also a potion of poison resistance next to some similar but empty vials; we surmise that Diderius was no less cautious about Yuan Ti than we are and took precautious where he felt it necessary.
+
+We leave the room and - oh dear. Without thinking, we've violated the "just passing through" rule and are *immediately* met by a full onslaught from all four bearded devils. They actually seem delighted! If they defeat us, they have fulfilled a purpose; if we defeat them, they aren't killed so much as return to their home plane - Avernus. In effect, we free them.
+
+OK then - happy to oblige. This is another fierce battle, against much more intelligent, well-coordinated and practiced opponents than the Chimera or undead. We fight hard, we fight well, but they do too. In the end, we're victorious - else this story would end very early! - but we cannot fight on. We have to make some hard choices.
+
+There's the book. We don't know who we should show it to, so we take it back to the library.
+
+* The scene with Ilda is, to say the least, emotional. All it took was the book being presented to break the curse, because it proved the curse was founded on a lie (or at least a very grave misunderstanding and injustice). She is *free* - after so many years, centuries even! - and is finally able to ascend to eternal rest.
+
+* The book, she says, is ours! We can keep it. It's certainly interesting (and most likely very dangerous) so we decide not to leave it lying around for anyone to find, and pack it away in the bag of holding.
+
+While it feels like time is short, a long rest is unavoidable. We elect to set up in the bed chamber - only one door, defensible, easy to keep watch, if cramped - nobody wants to sleep *on* the old bed of Diderius! - but it's workable.
+
+### LEVEL 9
+
+What follows next amounts to a dungeon crawl of near-continuous battles. From chamber to chamber we encounter numerous foes; lizard folk, pureblood Yuan Ti, Malisons, various abominations and more. At one point, Fee-Ree is overcome by the fearful presence of a particularly strong Yuan Ti in what appears to be some kind of throne room and is forced to flee back along a corridor, only to be confronted by two more running towards her, ending up trapped! She does overcome her fear and re-engage in battle, but it is not a moment she will quickly forget.
+
+In all, we count at least 33 slain foes (!), possibly more. And, after it all, in that final throne room we had found Varrum - apparently no friend to these people but, surprisingly, not killed; he's bound. During the battle he is knocked unconscious and this works just fine for us! Even better, we find what perhaps the Yuan Ti somehow missed. **He has the white dragon mask hidden under his clothing**.
+
+After some investigation, we find a steep and narrow passageway that seems to be mostly designed for bringing air in, but with some care by Deni, some rope and a bit of magic, we're able to ascend. A grating opens in a hillside and, goodness - the fresh air! Grass on the hillside ripples in the wind; it's not so sunny outside now, but even a somewhat overcast looks beautiful after so long down below.
+
+Expecting an attack at any time - but in transpires, not being met by one - we make haste to the cave where we hid the horses, Gnog carrying the unconscious Varrum over his shoulder. We figure there's no time to lose and take a gamble on bringing the horses through a portal. Gnog spends a while to speak to them, to try and prepare and reassure them. We have a scroll for teleportation and use it.
+
+The portal opens, leading directly to the Harper's Chapterhouse, so many miles away, back in Waterdeep...
+
+...Safety. Home. We urge the horses through swiftly.
+
+(NEXT NOTE: Campaign Two: Part Two (Gnog: 2.2))

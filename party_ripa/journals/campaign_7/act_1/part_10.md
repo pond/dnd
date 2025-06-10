@@ -18,7 +18,7 @@ On the way back into the city, we're stopped by guards (as we noticed, when we w
 
 Our path leads to a good look at the three huge, soaring bridges over the river, two of which are still being rebuilt but one that's got heavy traffic. It leads in the direction of the big castle, which is also being repaired and looks uninhabited. Our path, though, stays on this side of the river for now.
 
-We reach the "Protector's Enclave" where we were told we'd find the Neverwinter Nine, in a section of town that looks more fortified. There's an old keep in the middle of a square, with quite a few full armour guards around.
+We reach the "Protector's Enclave" where we were told we'd find the Neverwinter Nine, in a section of town that looks more fortified. There's an old keep in the middle of a square, with quite a few full armour guards around. 
 
 Upon entering the building, Thorin perception 20+7->27. It's crowded bordering on chaotic - like an Earth central city police station - but Thorin sees some constables and figures we should talk to them. He barges forward and we follow in his wake. He points out one in particular, and thinking that she might not be too keen on an angry dwarf, Penny tries to be persuasive with a summary of the issues - persuasion 14+6->20. It works. She rephrases what Penny says in a very specific way, which happens to hit 4 flags in particular, which gives her a reason to extract herself from the other mess and lead us to a room.
 
@@ -60,7 +60,7 @@ We're still trying to get through to the Beached Leviathan. Arturo mulls food up
 
 There are some people who seem out of it just outside the Beached Leviathan. In particular, there's a very well muscled, attractive half-elf with pants ripped off mid-thigh who's smiling and dancing as if at a rave, dancing to music we can't even hear, with a bag that seems to be his belongings nearby, pointing at us, strange out-of-it hand gestures... Arturo medicine 5, he's having fun; Penny 14, he's sweating; that's why he's so ripped `:-D` - whatever it is he's taking, it's endless energy. He probably dances 24/7, entertainment to the people sat outside.
 
-Arturo wonders if this guy might see things. Maybe he could have a conversation. Arcana check on approach, a whopping 3! He's got no idea if they're under a spell or narcotics or what... Behind, Thorin checks arcana too, 23; Penny is holding her amulet of the devout and trying to avert her gaze! Thorin detects faint fey magic. He's under some kind of charm.
+Arturo wonders if this guy might see things. Maybe he could have a conversation. Arcana check on approach, a whopping 3! He's got no idea if they're under a spell or narcotics or what... Behind, Thorin checks arcana too, 23; Penny is holding her amulet of the devout and trying to avert her gaze! Thorin detects faint fey magic. He's under some kind of charm. 
 
 "It's night! Time to dance. It's night *somewhere* in the world. It's night in my mind! Do you want to enter my world?" he asks.
 
@@ -90,7 +90,7 @@ They have a long, pointy face that shows a bit out of the deep cowled hood. A pl
 
 "Pull up a chair if you want".
 
-Arturo pulls up a chair. We do too. We can now clearly see a crow's face.
+Arturo pulls up a chair. We do too. We can now clearly see a crow's face. 
 
 "You have guts, boy. I'll give you that."
 

@@ -59,9 +59,9 @@ We have to ask questions, so Penny puts in a few HP to wake him up. He's panicke
 
 * Has he heard of strange stone tablets, two in particular, found by Drow hunting parties and brought down along with prey they captured - **no knowledge at all**. We'd be better off asking Drow about Drow affairs! His only contact with Drow is avoiding them, getting into unwanted fights from them, or occasionally in controlled areas of Darklake District (on the shorts of The Darklake) there are controlled inns and taverns where Drow are allowed.
 
-* Gracklstugh is a major Duergar city. A capitol of sorts in this part of the underdark.
+* Gracklstugh is a major Duergar city. A capital of sorts in this part of the underdark.
 
-* Does he know any of the Drow pathways? He uses the same pathways to get to small towns and outposts along the way to the capitol.
+* Does he know any of the Drow pathways? He uses the same pathways to get to small towns and outposts along the way to the capital.
 
 * Has he heard rumours of weird stuff, demons, places he has heard have become recently dangerous - avoid them?
 

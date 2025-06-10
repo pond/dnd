@@ -7,7 +7,7 @@ We are inside the cavern complex of Web's Edge, fought a lot, liberated one pris
 * An elf assassin is around
 * There are two orc necromancers
 * Two grimlocks (twisted underdark creatures of magic)
-* An **erinyes** - a fallen angel - very dangerous! Appears to be in charge.
+* An **erinyes** - a fallen angel - very dangerous! Appears to be in charge. 
 * At least one Greater Demon
 * And, we think, maybe this Dragon Spider
 
@@ -161,7 +161,7 @@ Wearily, initiative!
 
 The door is too small for Gertrude. She'll have to stay on guard, to at least stop anything *else* from coming through!
 
-The Dragon Spider looks at Francesc. The Priestess' attitude almost makes it look as if this monstrosity
+The Dragon Spider looks at Francesc. The Priestess' attitude almost makes it look as if this monstrosity 
 is her pet! And without any pause, the Dragon Spider spits out a spray of venomous spiderlings, a 30ft cone, all over Francesc, the door and the wall. DEX save 25. **65 -> 32 poison damage!** Then it climbs up to the ceiling!
 
 (End of part 42)

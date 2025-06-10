@@ -74,7 +74,7 @@ Mesas rise near once-coastlines - they are, actually, ancient sea cliffs. Two, l
 
 Thorin: D8 -> 3. About 40 minutes into our approach, heading in our direction towards us, a collection of shapes; a group of flying creatures. Thorin bobs up and down to indicate "dive" to us, then does so -  and the group of approaching flying creatures match the dive. No doubt now; they see us, even if they don't know what we are. In so doing, they break formation and Thorin can make out 6 leathery-winged creatures with long beaks and long tails. Thorin indicates "break formation" for us to scatter - ADV Acro:
 
-* Thorin only 12!
+* Thorin only 12! 
 * Francesc 18
 * Penny 10
 * Arturo 15

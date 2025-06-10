@@ -356,7 +356,7 @@ Celline quietly and gently disentangles Carp from Temo and heads back to tuck hi
 
 We make a bit of food with minimal carrots - which are very good - so it's a good soup of carrot, grain, some stuff we still have left. Maireagh's very good at this kind of thing. It's around 9:30pm. Before bed, Riglan heads out and takes the horses back to the garrison.
 
-**## DAY 95**## 
+## **DAY 95**
 
 We get up early, pay for the room even though Celline told us not to, ask if there any apples left despite being autumn - and indeed there are some late harvest. Sweeter than the earlier ones. So we buy those. ***_LOOK BACK FOR PRICES_***
 

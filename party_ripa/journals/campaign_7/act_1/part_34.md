@@ -176,7 +176,7 @@ She has a house in Neverwinter; we also saw her at a villa in Baldur's Gate; but
 In the end we decide: Back to the woods. The tavern at the front lines (if it still exists).
 
 We find a back-alley, since using the Helm directly out of the middle of the city would be bad form! The rift opens; we walk through; and just like that, the Neverwinter Woods Tavern, right by the bar. Francesc and Penny need DEX saves. Penny, 10; Francesc, 29. A mug is flying in Francesc's direction; she ducks; it hits Penny!
-
+ 
 "Ouch! What was that for?!"
 
 We realise that the tavern is - ummm, lively. A "friendly" brawl? Penny tries to grab someone - ATHL 11, nope!

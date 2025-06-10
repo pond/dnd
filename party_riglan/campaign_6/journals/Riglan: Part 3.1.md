@@ -12,14 +12,14 @@ Over 1d6->3 months that follow after their adventures:
 
 * Maireagh spends much time in study at Old Owlbear Tower. There is tremendous history here. She looks through seemingly endless unearthed books/tomes and old treasures, found around the grounds. Her idea of an archeology school or at least an open centre of history is a strong one but she's in no rush and doesn't want to distract from Nethza and Temo's efforts in town, so her and Riglan just work on developing their knowledge and ideas for now. She suggests that Riglan tree-portals to Reidoth at Thundergrove Bastion to help Reidoth with ongoing undead issues. So over many days, he does so, helping Reidoth regrow forest over the old town; they think about repopulating the town, but both are druids and both decide that people don't need spreading out any further! In consultation with Maireagh, we avoid the main hall with the now-moved strange obelisk outside, keeping that clear for further investigation. The obelisk remains a mystery.
 
-* Early on, Riglan plants the acorn from Turlang at Shadowtop Cathedral, in a special space at Old Owlbear Tower. Thereafter, when not at Thundergrove, Riglan concentrates on the gardens and "model" farm to help prove his ideas of non-destructive, mixed crop, high yield farming, forest cultivation basically, after all the things he's seen, especially at Goldenfields. He starts a nursery with the seeds he got from there and in time enlists local help from Deepgarden Keep to move excess food and send it into town - free, just like at Goldenfields. He also sometimes portals to Sungift, to get to know the farmers there better and in time to start making subtle suggestions to try and steer them towards farming that doesn't need more forest destruction; persuasion is only 8 though (what a start, rolls nat 5+3!) so they're sadly unconvinced.
+* Early on, Riglan plants the acorn from Turlang at Shadowtop Cathedral, in a special space at Old Owlbear Tower. Thereafter, when not at Thundergrove, Riglan concentrates on the gardens and "model" farm to help prove his ideas of non-destructive, mixed crop, high yield farming, forest cultivation basically, after all the things he's seen, especially at Goldenfields. He starts a nursery with the seeds he got from there and in time enlists local help from Deepgarden Keep to move excess food and send it into town - free, just like at Goldenfields. He also sometimes portals to Sungift, to get to know the farmers there better and in time to start making subtle suggestions to try and steer them towards farming that doesn't need more forest destruction; persuasion is only 8 though (what a start, rolls nat 5+3!) so they're sadly unconvinced...
 
-We pick things up as Riglan rather clumsily tries to help the farmers.
+(...We pick things up as Riglan rather clumsily tries to help the farmers...)
 
 
 ## Riglan - Day 1 (Sungift)
 
-The local priestess of Chauntea however, who Riglan met the very first time he came into town, sees a conversation. "Good to see you back! Looks like you've done some travelling. You seem set on a mission... But these frontier farmers, you know, they have their ways of doing things. They don't disturb the status quo - the way their fathers and grandfathers did, because it worked and they see no reason to change. Have you met other Chaunteas along the way?"
+...The local priestess of Chauntea however, who Riglan met the very first time he came into town, sees a conversation. "Good to see you back! Looks like you've done some travelling. You seem set on a mission... But these frontier farmers, you know, they have their ways of doing things. They don't disturb the status quo - the way their fathers and grandfathers did, because it worked and they see no reason to change. Have you met other Chaunteas along the way?"
 
 Riglan says, "Ah yes, an abbot at Goldenfields."
 
@@ -153,7 +153,7 @@ At one point, Temo tries to get a conversation with the half-orc - **Lomas**. As
 
 After a while the arcane teacher takes up the conversation and Temo and Riglan are freed up. Nethza is talking to the Tiefling girl, who Nethza later tells him is called **Prickles**! She seems to be relaxing and opening up, and before long, she's talking to other students. Very much a street child.
 
-Temo spends a bit of time with the Halfling student too. They're somewhere in the middle - mostly listening, but talking a bit too, inconspicuous. Carp comes along too, introducing himself; the kid in turn says he's **Merth** (short for **Mertholomew**). He's a sort of "lost boy", rather than being magical. He's interested in writing, stories, many ideas - came here all by himself, deciding he wanted to come and got signed up.
+Temo spends a bit of time with the Halfling student too. They're somewhere in the middle - mostly listening, but talking a bit too, inconspicuous. Carp comes along too, introducing himself; the kid in turn says he's **Merth** (short for **Mertholomew**). He's a sort of "lost boy", rather than being magical. He's interested in writing, stories, many ideas - came here all by himself, deciding he wanted to come and got signed up. 
 
 The students, after a rather intense morning, will mostly have the afternoon off to settle in, decorate rooms if they wish and so-on; Rebetha will show them around town too, so they know the lie of the land. Tomorrow will be the first full day of classes. We're told we don't need to stick around; they've got it all under control!
 
@@ -361,7 +361,7 @@ Where now...
 
 Riglan uncovers his shoulder light; the lamp isn't bright and there's only one. "I wish I had locate *person*" he says. Perception is high, 27. The road actually emerges from the mist, it's not like it runs alongside a wall of it or something. The lamppost is at a corner where it meets a slightly bigger road. We can see that there used to be a signpost across from the lamppost; the wood pole is there but the top has broken off. Looking on the ground - investigation 15 - there are bits of sign left. We can see the ending of a line "ON" and a line ending "ANOR" underneath it on one part that's broken off. On the other side has more of a sign but looks like it was *chopped* rather than broken. "St Cuthbert's A" - Abbey?
 
-The sign has no writing on the other side of it, so we can be confident of its orientation versus the stump.
+The sign has no writing on the other side of it, so we can be confident of its orientation versus the stump. 
 
 Since "ON" "ANOR" is a larger sign - two rows - and since St Cuthbert's got attacked with an axe so *someone* was angry about it, we elect to go to "Onanor". We note that Onanor's sign looks like it had some kind of carved stencilling or a border too. Implies importance or significance.
 
@@ -581,7 +581,7 @@ Nearby, townsfolk have seen us. They're whispering and backing away, looking ner
 
 They start saying we're cursed. Temo disagrees - he claims we battled spirits last night and prevailed; we defeated the curse. Persuasion 23. It doesn't escalate but they're not convinced. An older woman steps forward. "No. You must be lying. The half-human is lying. The priests have declared the land cursed. Nothing good can possibly come from it! They came from the cursed cathedral! They must be demons! All *he* is missing is horns!" and points at Riglan. A younger woman steps in. "Stop it. Stop it all of you! Why fight. This is ridiculous. They've done nothing to us. Let them pass."
 
-Riglan implores them to at least let us through. A way is parted to the centre of the village - we "run the gauntlet" and walk into the centre, where a well sits in a small square with maybe 6 streets converging there. Riglan insight 23. Many moods around us in the villagers, gathering in doorways or walking behind us.
+Riglan implores them to at least let us through. A way is parted to the centre of the village - we "run the gauntlet" and walk into the centre, where a well sits in a small square with maybe 6 streets converging there. Riglan insight 23. Many moods around us in the villagers, gathering in doorways or walking behind us. 
 
 * Some are wary
 * Some regard us with menace and hatred

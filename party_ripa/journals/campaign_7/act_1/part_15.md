@@ -1,4 +1,4 @@
-# RIPA: Part 15
+## RIPA: Part 15
 ## Session 15 (2023-09-05)
 ### Day 12, approaching 1pm
 
@@ -7,7 +7,7 @@ The young black dragon Klaugmyathar is slain. We have located its hoard, in cave
 * Penny 1-1 => 0 (third Natural One in a row)
 * Thorin 7
 * Arturo low, even with Guidance 9
-* Francesc with Guidance nat 1+8, D4 4 -> 13.
+* Francesc with Guidance nat 1+8, D4 4 -> 13. 
 
 Penny is distracted by trying to figure out how to lug the heavy dragon head around and seeing how very beaten up Arturo is. Once we all realise that, Thorin groups us together and casts Healing Spirit. That grants 1d6 -> 1 (sigh) +5, 6hp each on the first pulse of healing... But he can hold this spell for a few minute, which is very powerful and we all end up at full health!
 
@@ -251,7 +251,7 @@ It takes 2 hours to investigate to find the best places to sell the art objects,
 
 ### Around 1pm
 
-We're nearing the Tower District for Tamyo. It's a tower! A strange entrance, going up onto stairs for a landing, then down again to another door and stairs that snake around the outside of the tower. Painted on the tower are little paintings of eyes that seem to follow us as we walk around; and as we reach the door in the tower, which is closed; we knock.
+We're nearing the Tower District for **Tamyo**. It's a tower! A strange entrance, going up onto stairs for a landing, then down again to another door and stairs that snake around the outside of the tower. Painted on the tower are little paintings of eyes that seem to follow us as we walk around; and as we reach the door in the tower, which is closed; we knock.
 
 After a pause, the door is yanked abruptly open and there stands a surprised gnome! "Wait. How did you avoid my security system?! It gives me a chance to assess people and I decide whether or not to open the door! Well, you might as well come in..." - and Tamyo introduces herself.
 

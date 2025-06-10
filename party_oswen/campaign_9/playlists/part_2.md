@@ -10,7 +10,7 @@
 ### Chapter 1: Into The Everything
 
 * (Prey) Beyond The Great Planes: Fell Found
-* (Honour Amongst Thieves) Never Stop Failing: Revelations Of The Scholar (Big V / A World Destroyed / Be The Courier)
+* (Honour Amongst Thieves) Never Stop Failing: Revelations Of The Scholar (One Eye V / A World Destroyed / Be The Courier)
 * (Genshin Cantus) Aqueous Grief: "But Kaden And Verano - And Others We Met - They - They Were From Oerth..."
 * (Weathering With You) Sea In The Sky: Opposite Ecstasy
 * (Genshin Shimmering Vol 4) Teegesellschaft Of The Hexenzirkel: Our Four Unlikely (But Excellent) Guides
@@ -49,7 +49,7 @@
 * (Genshin Stellar Vol 5) Manche De Momotsuzuri: Toril's Future Hope (The Library Of Ordulin)
 * (Doctor Who S5) A River Of Tears: Arguments Of The Eight
 * (His Dark Materials) Battle Of Bolvangar: Scrying Catastrophe
-* (His Dark Materials) Bridge To The Stars: Realisation / Evacuation
+* (His Dark Materials) Bridge To The Stars: Realisation / Evacuation 
 * (Luther The Fallen Sun) Luther's Theme: Regroup In The Outlands
 
 ### Epilogue
@@ -58,5 +58,6 @@
 
 ### Closing Titles
 
-* (Travis) Alive: Group
-* (Pattern-Seeking Animals) Why Don't We Run: Adventurers
+* (Travis) Alive: (Group) Alive And Kicking
+* (Pattern-Seeking Animals) Why Don't We Run: (World) Adventurers
+  **OR ANOTHER DAY OF SUN? AUDIENCE MAYBE DOESN'T KNOW THAT YET**

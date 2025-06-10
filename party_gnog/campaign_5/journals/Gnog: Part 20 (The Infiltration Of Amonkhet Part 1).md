@@ -92,7 +92,7 @@ There's a magical shield, making it invisible. Wandering undead in the deserts s
 
 "So how do we kill Tesseret?" asks Gnog. "Even if he dies, he'll probably rise and even if we drop him again, he risks rising again." Fee-Ree posits that killing him within Naktamun is the best chance; the closer to temples - in theory! - the better.
 
-Religions of Amonkhet are very dependent upon the culture of a given nature, but Naktamun's religion is an exception and seems to borrow a lot from the cities that existed before it. They have old stories of 8 animistic old gods - animalistic trait gods, things they could see in nature - this fitted in somewhat with races on the planet; snake-headed, jackal-headed and more. They're just races, not necessarily evil, whatever analogues we might draw between them and similar-looking races on Torril. There are also rare bird people, who can fly, nomadic and thought to be almost extinct. There are two races that live almost nomadically; Scorpion People in the desert and Crocodile People by the river.
+Religions of Amonkhet are very dependent upon the culture of a given nature, but Naktamun's religion is an exception and seems to borrow a lot from the cities that existed before it. They have old stories of 8 animistic old gods - animalistic trait gods, things they could see in nature - this fitted in somewhat with races on the planet; snake-headed, jackal-headed and more. They're just races, not necessarily evil, whatever analogues we might draw between them and similar-looking races on Toril. There are also rare bird people, who can fly, nomadic and thought to be almost extinct. There are two races that live almost nomadically; Scorpion People in the desert and Crocodile People by the river.
 
 Worshipped in the city are five gods:
 
@@ -120,7 +120,7 @@ Taz is asked to fly around the disc maintaining accurate distance if he can, so 
 
 We push through the boundary.
 
-This is a vivid Wildspace - the opposite of Guildspace. Brighter than Torril. It has a streaked, watercolour look - but curiously, it seems to have areas that look "wrong" - tampered with, artificial. The impression is of age; debris, remnants floating. There's a planet to the left, closer to a brighter, larger - or at least *closer* sun; Gnog says based on the scroll, "That must be it" - somehow, aiming between the two brought us closer in to the larger sun (which otherwise, given unknown distances, we couldn't necessarily tell - the visually larger might just be closer).
+This is a vivid Wildspace - the opposite of Guildspace. Brighter than Toril. It has a streaked, watercolour look - but curiously, it seems to have areas that look "wrong" - tampered with, artificial. The impression is of age; debris, remnants floating. There's a planet to the left, closer to a brighter, larger - or at least *closer* sun; Gnog says based on the scroll, "That must be it" - somehow, aiming between the two brought us closer in to the larger sun (which otherwise, given unknown distances, we couldn't necessarily tell - the visually larger might just be closer).
 
 Taz checks the orrery. Confirmed. There's another, smaller planet much further out orbiting the other star but it doesn't fit the description of Amonkhet. There's a moon orbiting Amonkhet too - unexpected - along with two asteroid debris fields, one a ring but with one particularly large cluster at one end; the other is a debris field, spread out between the two stars.
 
@@ -368,7 +368,7 @@ We're eyed up - "probably not used to living like we do!" - they offer a small r
 
 We take a moment, to just sort of decompress a bit and set up bed rolls, for sake of something to do before we head out and try to mingle. Almost like at an awkward party. Everyone notices Gnog is moving slower and slower, as if delaying; then he sits heavily on the bed roll, sighs, looks up with a very strange expression.
 
-"I think - I mean - what - You might think I've lost my mind. You might want to company with me now, or at least, violently disagree. All of that would make sense. But I thought about things and there was this cascade which I could not stop, like an avalanche, which led me to a very difficult conclusion..."
+"I think - I mean - what - You might think I've lost my mind. You might want to part company with me now, or at least, violently disagree. All of that would make sense. But I thought about things and there was this cascade which I could not stop, like an avalanche, which led me to a very difficult conclusion..."
 
 * Gnog realised if it were swapped he might not give up Toril - be unable to see it as lost, hold onto some hope
 * Besides are we really THAT sure that Bolas would return here? There's almost nothing left. It might actually just endure, until it finally fades away.
@@ -379,7 +379,7 @@ We take a moment, to just sort of decompress a bit and set up bed rolls, for sak
 
 It's like making a decision on behalf of countless people either way, without the authority to do so, with nobody having chosen you or voted for you for the task; but the decision is to be made anyway, and we're the only ones here.
 
-Deni says she's better at fighting an enemy; but she can also see when things are not right. But she can tell when things are not right. Us and the Generals are not on good terms, but are acting nobly because they have a moral purpose which is nothing to do with gods. Even in this time of desperation they've not given into savagery. Maybe they can help see a solution we cannot. So, she concurs.
+Deni says she's better at fighting an enemy; but she can also see when things are not right. Us and the Generals are not on good terms, but are acting nobly because they have a moral purpose which is nothing to do with gods. Even in this time of desperation they've not given into savagery. Maybe they can help see a solution we cannot. So, she concurs.
 
 Fee-Ree points out that we're not asking to sacrifice them - to give up on Ravnica. Just because we were given one option, in Ravnica, does not mean that *has* to be the option that we force upon other people. That's what we thought in the absence of *any* knowledge; but we're here now, on another world. It would be foolish - so foolish of us to think that the plan made on Ravnica is still the only plan. We do somehow have to shut that gate... But everything else is up for discussion.
 
@@ -749,11 +749,11 @@ At least this one general is won over. He's seen what we can do - he describes i
 
 We need to rest; that clock is ticking in the back of Gnog's head again, but it's unavoidable. Days seem to be slipping by. We get back to the room with our bed mats and settle to try and sleep.
 
-Gnog can't sleep so talks about the bad timing and embarrassment; he thinks of Eli a lot, but that wasn't what he thought - not a companion, more like a mother, though not quite that. Eli talked about his party being "his moon". But he doesn't think she or he would've ever realised that **Ajani might be the sun**.
+Gnog can't sleep so talks about the bad timing and embarrassment; he thinks of Eli a lot, but that wasn't what he thought - not a companion, more like a mother, though not quite that. Eli talked about his party being "his moon". But he doesn't think she or he would've ever realised that **Ajani is the sun**.
 
 A quiet moment; the Deni says, "but he's really hairy and you're bald!". Fee-Ree is quiet, listening. We talk about futures; Fee-Ree and Arxcis, Taz's long life ahead and universe to explore, Deni ("I'm still a kid, I'm not thinking about those things!") - she's 17, yes she is, but she'd not talk to us about it and certainly not looking to settle down! - and here's Gnog, picking an impossible choice again. But he's recognised various variants of physical attraction now, from the Rakdos; but also that it's not the body that he's ever cared about. Not for who he loves. It really is the core, the soul.
 
-He liked Ajani from the moment he saw him at Skarrg, acting the fool almost; jumping rashly into battle. But the "click" moment was in the old apartment, as the platform fell, after they had just teleported away. Frozen in horror, staring out the window; a hand on his shoulder, turned around, looking at Ajani. A moment looking at each other, Ajani looking sad but understanding - a surprise moment, a pause - before Ajani calmly but forcefully said, "We have to go now". That steel core, the leadership. Who he truly was.
+He liked Ajani from the moment he saw him at Skaarg, acting the fool almost; jumping rashly into battle. But the "click" moment was in the old apartment, as the platform fell, after they had just teleported away. Frozen in horror, staring out the window; a hand on his shoulder, turned around, looking at Ajani. A moment looking at each other, Ajani looking sad but understanding - a surprise moment, a pause - before Ajani calmly but forcefully said, "We have to go now". That steel core, the leadership. Who he truly was.
 
 And now the axe. Gnog thinks this is one-sided. But - you never know.
 

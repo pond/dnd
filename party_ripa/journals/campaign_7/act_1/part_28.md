@@ -13,11 +13,11 @@ Initiative:
 
 Francesc grabs the bow and shoots - aiming for the face as usual. But in the hurry - and the glare from the Sun Blade! - the arrow goes wide. The next arrow finds its target; 12 damage (across his ear). She kicks the trap door closed.
 
-Arturo runs to the trapdoor and positions the immoveable rod over the opening side of the hatch, then runs back to his starting position with the bulk of the party between him and the drow.
+Arturo runs to the trapdoor and positions the imoveable rod over the opening side of the hatch, then runs back to his starting position with the bulk of the party between him and the drow.
 
 Thorin summons L4 Summon Beast; a small land beast spirit appears. He tells it to attack, then wildshapes into a Dire Wolf. The spirit attacks; one attack hits, doing 10 damage.
 
-There are skittering sounds... Then bursting in through a window at ceiling height appears a fiendish giant wolf spider. It drops down to the floor and moves to bite Arturo. It succeeds, for 7 damage, but he shrugs off its poison, though does take an additional 4 damage from it. It moves between Penny, Francesc and Arturo. Almost at the same time, there are running sounds then thuds against the trap door, which starts banging against the immoveable rod. Then there is the sound of the people running back down the stairs.
+There are skittering sounds... Then bursting in through a window at ceiling height appears a fiendish giant wolf spider. It drops down to the floor and moves to bite Arturo. It succeeds, for 7 damage, but he shrugs off its poison, though does take an additional 4 damage from it. It moves between Penny, Francesc and Arturo. Almost at the same time, there are running sounds then thuds against the trap door, which starts banging against the imoveable rod. Then there is the sound of the people running back down the stairs.
 
 Penny focuses on the Big Bad; she casts Branding Smite and swings at the drow twice. 22 to hit; it tries to block her, but she slices through it with the sun blade. Even with a divine smite on top, it's only 17 damage (3d8+2d6+5, 41 max). The second hits with another smite but, again, damage rolls are low - 16 damage.
 
@@ -89,7 +89,7 @@ Penny investigation 13 to get a rough idea of what it is; it's written in a scri
 
 **Could this be the source of the incursions we've been trying to understand?** Nah - those are too far away. *But* there is a mention towards the end that when they brought the most recent set of prisoners, they also brought down two massive tombstones covered in "foreign writing". So they've captured people from above and the stones. Penny's heart sinks - we probably can't leave here yet.
 
-Arturo via arcane study uses Identify; the beans and bag are magical. The beans are full of arcane potnntial and very heavy! 1/4lb each. He realises that if a bean is removed, planted and watered, one minute later something will happen. Toadstools, a geyser, a Treant and so-on; many effects, with variations of each, some of which may be helpful (e.g. edible toadstools that boost your heath) or others less so (toadstools that poison you). It's also possible to dump the whole bag on the ground to cause an explosion rather like a small fireball.
+Arturo via arcane study uses Identify; the beans and bag are magical. The beans are full of arcane potnntial and very heavy! 1/4lb each. He realises that if a bean is removed, planted and watered, one minute later something will happen. Toadstools, a geyser, a Treant and so-on; many effects, with variations of each, some of which may be helpful (e.g. edible toadstools that boost your heath) or others less so (toadstools that poison you). It's also possible to dump the whole bag on the ground to cause an explosion rather like a small fireball. 
 
 The cipher is very delicate. Arturo casts Mending and after a minute, it's not quite so fragile (DC 20 -> DC 15 for three SOH checks in a row to complete deciphering). Francesc is the most dextrous; Thorin can try to read the output (Penny is busy with the book). We don't have Guidance or similar, so Francesc just has to wing it!
 
@@ -123,7 +123,7 @@ Watch is set up. Perception:
 
 * Arturo: 18. Skittering sounds; various giant insects moving around, nothing trying to get in.
 * Thorin: 15. Almost eerily silent.
-* Francesc: 23. Almost gets a scare, figures moving along a wall opposite but they don't look towards her - and they aren't drow; something else; small, humanoid, seem to be humming! Smaller than drow.
+* Francesc: 23. Almost gets a scare, figures moving along a wall opposite but they don't look towards her - and they aren't drow; something else; small, humanoid, seem to be humming! Smaller than drow. 
 * Penny, with Francesc helping -> ADV: 20. This seems too good to be true; we've had all this time undisturbed!
 
 ### LEVEL 8

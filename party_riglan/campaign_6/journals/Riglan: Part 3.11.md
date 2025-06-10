@@ -278,7 +278,7 @@ The last rune is drawn. Air shimmers; misty; a soft glowing light spins around u
 
 
 
-## Day 30, late spring, at least 1-2 hours ahead of Silverymoon
+## Day 30, late spring, Evereska - at least 1-2 hours ahead of Silverymoon
 ### Around 3am
 
 Bone white painting, beautiful delicate filigree architecture - and a very surprised brown-skinned elf who jumps to their feet! "Oh! Oh goodness! Who - who are you?!"
@@ -597,51 +597,8 @@ There's a dreamlike quality to the blue-white, moonlight-bathed sands. It looks 
 
 Distantly, there's howling; wolves of some kind. We can't judge distance. The sound comes from a long, long way away.
 
+"Do we know where we're going?" asks Temo. Riglan thinks for a moment, then answers "Well - we know where we've _been..._ So that's something!"
+
 We walk on into the night.
 
-
-
-
-
-
-
-
-
-
-
-
-
-== REMEMBER TO RP TEACHING TEMO "ALARM" IN HIS SPELL BOOK -> 2 HRS, 50GP in INK
-
-(**IMPORTANT QUESTION** - which we should've asked by now. **How did the assassin's hirer know we were in Silverymoon? It's recent, we've not been here long and it was *specifically* mentioned on the instruction note that we found.**)
-
-
-
-
-
-
-* Visit Silverymoon University, c/o Nivellin, Admission's Officer.
-  - Netherese artefacts in general - location, powers, temptation!
-  - Netherese artefacts and controlling the Drowned, plus one who was part Octopus
-  - Better map to the Savras retreat
-  - Possible protection from shadows?
-  - Ask Thunderspells for portal permission?
-
-* Fix the sky, fix the land?
-* Netzha must ascend and become queen to make things right, but she'll "lose herself"
-* Steal the Grand Archive "orders of authority" papers?
-* Find Tummil's daughter's portrait out towards King's Road
-* What of the other tuning fork, that a descendant of Orin had - did Azalin go to Feyrun? What about the ore and the glass orb he wanted?
-* Find the Vistani
-* Grand Archive is in the inner city. Look for tomes about the fragments in the sky - the black material that evaporates, the runes, the fissure; a way to keep evil in? Did Azalin Rex escape during the cataclysm? And how does that related to Nethza?
-* Ravens: The Kindness will be in *a* library, or other forgotten place of knowledge. Marbery House, an abandoned hunting lodge of theirs, other side of the canyon.
-
-Obligations:
-
-* Return to Silverymoon druidic circle to tell them what happened
-* Ideally, return the valuable Netherese map book from the quirky Silverymoon bookshop
-
-WHEN THIS PART IS FINISHED
 (END OF PART 3.11 - Part 3.12 next)
-
- 

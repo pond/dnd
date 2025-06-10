@@ -1,4 +1,4 @@
-## Battling Chuth
+# Gnog: Part 2.x - Battling Chuth
 
 Our heroes are goliath Gnog, self-styled fanboy of Grog (of Critical Role fame), but lighter, shorter, too clever for his own good and a reluctant wanderer away from his clan (Grog's fall from grace made Gnog's idolisation a little less - uuh - fashionable); along with his best friends Garren, human paladin of Helm; teenage rogue Deni; and the brass dragonborn wild magic sorceress, Fee Ree.
 
@@ -59,3 +59,13 @@ The outcome: https://www.youtube.com/watch?v=w92RLWYzSOE
 Fuck you, Lennithon. That's for Greenest, for trying to fuck over the Xonthal's Tower township, for almost killing off our new mate Yarrow and for just generally being a dick.
 
 Our next problem is how the hell to carry the wings back to Waterdeep...
+
+
+
+## Our end
+
+Gnog is 95 years old. He is sat in his favourite chair at Eliastra's house. She is holding his hand and he squeezes it while smiling at her. He sees that his friends are gathered around. Their presence makes him feel warm and comforted.
+
+It might take a few hundred years, but Eli and Gnog are both sure that they will meet again.
+
+Gnog's eyes close, and he starts his final journey.

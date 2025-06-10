@@ -57,5 +57,5 @@
 
 ### Closing Titles
 
-* (Meer) Golden Circle: Thinking With Portals
-* (Turin Breaks) Outbursts: World
+* (Meer) Golden Circle: (Group) Thinking With Portals
+* (Honkai) Wildfire: (World) Strive

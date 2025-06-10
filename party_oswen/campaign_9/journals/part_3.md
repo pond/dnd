@@ -149,9 +149,9 @@ Kaden and his new friend realise they need to get to the same carriage too. She 
 
 Inafina says, "So what about us? Should we return to the keep? And I suppose you'll be wanting to get back to the cottage and Leonidas?" and Oswen says "Well, yes, I suppose we shouldn't leave it *too* long as the time difference will be drifting again now as the planes separate. I'm not too sure how to get back to that plane anyway! Remember that Alagarthas didn't know the key for the circle to get back?"
 
-Bel says we could find a carriage leaving for a town on Torril that depart from here. But we might end up a *long* way from home! We go and see what carriages we can at least find, and see if we recognise any town names.
+Bel says we could find a carriage leaving for a town on Toril that depart from here. But we might end up a *long* way from home! We go and see what carriages we can at least find, and see if we recognise any town names.
 
-We ask around. Oswen, investigation only 13; several that have names she just doesn't recognise; could we ask someone we *know* is from Torril. Eggsy might know but we haven't found him. So *now* we ask for Egg - uh - Dworp! Investigation 21. He's in the tavern. Ah! Easy. Off we go.
+We ask around. Oswen, investigation only 13; several that have names she just doesn't recognise; could we ask someone we *know* is from Toril. Eggsy might know but we haven't found him. So *now* we ask for Egg - uh - Dworp! Investigation 21. He's in the tavern. Ah! Easy. Off we go.
 
 There he is, as Dworp! He catches Oswen's eye as we come in. He's sat at the bar, not talking to anyone, but he has a good meal and a mug of ale. Oswen goes over and hops onto a bar stool next to him. "Ah! How was your night?" and Oswen says, "Thanks to you, successful." "Are you having a drink?" "I might, but first, I thought we should discuss reciprocation!" "I would like to buy you a drink!" "Well OK then, thank you." He orders another drink; raises his mug, so she copies to toast; "Well played" he says. "You played me but played me well! I don't hold it against you at all. Things worked out just fine in the end." "Huh?" "Lady Zorhanna pulled me aside because she did figure out what I was doing, and she was very good natured about it! She gave me this..." - he opens a small bag that has some nice jewellery and some gems in it - "...in exchange for leaving the rest of the guests alone! The easiest thing I've had to do."
 
@@ -185,11 +185,11 @@ Oswen says, "Right. And the Golden Vault is - ...?"
 
 Eggsy looks deflated. He whispers, "It's the organisation I'm talking about! We are all over the multiverse and because of what we do, where we find and secure powerful items to keep them away from bad people, well, that's why the name. When we contact you - we'll know where you are as long as you have this watch - you'll be sent one of these" - he waves the key - "and you just put it into the keyhole in the watch and turn it" (and Oswen realises it's more than just a motif - must be magical).
 
-Then Bel remembers - "Oh! Do you know which of the carriages out there goes to Torril?!"
+Then Bel remembers - "Oh! Do you know which of the carriages out there goes to Toril?!"
 
 He does; it goes to the town over the mountain pass, and then from there we'd have to figure out how to get to our own city. "Or you could come with me if you wish? When I get to the other side I will travel on to the city in which I live." "Where's that?" "Baldur's Gate." But Oswen thinks that's a long way away and in the wrong direction. Workable, but far from ideal!
 
-* We could go with a carriage and then figure it out in Torril
+* We could go with a carriage and then figure it out in Toril
 * We could see if Zorhanna or Zybilna might now the magic mushroom circle path, but that only gets us to the Misty Forest, also a fair distance away
 * We could return to our keep and try to figure it out ourselves, but Planeshift is far above Oswen's abilities right now
 * We could see if Zorhanna or Zybilna might be able to assist with connecting the keep to the material plane, but *we* will owe *them* if they do so.
@@ -200,7 +200,7 @@ Oswen shows Eggsy the scissors of shadow snipping. "I don't know if Baldur's Gat
 
 "OK, thanks! Well - I guess we'd better go..."
 
-We haven't made our minds up. Zybilna is interesting but really she's quite distant and formidable, and our debts both ways are settled. Oswen doesn't want to put upon Zorhanna so soon, but figures - well we might have time before the carriage goes... And since she realises she understands how to do this now, she uses Sending. "Lady Zorhanna, apologies to intrude, I wondered if we might meet to enquire about how my party might return swiftly to Torril?" (or thereabouts, to meet 25 words). The reply is swift. "Alright. I am curious. We are still at the house."
+We haven't made our minds up. Zybilna is interesting but really she's quite distant and formidable, and our debts both ways are settled. Oswen doesn't want to put upon Zorhanna so soon, but figures - well we might have time before the carriage goes... And since she realises she understands how to do this now, she uses Sending. "Lady Zorhanna, apologies to intrude, I wondered if we might meet to enquire about how my party might return swiftly to Toril?" (or thereabouts, to meet 25 words). The reply is swift. "Alright. I am curious. We are still at the house."
 
 So, farewells all done, we go to try and find a boat. The harbourmaster is unconvinced by Bel's pleas (persuasion 5+7, 12). We ask if we might be permitted to *hire* someone, paid passage; but the boats are all busy. They can take us that way, but can't necessarily take us back. That's a start; we offer to pay but if we do the rowing, it's free! Kindle - you're up. Off we go!
 
@@ -296,7 +296,7 @@ Kindle says, "well, what key are we going to make?" Bel listens to the Campestri
 
 So, we start to basically chant that, and walk through.
 
-### Torril, somewhere
+### Toril, somewhere
 
 D100 -> 70. We are in woods, perhaps unsurprisingly. It is unusual though. A mixture of tall trees with no leaves, that look dead rather than wintry, and shorter trees and shrubs that are very much alive. A handful of mid-sized trees form a low canopy but there are lots of shafts of light, but pre-dawn light, that break through. We're standing in a small mushroom circle here. A large log, almost 3ft in diameter, lies nearby. It does not look cut; looks like it fell naturally together with a few other trees. Our guess is a forest fire, then, and looking closer, we see charring.
 

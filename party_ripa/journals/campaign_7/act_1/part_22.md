@@ -38,7 +38,7 @@ No Arturo! Well - we hope he'll turn up again, once he's able. We decide to head
 
 We know that we must be in a quite specific place to see whatever the portal is. Near a mountain pass, standing facing it to see the oasis. We could get fairly close on the mountains and use them as high ground to look outward, to see if we can see any competitors.
 
-* Francesc, investigation only 9 for the map (fortunately it wasn't on Arturo when he vanished!), gives us a rough idea
+* Francesc, investigation only 9 for the map (fortunately it wasn't on Arturo when he vanished!), gives us a rough idea 
 * Thorin as a wolf, perception 26, to see potential landmarks that might help find location - and does do so
 * Penny, survival 21, to navigate the way there - so we head in the right direction
 

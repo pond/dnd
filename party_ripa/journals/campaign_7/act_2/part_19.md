@@ -19,7 +19,7 @@ On Penny's watch, near the start, the child wakes up. It speaks using telepathy.
 
 "Where? Or - who?"
 
-"The one I spoke to. The one with the... Abilities."
+"The one I spoke to. The one with the... Abilities." 
 
 "Ah, he is called Arturo. I am Penny."
 
@@ -126,7 +126,7 @@ Arturo convinces Penny to join the campfire of the group and try to get informat
 
 * There are only two entrances to the city but only one from the Gulg side
 * Going around from one to the other could add an extra hour
-* They don't really know about the other gate - whether it's any easier or not
+* They don't really know about the other gate - whether it's any easier or not 
 * They interpret our questions as an attempt to "evade taxes" at the city boundaries
 * They stay in the trade area and never venture deeper - Gulgans are considered kinda low-life mercantiles by residents of Tyr, very arrogant, high & mighty, etc. etc.
 
@@ -174,7 +174,7 @@ Meanwhile, the caravan approaches the gate. Nobody else is in the queue. A guard
 
 "We were attacked on the road. We lost them."
 
-"If I had a stone chip for every time someone gave me that excuse..." - Arturo insight; is he asking for a bribe - his insight doesn't help much; Penny 21; a throw-away comment but also a veiled hint. Now would be a good time to give a stone chip. Fortunately we looted some at the attack site! D6 and D100 -> we have **6 whole stone coins with a small hole in the middle and 33 chips**; it looks like the coins can break into 10 chips - we can think of the coins as gold and the chips as silver. She gives Arturo the eye; he throws the guard a whole coin.
+"If I had a stone chip for every time someone gave me that excuse..." - Arturo insight; is he asking for a bribe - his insight doesn't help much; Penny 21; a throw-away comment but also a veiled hint. Now would be a good time to give a stone chip. Fortunately we looted some at the attack site! D6 and D100 -> we have **6 whole stone coins with a small hole in the middle and 33 chips**; it looks like the coins can break into 10 chips. She gives Arturo the eye; he throws the guard a whole coin.
 
 "...Happens all the time, you know. They need to do a much better job with these records!"
 

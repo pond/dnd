@@ -34,7 +34,7 @@ He tells us that when we walk through the entrance hall, we must think of someth
 ADV wis save, +5 aura bonus.
 
 * Francesc 19; she's aware of large, 4ft long spiny-backed lizards that are lounging around and sometimes moving a little!
-* Arturo 19
+* Arturo 19 
 * Thorin 24; he too notices the lizards
 * Penny 26
 

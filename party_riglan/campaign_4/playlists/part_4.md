@@ -7,7 +7,7 @@
 
 * (World Of Warcraft) Stormwind: Dreaming Of Reality - Resolved To Act (day 105->106; described in the last few paragraphs of notes in part #20)
 
-### Chapter 1: Too Hot By Half
+### Chapter 1: Too Hot By Half 
 
 * (Act II) Kingdom Of Shadows: Forges Fired By Lava - An Alliance With Azers And Salamanders
 * (Regret Nothing) Battle In The No Man's Land: Ignatia And The Chimera / A Spectre Of Lizzy
@@ -66,7 +66,7 @@
 
 ### Closing Titles
 
-> *(A clear, starlit night, a touch of light on the horizon, colours giving an impression of dawn. There's a tent. A dwarven snore can be hard from within and a tiefling tail pokes out from under a side flap. A metal dog sits on guard and, lying nearby in the grass on their backs, a firbolg and a halfling gaze at the stars. The halfling speaks - "It's good to know that they're all up there. Really, actually there... **somewhere**. Do you think we'll join them some day?" The Firbolg smiles. "I'm sure of it. We might travel there at different times, but we will eventually be reunited, forever among the stars")*
+> *(A clear, starlit night, a touch of light on the horizon, colours giving an impression of dawn. There's a tent. A dwarven snore can be hard from within and a tiefling tail pokes out from under a side flap. A metal dog sits on guard and, lying nearby in the grass on their backs, a firbolg and a halfling gaze at the fading stars. The halfling speaks - "It's good to know that they're all up there. Really, actually there... **somewhere**. Do you think we'll join them some day?" The Firbolg smiles. "I'm sure of it. We might travel there at different times, but we will eventually be reunited - forever among the stars.")*
 
-* (George Harrisson) Dream Away: The Party
+* (George Harrison) Dream Away: The Party
 * (Tears For Fears) Everybody Wants To Rule The World: World

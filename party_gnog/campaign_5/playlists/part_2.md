@@ -13,7 +13,6 @@
 
 ### Chapter 1: Encounters upon the Astral Sea
 
-* (Honor Of Kings vol 1) War Games: Encounters In Wildspace
 * (Honor Of Kings vol 1) War Song Of Kings: Neogi Attack
 * (Watership Down) The Black Rabbit Of Inlé: A Warrior's Farewell (If Garren Could See Us Now)
 * (Genshin) Flickering Sakura: Taking In The View - A Family Eats

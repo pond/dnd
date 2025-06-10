@@ -1,4 +1,4 @@
- # RIPA: Act 2 Part 14
+# RIPA: Act 2 Part 14
 ## Session 60 (2025-03-18)
 ### Inside Llandro, Outlands relative day 10 (even later)
 
@@ -9,7 +9,7 @@ After an eventful path up through the strange mixture of Llandro's superstructur
 * Francesc 14
 * Arturo 9
 
-...and battle commences, with Thorin's quick thinking giving him an advantage momentarily. He throws down a moonbeam on Glave and two scouts he sees alongside. CON 17 saves are made by one of the scouts and Glave, half damage, but the other scout takes a full 25 radiant damage.
+...and battle commences, with Thorin's quick thinking giving him an advantage momentarily. He throws down a moonbeam on Glave and two scouts he sees alongside. CON 17 saves are made by one of the scouts and Glave, half damage, but the other scout takes a full 25 radiant damage. 
 
 Penny tries to jump up, but fumbles badly - ATHL 1+7->8 - and ends up, nonetheless, right up opposite Thorin - but can't land on her feet. Unable to easily use the sunsword, she tries Sacred Flame on Scout B but they evade and are not hurt. She is at least able to get the sunsword re-lit. Meanwhile Scout A launches bolts at Thorin three times; two hit, then it runs away. Scout B attacks Penny, ADV., two hit, 24 damage. It disengages and dashes away.
 

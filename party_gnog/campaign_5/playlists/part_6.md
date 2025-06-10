@@ -49,5 +49,5 @@
 
 ### End Titles
 
-* (Jamiroquai) Black Crow: The Izzit (And The Fall Of Niv Mizzet)
+* (Jamiroquai) Black Crow: The Izzet (And The Fall Of Niv Mizzet)
 * (Muse) Apocalypse Please: World

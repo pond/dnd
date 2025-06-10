@@ -194,7 +194,7 @@ He reaches to one of the brothers, towards a nick; bits of charred flesh crumble
 
 Helm's Hold is two days South. This Keep is probably further. He gives directions. "Please do not bring danger with you!" he says.
 
-Francesc moves with speed back to our sleeping room! "Guys! Guys! Guys!" - and she tells the tale.
+Francesc moves with speed back to our sleeping room! "Guys! Guys! Guys!" - and she tells the tale. 
 
 Penny is horrified. We were careless and caused death. She should never have broken into that crypt. Not even a short rest. So, she says, "We have no choice. We have to get to Helm's Hold. We move NOW. We sleep, if we must, on the road. We'll have to push as hard as we can. We'll deal with the consequences later."
 
@@ -212,7 +212,7 @@ If we travel incautiously, we go faster than our normal walking speed. But we're
 
 Arturo suggests we split up. "This weighs on my consciousness. I need to investigate  liches. I don't have the ring. I don't want to be anywhere near the ring! That offer the lich made - I don't know if I could resist it again..." - so he might not have received quite the same message we did. "If I stay with you, I don't know if I could stop myself from giving the ring back."
 
-We have no choice but to agree. He's going to head to the Tower District to try and find out as much as he can.
+We have no choice but to agree. He's going to head to the Tower District to try and find out as much as he can. 
 
 Penny says, "Stay at the Two Left Feet. We'll find you there. If we're not back within 6 days... We're dead. Move on."
 
@@ -224,7 +224,7 @@ Francesc complies. Arturo gives the performance of his life! Yells and screams a
 
 He waves goodbye.
 
-And that's that. We're headed out of Neverwinter scarcely a day after we arrived! We walk quickly along a road that's flanked by cliffs.
+And that's that. We're headed out of Neverwinter scarcely a day after we arrived! We walk quickly along a road that's flanked by cliffs. 
 
 It's a hollow feeling in the pit of the stomach. But there's no time for contemplation. We turn about and walk as fast as we can South.
 
@@ -248,7 +248,7 @@ Perception check with disadvantage all round (incautious travel):
 Francesc travels at 30 speed, a bit slower to let the other two catch up; she reaches a strange bit of forest ahead of the rest of the group, a strange feeling. She pushes on.
 
 - Penny 10
-- Thorin 15 (travelling together after 8 hours)
+- Thorin 15 (travelling together after 8 hours) 
 
 In the first two hours, he wildshapes to a Dire Wolf with Penny riding. Thorin senses a deep unease in the forest around us. There's a creeping malaise of some kind. We push on too. After a couple of hours, we catch up with Francesc and we can continue on foot now. We figure we're at worst about 4-5 hours away. That's too close to the wire - 22-23 hours, plus however long it took us to get our act together and leave Neverwinter. If we continue incautiously, we could cut that down to 3.
 
