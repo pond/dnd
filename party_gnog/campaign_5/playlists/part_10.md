@@ -28,7 +28,7 @@
 * (Tales From Earthsea) Cataclysm - Dragon: Going Underground; One Block To Oketra
 * (David Chappel, Valiant EP) Hunter Hunted: Parting The Dreadhorde Ways Once More; To The Rooftop - "This Could Be A Glorious Way To Die"; Fighting Oketra - "Let's Get Her Attention!"; The Front Wall Collapses
 * (Ori Blind Forest) The Sacrifice: The Goblin Perspective On The Floor Below; "Remember Us"; Fighting On, In A Blur Of Memories - A God's Arrow
-* (Dragon Age Inquisition) Well Of Sorrows: Relating Grim News To Aurelia; Fly To Kefnet
+* (Dragon Age Inquisition) Well Of Sorrows: Relaying Grim News To Aurelia; Fly To Kefnet
 * (The Promised Neverland) Prison Break: Armour Gone
 * (The Matrix) Ontological Shock: Kefnet Falls - Plummeting Towards Bolas; Joining The Spearhead; Angels And Demons; March Of The Ravnican Undead; Gideon Uses The Black Blade
 * (Genshin) Gone With The Wind: The Tragedy Of Gideon And Liliana
