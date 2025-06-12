@@ -31,7 +31,7 @@
 
 ### Chapter Three: Retribution
 
-* (Battlestar Galactica S4) Laura Runs: The Rope And The Cyclops
+* (Assassin's Creed II / Best Of) The Madam: The Rope And The Cyclops
 * (Blue Planet II) Blue Planet: The Under And Over Travel Montage
 * (Genshin Forest) A Sense Of Furtive Unrest: Mingling In The Crowd
 * (Final Fantasy VII Remake) Seven Seconds Till The End: Theatre Of Shadows
