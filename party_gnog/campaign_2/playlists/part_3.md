@@ -1,5 +1,6 @@
 # Arise
 
+* https://music.apple.com/nz/playlist/d-g-g-d-f-2-3/pl.u-6AG8viBKgv19
 * https://open.spotify.com/playlist/4dzJuZQF4Z44UmhNFBSTNu
 
 ## Campaign Two Part Three

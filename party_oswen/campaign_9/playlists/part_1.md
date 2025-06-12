@@ -1,6 +1,7 @@
 # New Horizons
 
-* https://open.spotify.com/playlist/ ... TBD ...
+* https://music.apple.com/nz/playlist/d-o-i-k-b-9-1/pl.u-ljx76sjP1KR6
+* https://open.spotify.com/playlist/1Kq2fXDq8B2bqLvYH9bCOz
 
 ## Campaign Nine Part 1
 ### Prologue

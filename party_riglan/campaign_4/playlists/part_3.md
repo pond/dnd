@@ -1,5 +1,6 @@
 # Warrior
 
+* https://music.apple.com/nz/playlist/d-r-t-m-n-4-3/pl.u-AZy5Nt2l0dAK
 * https://open.spotify.com/playlist/4gCYLcT2BXV7VYhF4RvWKm
 
 ## Campaign Four Part Three (In Which We Must Fight)

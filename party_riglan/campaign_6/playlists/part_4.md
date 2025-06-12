@@ -1,6 +1,7 @@
 # Eye Of The Sun
 
-* https://open.spotify.com/playlist/ ... TBD ...
+* https://music.apple.com/nz/playlist/d-r-t-m-n-6-4/pl.u-YR0RgtPDdmyK
+*https://open.spotify.com/playlist/6m1LETEhIIXYsxSjClnUnO
 
 ## Campaign Six Part Four
 ### Prologue

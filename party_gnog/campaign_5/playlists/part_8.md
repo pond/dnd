@@ -1,5 +1,6 @@
 # Retaliating
 
+* https://music.apple.com/nz/playlist/d-g-t-d-f-5-8/pl.u-YzqD5IPDdmyK
 * https://open.spotify.com/playlist/5OBHV0kl1qXQegS9WiMIBA
 
 ## Campaign Five Part Eight

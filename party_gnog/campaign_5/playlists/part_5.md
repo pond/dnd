@@ -1,5 +1,6 @@
 # Negotiating
 
+* https://music.apple.com/nz/playlist/d-g-t-d-f-5-5/pl.u-ZP35JC0pb6DX
 * https://open.spotify.com/playlist/4PqObidFq6Xdily2YeUIjJ
 
 ## Campaign Five Part Five

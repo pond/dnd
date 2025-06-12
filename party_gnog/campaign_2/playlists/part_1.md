@@ -1,5 +1,6 @@
 # Escalation
 
+* https://music.apple.com/nz/playlist/d-g-g-d-f-2-1/pl.u-6mvKWUBKgv19
 * https://open.spotify.com/playlist/3oPdTMXG6T0YJD19FUI7zL
 
 ## Campaign Two Part One

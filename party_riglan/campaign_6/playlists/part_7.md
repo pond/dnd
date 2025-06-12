@@ -1,6 +1,7 @@
 # Worlds Rejoined
 
-* https://open.spotify.com/playlist/ ... TBD ...
+* https://music.apple.com/nz/playlist/d-r-t-m-n-6-7/pl.u-lRpXJIjP1KR6
+* https://open.spotify.com/playlist/6ZESxzXe3eJMxtju9tR3gw
 
 ## Campaign Six Part Seven
 ### Prologue
@@ -29,7 +30,7 @@
 * (Epic North - Return Of The Viking) The Great Nomad: Assess The Field / Sunburst Over The Undead Tsunami / Cormanthor Takes The East Flank / Wage War
 * (Shrio Sagisu) Golden Sun: Afterwards / Goodbyes And Pyres / The Shepherds / Family
 
-### Chapter Three: Honour 
+### Chapter Three: Honour
 
 * (Sam Hulick) Flow State: Eagle Eye View
 * (Ni No Kuni The Movie) A Solemn Vow: "No Stronger Bonds Of Kinship" / A Royal Message / Difficult To Leave

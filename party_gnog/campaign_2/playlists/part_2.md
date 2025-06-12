@@ -1,5 +1,6 @@
 # Doubt
 
+* https://music.apple.com/nz/playlist/d-g-g-d-f-2-2/pl.u-YG6jpfPDdmyK
 * https://open.spotify.com/playlist/1ylEcur2tZSAKiFAnztAXz
 
 ## Campaign Two Part Two

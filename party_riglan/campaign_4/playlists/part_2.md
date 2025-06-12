@@ -1,5 +1,6 @@
 # Druid
 
+* https://music.apple.com/nz/playlist/d-r-t-m-n-4-2/pl.u-vv4AYIz8dq2j
 * https://open.spotify.com/playlist/2OcFbE5f96krrLtW9mrqbm
 
 ## Campaign Four Part Two (Turning The Tides)

@@ -1,6 +1,7 @@
 # The Assault
 
-* https://open.spotify.com/playlist/ ... TBD ...
+* https://music.apple.com/nz/playlist/d-r-t-m-n-6-5/pl.u-BJ1g3I1R8djo
+* https://open.spotify.com/playlist/7rkgPEwW268UmifKSa4n8g
 
 ## Campaign Six Part Five
 ### Prologue

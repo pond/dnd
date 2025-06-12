@@ -1,5 +1,6 @@
 # Hoard
 
+* https://music.apple.com/nz/playlist/d-g-g-d-f-1-2/pl.u-YGbVmcPDdmyK
 * https://open.spotify.com/playlist/1cAInzKxMJF9PjFVoyi4bg
 
 ## Campaign One Part Two

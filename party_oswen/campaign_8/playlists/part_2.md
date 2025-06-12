@@ -1,6 +1,7 @@
 # Forestry
 
-* https://open.spotify.com/playlist/ ... TBD ...
+* https://music.apple.com/nz/playlist/d-o-i-k-b-8-2/pl.u-Zp8Y1T0pb6DX
+* https://open.spotify.com/playlist/38Qv3BCJfIDeOSHadRiX1f
 
 ## Campaign Eight Part Two
 ### Prologue

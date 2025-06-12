@@ -1,5 +1,6 @@
 # Gathering
 
+* https://music.apple.com/nz/playlist/d-g-t-d-f-5-4/pl.u-BMz63f1R8djo
 * https://open.spotify.com/playlist/1qLORdoGRHao3X35mGSlCd
 
 ## Campaign Five Part Four

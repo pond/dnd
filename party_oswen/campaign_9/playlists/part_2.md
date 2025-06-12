@@ -1,6 +1,7 @@
 # All Things Are Possible
 
-* https://open.spotify.com/playlist/ ... TBD ...
+* https://music.apple.com/nz/playlist/d-o-i-k-b-9-2/pl.u-B7p0jH1R8djo
+* https://open.spotify.com/playlist/3w9dtneauOGef9QxbcPeQC
 
 ## Campaign Nine Part 2
 ### Prologue
@@ -49,7 +50,7 @@
 * (Genshin Stellar Vol 5) Manche De Momotsuzuri: Toril's Future Hope (The Library Of Ordulin)
 * (Doctor Who S5) A River Of Tears: Arguments Of The Eight
 * (His Dark Materials) Battle Of Bolvangar: Scrying Catastrophe
-* (His Dark Materials) Bridge To The Stars: Realisation / Evacuation 
+* (His Dark Materials) Bridge To The Stars: Realisation / Evacuation
 * (Luther The Fallen Sun) Luther's Theme: Regroup In The Outlands
 
 ### Epilogue

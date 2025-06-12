@@ -1,6 +1,7 @@
 # Once Upon A Time
 
-* https://open.spotify.com/playlist/ ... TBD ...
+* https://music.apple.com/nz/playlist/d-o-i-k-b-8-1/pl.u-68738TBKgv19
+* https://open.spotify.com/playlist/6ZJfrkkVikQxWUvFaLNGF8
 
 ## Campaign Eight Part One
 ### Prologue

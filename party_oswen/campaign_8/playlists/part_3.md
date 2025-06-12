@@ -1,6 +1,7 @@
 # Too Far Too Fast
 
-* https://open.spotify.com/playlist/ ... TBD ...
+* https://music.apple.com/nz/playlist/d-o-i-k-b-8-3/pl.u-AG7bmh2l0dAK
+* https://open.spotify.com/playlist/3z9JhSsRRCYpE4LurvcDiA
 
 ## Campaign Eight Part Three
 ### Prologue

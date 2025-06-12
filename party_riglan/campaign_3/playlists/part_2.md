@@ -1,5 +1,6 @@
 # Shepherd
 
+* https://music.apple.com/nz/playlist/d-r-t-m-n-3-2/pl.u-vv43xTz8dq2j
 * https://open.spotify.com/playlist/5iM7tXgdvR76QzUp54PQ8b
 
 ## Campaign Three Part Two (Of Magical Forges, Long Journeys And Difficult Choices)
