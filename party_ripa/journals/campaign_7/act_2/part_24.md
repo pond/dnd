@@ -84,7 +84,7 @@ Eventually everyone falls asleep.
 
 
 
-## Thorin's Athas druid grove (Outlands relative day 24-27 inclusive)
+## Thorin's Athas druid grove (Outlands relative day 24-26 inclusive)
 
 Training montage!
 
@@ -145,11 +145,11 @@ Penny heads to bed first. Thorin next. Francesc stays up, needing only a few hou
 
 "That's the spirit!"
 
-Mynos asks to meditate with Francesc, since she doesn't sleep. They sit back to back as the twin moons set, but must head below once the sun rises - because we attack *at night, once the sun is fully up*.
+Mynos asks to meditate with Francesc, since she doesn't sleep. They sit back to back as the twin moons set, but must head below once the sun rises - because we attack *at "night", once the sun is fully up*.
 
 
 
-## Thorin's Athas druid grove (Outlands relative day 27-28 "overnight" - sun-up)
+## Thorin's Athas druid grove (Outlands relative day 27 - after sun-up)
 
 The three of us cast off our Athas "disguises". We equip with our true armour and weaponry. The sight of all that metal raises spirits even further. Thorin wants to use his dragon shield so he gives the Sentinel Shield to Penny. We also make sure we get on our base layer of sunblock^Hanti-acid. Mynos gets the spare. Zorhanna will... Have to manage...
 
@@ -165,7 +165,7 @@ We get inside - the three of us, Mynos and Zorhanna. Corridors are vast! 10ft wi
 
 1: Thorin casts Locate Animals/Plants, looking for a black dragon. He does not detect anything! Well, at least that means whatever he is, Karnak is not a full black dragon yet. Zorhanna: "Interesting..." - and casts Locate Creature instead; "...a great idea, I didn't think of that..."; she gets a bearing.
 
-2: We advance≥. There are a few options; Francesc can see one option, so Thorin sends a moth Familiar down another.
+2: We advance. There are a few options; Francesc can see one option, so Thorin sends a moth Familiar down another.
 
 3: More or less straight ahead there's a big fountain. Francesc is fairly sure that's the way to go, given Zorhanna's direction. The moth advances and sees a room full of offerings - treasure, urns, metal weapons, plate and cups.
 
