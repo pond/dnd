@@ -84,7 +84,7 @@ Eventually everyone falls asleep.
 
 
 
-## Thorin's Athas druid grove (Outlands relative day 24-26 inclusive)
+## Thorin's Athas druid grove (Outlands relative day 24-27 inclusive)
 
 Training montage!
 
@@ -106,7 +106,9 @@ Mynos is all questions. Where is Arturo?! They were close. We do our best to exp
 
 Thorin tries to chat to Mynos and teach him how to recognise the right from the wrong. It's an uphill struggle; he lacks the experience or the context. Thorin eventually has a good idea - offers that if he trusts us, Mynos could follow our lead. ADV persuasion with WIS basis, 4,6+5 -> only 11; Penny tries, 4+10->only 14; then Francesc tries! 19+0. That works. Perhaps the good-alignment of Thorin & Penny hampered them; neutral Francesc has a more balanced way of explaining things.
 
-Eventually, it's the last night before we go. Thorin produces a gem-encrusted bowl that he'd made (!) - he has a plan, a new spell; Heroes Feast.
+We intend to attack the palace at Athas "night" when the city is least active - that is, while the sun is up. To achieve this, three dusk-to-dawn cycles pass normally, but on the fourth "day", dusk to dawn extends as everyone attempts to shift their sleep from the usual Athas cycle to a more familiar-to-us "daytime". They stay up, through the sunlight; we are all underground below the grove in the caverns and tunnels. Eventually, it's the "last night" before we go. For almost everyone except our party, that seems strange since it's going to be dark soon; that would normally when they're awake!
+
+Thorin produces a gem-encrusted bowl that he'd made (!) - he has a plan, a new spell; Heroes Feast.
 
 * Us
 * Simera
@@ -117,11 +119,11 @@ Eventually, it's the last night before we go. Thorin produces a gem-encrusted bo
 * Veiled Alliance commanders x 2
 * A survival-of-the-fittest chosen Halfling champion
 
-Around that feast, everyone else gathers. Many think it might be their last night. Tomorrow they go to battle. People share stories. Mynos is quiet and contemplative, grappling with a lot of new ideas. Zorhanna seems surprisingly at ease, effortlessly blending in and interacting with people from very different backgrounds. There's a strange mixture of hope and resignation to an assumed fate.
+Around that feast, everyone else gathers. Many think they may not live through the following day. They go to battle. People share stories. Mynos is quiet and contemplative, grappling with a lot of new ideas. Zorhanna seems surprisingly at ease, effortlessly blending in and interacting with people from very different backgrounds. There's a strange mixture of hope and resignation to an assumed fate.
 
 Many toasts. Too many toasts!
 
-Penny heads to bed first. Thorin next. Francesc stays up, needing only a few hours of sleep. She notices Mynos standing in a raised area with an open space to the night sky. She wanders over.
+Penny heads to bed first. Thorin next. Francesc stays up, needing only a few hours of sleep. She notices Mynos standing in a raised area with an open space to the dark Athas-day, Toril-night sky. She wanders over.
 
 "Anything wrong?"
 
@@ -145,11 +147,11 @@ Penny heads to bed first. Thorin next. Francesc stays up, needing only a few hou
 
 "That's the spirit!"
 
-Mynos asks to meditate with Francesc, since she doesn't sleep. They sit back to back as the twin moons set, but must head below once the sun rises - because we attack *at "night", once the sun is fully up*.
+Mynos asks to meditate with Francesc, since she doesn't sleep. They sit back to back, watching as the twin moons set.
 
 
 
-## Thorin's Athas druid grove (Outlands relative day 27 - after sun-up)
+## Thorin's Athas druid grove (still Outlands relative day 27 - after sun-up)
 
 The three of us cast off our Athas "disguises". We equip with our true armour and weaponry. The sight of all that metal raises spirits even further. Thorin wants to use his dragon shield so he gives the Sentinel Shield to Penny. We also make sure we get on our base layer of sunblock^Hanti-acid. Mynos gets the spare. Zorhanna will... Have to manage...
 
