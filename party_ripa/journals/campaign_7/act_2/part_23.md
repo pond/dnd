@@ -89,7 +89,7 @@ Simera seems to spend most of her time talking to Francesc. I guess they ended u
 * We need to survive that fall, and the fire traps within.
 * We need to find Zorhanna. Simera doesn't know her exact location.
 
-Penny asks if there is any kind of magic suppression. Simera isn't sure, but nobody's escaped. Perhaps it is just a question of physical protection - gags, bindings, that kind of thing. But *maybe* there's something that suppresses magic. Minos might've helped here but it's a wildcard and besides, we sent him out through the tree - it was far too high a risk that he might get discovered. But Simera thinks the fire traps are magical, though - if so, there's surely no magic suppression.
+Penny asks if there is any kind of magic suppression. Simera isn't sure, but nobody's escaped. Perhaps it is just a question of physical protection - gags, bindings, that kind of thing. But *maybe* there's something that suppresses magic. Mynos might've helped here but it's a wildcard and besides, we sent him out through the tree - it was far too high a risk that he might get discovered. But Simera thinks the fire traps are magical, though - if so, there's surely no magic suppression.
 
 We consider cloud flight (could be seen; takes ages to re-materialise); but then we consider... Falling. Francesc can run down the side. Penny figures the drop would *hurt* but she might be athletic enough to somewhat lessen it, and it won't kill her for sure. Thorin likewise - and he thinks he could Misty Step down. *If* we can get to the pit, we can get down.
 

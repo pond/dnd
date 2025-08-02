@@ -19,11 +19,11 @@ On Penny's watch, near the start, the child wakes up. It speaks using telepathy.
 
 "Where? Or - who?"
 
-"The one I spoke to. The one with the... Abilities." 
+"The one I spoke to. The one with the... Abilities."
 
 "Ah, he is called Arturo. I am Penny."
 
-"I see. I am called **Minos**. You - the two of you - could still bring me to Tyr. You would be believable. The dwarf and the elf, no. Are we staying here?"
+"I see. I am called **Mynos**. You - the two of you - could still bring me to Tyr. You would be believable. The dwarf and the elf, no. Are we staying here?"
 
 "We move at nightfall."
 
@@ -126,7 +126,7 @@ Arturo convinces Penny to join the campfire of the group and try to get informat
 
 * There are only two entrances to the city but only one from the Gulg side
 * Going around from one to the other could add an extra hour
-* They don't really know about the other gate - whether it's any easier or not 
+* They don't really know about the other gate - whether it's any easier or not
 * They interpret our questions as an attempt to "evade taxes" at the city boundaries
 * They stay in the trade area and never venture deeper - Gulgans are considered kinda low-life mercantiles by residents of Tyr, very arrogant, high & mighty, etc. etc.
 
@@ -184,19 +184,19 @@ Insight 22. They detected a magic item. We must've missed someone... He thinks f
 
 On the way in, Penny atop the lizard spots Thorin. Thorin sees that the other two dwarves are looking frustrated... And Arturo starts to walk towards them as if to talk. They seem very surprised! After all he's in his desert kit. They almost begin to back away, until at the last minute, the male dwarf steps in front of the female. "Halt! Why are you approaching us?!"
 
-"I don't mean to alarm you. We're here to meet someone on behalf of the child Minos."
+"I don't mean to alarm you. We're here to meet someone on behalf of the child Mynos."
 
-"Are we meant to know who this child is?! We have no dealings with a Minos!" - Arturo insight 14 - seems legit.
+"Are we meant to know who this child is?! We have no dealings with a Mynos!" - Arturo insight 14 - seems legit.
 
 He pushes his luck and tries to barter with them for information about any other caravans, saying he has information about the delayed one behind us. But they're mostly just annoyed. A shipment of slaves should've arrived yesterday... They're already paid for. He tells them that the caravan was attacked - that was *our* caravan - and the slaves were killed or escaped. (DM roll) They believe him and they're both very annoyed. The female dwarf storms off; the male presses a couple of stone chips into Arturo's hand and walks off too!
 
-Thorin has been watching all this with some bemusement, but he's watching to see if anyone else might be approaching. Perception 18. *Lots* of people are busybodies! They're listening to Arturo's "debate" while pretending not to. A few people are stood around with boards with names of trading houses on, presumably for specific trading houses awaiting caravans. He storms up to one, feigning irritation, asking if anyone is waiting for *his* caravan - the one from yesterday - but it doesn't get much traction. Arturo is meanwhile asking about Minos and so-on.
+Thorin has been watching all this with some bemusement, but he's watching to see if anyone else might be approaching. Perception 18. *Lots* of people are busybodies! They're listening to Arturo's "debate" while pretending not to. A few people are stood around with boards with names of trading houses on, presumably for specific trading houses awaiting caravans. He storms up to one, feigning irritation, asking if anyone is waiting for *his* caravan - the one from yesterday - but it doesn't get much traction. Arturo is meanwhile asking about Mynos and so-on.
 
 Suddenly Arturo takes 1 piercing damage. A stone hits him on the side of the head!
 
 Penny, perception 18 from up on the lizard, had been looking at the religions iconography - it's everywhere - a dragon wearing a mitre, with a sceptre that has a crystal at the top, with dragon wings outstretched. Then she sees a flash of grey speeding through the air and sees Arturo hold the side of his head. It came from a darker area in an alleyway where she can't see anyone. She can't do much from here but keeps watch. She sees Arturo get yanked into the alleyway.
 
-He sees a face peering up at him - someone about 5ft tall - no eyebrows, no hair. They have a sort of hat attached to a shirt, a structured hood of sorts. "Why are you - you are not - you are not the person we're supposed to meet! Why are you throwing Minos' name around! Stick to the plan!"
+He sees a face peering up at him - someone about 5ft tall - no eyebrows, no hair. They have a sort of hat attached to a shirt, a structured hood of sorts. "Why are you - you are not - you are not the person we're supposed to meet! Why are you throwing Mynos' name around! Stick to the plan!"
 
 "What's the plan?"
 
@@ -214,13 +214,13 @@ They slink away into the shadows.
 
 We're still there, in the middle of the main area. Not moving. At least it's a quiet day. A couple of people have come to us to hold up their signs! After a while she gives a quick summary of the stuff in the caravan. "Yours? Want to buy it?" - persuasion (burning inspo) 17. One of them seems to shrug and decide maybe today isn't a total loss! They get a list out and start asking if we have X, Y or Z. Soon enough others clock it and a bidding war starts! Arturo gets back to the caravan and encourages it. Persuasion 27!
 
-We don't let people inside but we do take things inside, out, for them to look at. Minos is confused about what's going on but we do our best to mentally explain. Arturo lets him know that we made contact with "his people" and he seems very happy with that.
+We don't let people inside but we do take things inside, out, for them to look at. Mynos is confused about what's going on but we do our best to mentally explain. Arturo lets him know that we made contact with "his people" and he seems very happy with that.
 
 This unexpected fire sale; the alcohol, perfume, some basic trade goods like stone carvings and so-on... We end up completely clearing the scavenged goods and we make a huge amount. It's the equivalent of 98 platinum - stone tablet pieces worth ten of the coins.
 
 Well now we certainly have money for stables! And a person from the stables has seen that too, hurries over and starts faux-fussing over us to help us "park the lizard" and caravan. They seem unsure about what we want; Penny points to the lizard - "that needs to be fed well and watered well" - and Arturo adds, "And take us to the nice part of town!"
 
-We have to wait for everyone nearby to leave before we bundle up the egg and Minos with clothes or tarp and treat it as just a "bundle of stuff" that nobody can see. Meanwhile, Arturo negotiates sale of the wagon itself; he's decided we surely don't need it. They're surprised given we want to lizard looked after but shrug it off... It's expensive... 10 chips a day. They say it as if we might negotiate. Penny feigns wincing about and grumbles, negotiating over-day instead of more than one night, since Arturo has the idea that we can set it free tomorrow. (When we have privacy, Thorin is asked to tell the lizard about that. In the mean time, it has good lodgings!)
+We have to wait for everyone nearby to leave before we bundle up the egg and Mynos with clothes or tarp and treat it as just a "bundle of stuff" that nobody can see. Meanwhile, Arturo negotiates sale of the wagon itself; he's decided we surely don't need it. They're surprised given we want to lizard looked after but shrug it off... It's expensive... 10 chips a day. They say it as if we might negotiate. Penny feigns wincing about and grumbles, negotiating over-day instead of more than one night, since Arturo has the idea that we can set it free tomorrow. (When we have privacy, Thorin is asked to tell the lizard about that. In the mean time, it has good lodgings!)
 
 We can rent a kind of rickshaw for our "belongings", 2 chips, Arturo wants to negotiate - as if our patience after the 10 chips for the lizard is running thin; Penny helping; 22 persuasion - yeah, we get it gratis. Just for over-day anyway.
 

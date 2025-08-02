@@ -60,7 +60,7 @@ The door opens; the person is pushed into the room. Arturo is watching; they're 
 
 The calculated eyes become more obvious; the ruse is dropped, at least somewhat. After a while, "Don't think that I'm helpless" - Arturo says "That's why we called you here!" at the same time as Penny says, "I'm kind of hoping you're not!" - as Thorin pushes the implements onto the ground. At this, the person tries to push into his mind. WIS save; 21, but he *chooses* to let them in. And makes sure that they know it.
 
-The presence in his mind is much less finessed than that of Minos. It stumbles around, so to speak, trying to find things of interest. They look puzzled - for obvious reasons.
+The presence in his mind is much less finessed than that of Mynos. It stumbles around, so to speak, trying to find things of interest. They look puzzled - for obvious reasons.
 
 We learn that there's a group of dwarves that (probably) own the club and their family members - do this. They bring in people. Specially bred, the ones downstairs; upstairs, people are just captured off the street. But we can't get much more than that. They've spent most of their lives here, and most are brought in unconscious.
 

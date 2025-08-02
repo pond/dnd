@@ -10,7 +10,7 @@ There's also Simera - a hothead troublemaker, but she acts and she knows her way
 
 * Find Simera
 * Free the mage, with help from Simera personally or using information she has
-* Talk to Minos about the plan to take down the king
+* Talk to Mynos about the plan to take down the king
 * Infiltrate and do it (dispatch the templars?)
 
 ...persuasion: Arturo wins the day with 28 and we manage to find people who might know more about Simera's location. She's been on a vendetta lately! Talking about how a dwarf syndicate that needs to be taken down; it has been trading in sex slaves; she knows where they are operating from, a grim trail of bodies of dead too-young people who had been forced to work for them. A performance space called "**The Notorious**" is at the centre of that. But it can't be accessed from the underground; it's off the main parade in the noble's area.
@@ -57,7 +57,7 @@ Whatever deal we just made, it seems we made it with this one broker and not wit
 
 We pay other brokers for the disguise clothing. It comes to 2gp, for Arturo and Thorin; they think Penny and Francesc already look like they need to look. But the clothing needs to be worn carefully - there are some cleaned up, patched parts that look clearly like weapons damage.
 
-On a whim, Penny asks if there's anything to protect against acid. To her surprise - yes! It's a sort of salve, made from milk. We would coat ourselves in it. But it's a controlled substance; the milk is banned in Tyr. But it'd cost equivalent 100gp per person; they *will* take gems; we think we might need to bring another person in there - Minos - and they *do* accept that trade, with a diamond and even some change.
+On a whim, Penny asks if there's anything to protect against acid. To her surprise - yes! It's a sort of salve, made from milk. We would coat ourselves in it. But it's a controlled substance; the milk is banned in Tyr. But it'd cost equivalent 100gp per person; they *will* take gems; we think we might need to bring another person in there - Mynos - and they *do* accept that trade, with a diamond and even some change.
 
 We get directed to the exit - not the same direction as the entrance. Better security that way; people head in one place, exit elsewhere. We end up on the side of the canal on a ledge and it takes a while to reach steps to get back out properly, on the same side as the market but a fair distance away.
 

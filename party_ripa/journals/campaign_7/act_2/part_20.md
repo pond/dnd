@@ -21,7 +21,7 @@ During this, Penny, insight only 17 but it's enough to know that they're seeing 
 * It's about _control of their destiny_ - a euphemism for something they aren't saying
 * They want self-determination - change the circumstances under which they are... Created, born...
 
-Penny offers to open her mind up, to try and understand these concepts. Persuasion 27. But Thorin, insight 25, realises the Mul are hiding something very fundamental that they are unwilling to disclose. There's a dark secret and it's linked to the child and this conversation. He's the only one of the three of us that has realised this... Can he trick them into revealing it? Thorin co-opts Arturo's help, saying that we've talked to Minos and know something of what they're hiding - but he is (wildly) unsuccessful.
+Penny offers to open her mind up, to try and understand these concepts. Persuasion 27. But Thorin, insight 25, realises the Mul are hiding something very fundamental that they are unwilling to disclose. There's a dark secret and it's linked to the child and this conversation. He's the only one of the three of us that has realised this... Can he trick them into revealing it? Thorin co-opts Arturo's help, saying that we've talked to Mynos and know something of what they're hiding - but he is (wildly) unsuccessful.
 
 Penny figures they're born but then need a soul. And she goes on about that a while, trying to be religious about it - but in the end one of them snaps. No! It's the spark of the *mind*. Mul are born mindless; they have to be *created*, a spark, their elevated free-will consciousness and psionic abilities. They want Mul to be born *with* that spark. But it would make them very, very powerful beings.
 
@@ -32,7 +32,7 @@ We all try to get that happening. They just about give in; but it's a "we'll tel
 * A quasi-religious order - a cult of sorts
 * It's believed that they're born without a consciousness, and then that it is given to them
 * Some Mul can't be "awakened" at all at first; awakened Mul work on them until they eventually do and they usually want to rebel by then as they recognise their past slavery
-* Minos is part of a secret breeding programme
+* Mynos is part of a secret breeding programme
 * He's been indoctrinated from birth for his task
 * He's a sacrificial lamb - he'll be giving his life to complete his task, essentially to be locked in eternal struggle with the Sorcerer King
 * **The Mul can operate as a hive mind!**
@@ -43,13 +43,13 @@ It's difficult. Thorin's insight tells him that they'll be able to know how *eve
 
 Penny opines that they will just reverse history; instead of their people being on the bottom and slowly finding a way to reverse it, everyone else will be on the bottom and find a way. It'll never end. Of course they disagree. Their plan is perfect! Penny HIS 20+4, 24. It's like Illithids; a hive mind; a fervent belief in the perfect formation of their plan; a desire to make reality what they want it to be.
 
-We can do little except suggest we continue to follow each other's plan, as long as we're aligned; take down the king, then our paths diverge. They realise we don't really want to release Minos into their care. "This may not be acceptable. We will be back!"
+We can do little except suggest we continue to follow each other's plan, as long as we're aligned; take down the king, then our paths diverge. They realise we don't really want to release Mynos into their care. "This may not be acceptable. We will be back!"
 
 They leave.
 
 We suddenly realise the Innkeeper is talking next to us and kind of mid-sentence. He seems to think he's been talking to us; but we have no knowledge; we just kind of gloss over it and say we're all done, thank you; we'll head upstairs.
 
-Minos is asleep or meditating or... Something. Thorin pulls us into our other room. "Those guys are very dangerous. To allow that to go unchallenged seems even worse than having the sorcerer king. But I don't know if Minos is necessarily in the same 'place' as them. He's being used as a tool."
+Mynos is asleep or meditating or... Something. Thorin pulls us into our other room. "Those guys are very dangerous. To allow that to go unchallenged seems even worse than having the sorcerer king. But I don't know if Mynos is necessarily in the same 'place' as them. He's being used as a tool."
 
 There *are* other people. A kind of Alliance. Renegade Mul. The two other Sorcerer Kings. We need sleep... Too many options... We will bunk up in the room with the kid, and be on Watch. Thorin sets up a ward sigil, and we try to sleep.
 
@@ -70,7 +70,7 @@ So, the druids ask; what is our plan to swell the ranks for this resistance? The
 Watch:
 
 * Arturo: 17. It's surprisingly noisy. People having an argument they're trying to keep quiet. Minor altercations on the street - seems to be soldiers harassing people.
-* Thorin: 21. A lot of time to think about what we might do next. The flow of magic around him feels strange. The city is... Lively with nature magic. Trees grow here. But there is a weakness, a frailty. Something saps away their life force. 
+* Thorin: 21. A lot of time to think about what we might do next. The flow of magic around him feels strange. The city is... Lively with nature magic. Trees grow here. But there is a weakness, a frailty. Something saps away their life force.
 * Penny: 7! She's distracted, and half asleep. But she's fully woken by the sound of yelling and banging from downstairs; doors slammed open or shut; sounds of protest.
 
 Penny wakes up the other two. "Trouble". She peeks her head out the door. At the stairs, she sees a group of four guards who've burst into the inn. The Innkeeper is being pinned against a wall and someone else is being restrained; two others seem to be kicking down doors and dragging people out. "We know you're harbouring rebels in here!" she overhears.
@@ -83,15 +83,15 @@ Thorin is surprisingly chill. He thinks his sleeping ward will do the trick. A 6
 
 Another door smashed in. Footsteps up the stairs. We have seconds.
 
-Thorin throws a black blanket over Minos. Penny hisses, "NOT GOOD ENOUGH!"; she puts the egg and Minos on the toilet, pulls off the blanket and points at Arturo then the egg, "*invisible, now!*". OK, that done; Penny gets half way through saying, "Act casual" when Thorin's ward is triggered.
+Thorin throws a black blanket over Mynos. Penny hisses, "NOT GOOD ENOUGH!"; she puts the egg and Mynos on the toilet, pulls off the blanket and points at Arturo then the egg, "*invisible, now!*". OK, that done; Penny gets half way through saying, "Act casual" when Thorin's ward is triggered.
 
 * Penny WIS save 27
 * Arturo WIS save 17, falls asleep! Aaaand - the invisibility spell fails
 * Thorin WIS 35, has time to throw the blanket back over the egg.
 
-Lots of thudding sounds outside. People falling asleep... Nobody comes in... Throin shakes Arturo, but *now* what. Thorin wakes up Minos. We need to get out of here without being seen. He goes invisible! But there is still an egg there. Thorin asks about it. He gets visible again; goes in, gets a blanket and pillow, then touches the egg and it turns into sand. THEN he vanishes again. Thorin spreads the sand around the room to try and make it look less obvious! And then Minos turns himself into, well, just some non-Mul kid.
+Lots of thudding sounds outside. People falling asleep... Nobody comes in... Throin shakes Arturo, but *now* what. Thorin wakes up Mynos. We need to get out of here without being seen. He goes invisible! But there is still an egg there. Thorin asks about it. He gets visible again; goes in, gets a blanket and pillow, then touches the egg and it turns into sand. THEN he vanishes again. Thorin spreads the sand around the room to try and make it look less obvious! And then Mynos turns himself into, well, just some non-Mul kid.
 
-WIS saves all round - we all pass. Except Minos, who now turns into a Mul. Blanket on the kid, Penny carries him, muttering obscenities as she does so. And she wakes up Minos. "Can we *please* get out of range of this f*cking sp-..." - WIS saves all round. Thorin and Penny are fine, Arturo starts to fall, Minos is asleep again.
+WIS saves all round - we all pass. Except Mynos, who now turns into a Mul. Blanket on the kid, Penny carries him, muttering obscenities as she does so. And she wakes up Mynos. "Can we *please* get out of range of this f*cking sp-..." - WIS saves all round. Thorin and Penny are fine, Arturo starts to fall, Mynos is asleep again.
 
 Out the front door. There are people asleep on the pavements. "Vagabonds!" declares Thorin loudly. It's very sunny - Arturo thinks they'll be fine, albeit very hot, in 10 minutes of sleep.
 
@@ -105,11 +105,11 @@ Arturo says, "Alley way" and Thorin agrees. It's less than 5ft wide, going behin
 
 Penny says, "I didn't think it could get worse, and then..."
 
-Arturo is looking for somewhere to go and asks if we want to try and find the Veiled Alliance now. Minos recognises that - "But we're *meant* to meet them" he says - so do we want to find *other* Mul... Arturo asks if Minos wants to try connecting to the "hive mind" to find all other awakened Mul who might be with another faction. But there is darkness and chaos that has seeped into the community and he is "to remain pure". "I think you're strong enough that you could purify the dark Mul!" says Arturo; persuasion 27; this resonates.
+Arturo is looking for somewhere to go and asks if we want to try and find the Veiled Alliance now. Mynos recognises that - "But we're *meant* to meet them" he says - so do we want to find *other* Mul... Arturo asks if Mynos wants to try connecting to the "hive mind" to find all other awakened Mul who might be with another faction. But there is darkness and chaos that has seeped into the community and he is "to remain pure". "I think you're strong enough that you could purify the dark Mul!" says Arturo; persuasion 27; this resonates.
 
-We're in the open, under a tree, middle of broad daylight. Minos has turned into "another kid" again, but even so. Risky. Minos closes his eyes and we *feel* him reaching out, psychically. Arturo says, "Find the Mul who are chaos!" - Minos looks worried. Perception; Arturo 21; furrowing his brow, shaking his head; he's seeing something he doesn't like; he continues to search but it's as if someone is telling him something bad. As if he is being told a scary story. A bad dream. Thorin hopes Minos can hear him; "Be careful what you listen to! You should keep your own thoughts around..." - but then the sand around him starts to shake and pebbles rise off the ground. His face is twisted in an angry look... Penny shakes his shoulders and it works. He's pulled out of it. All the pebbles all drop back down.
+We're in the open, under a tree, middle of broad daylight. Mynos has turned into "another kid" again, but even so. Risky. Mynos closes his eyes and we *feel* him reaching out, psychically. Arturo says, "Find the Mul who are chaos!" - Mynos looks worried. Perception; Arturo 21; furrowing his brow, shaking his head; he's seeing something he doesn't like; he continues to search but it's as if someone is telling him something bad. As if he is being told a scary story. A bad dream. Thorin hopes Mynos can hear him; "Be careful what you listen to! You should keep your own thoughts around..." - but then the sand around him starts to shake and pebbles rise off the ground. His face is twisted in an angry look... Penny shakes his shoulders and it works. He's pulled out of it. All the pebbles all drop back down.
 
-He's wild. Angry. He grabs Penny's hands. "WHAT is happening?! I found Mul! But they're - there's nothing *there*." Arturo tries to explain, but Minos thinks he *already* had minds.
+He's wild. Angry. He grabs Penny's hands. "WHAT is happening?! I found Mul! But they're - there's nothing *there*." Arturo tries to explain, but Mynos thinks he *already* had minds.
 
 Arturo suggests we get to the stables, where our lizard is. At least we can feign having slept with it. But on the way, we hear "Hey, stop! You three with the kid!" (The elf is ignored!). We stop and play along. Two guards. "What are you doing out?!"
 
@@ -117,21 +117,21 @@ Penny looks depressed. "Kid ran off. Always doing that. We wanna get to the stab
 
 There's a stable girl. Penny gives her a full disc and says, "Make yourself scarce until nightfall".
 
-At this, Penny opens her mind to Minos, so he can learn all that we experienced in the Inn. As this happens, Arturo, Thorin and Francesc catch up and try to formulate a plan. "Resistance" / unaligned Mul seem the best idea. But meanwhile, Minos sits down with Penny, almost catatonic. An existential crisis. Penny says, "Welcome to the club, kid" - but she holds his hand and sits with him, quietly. After a while, they discuss issues of - well, philosophy. Good people, bad people, that kind of thing; Arturo joins in.
+At this, Penny opens her mind to Mynos, so he can learn all that we experienced in the Inn. As this happens, Arturo, Thorin and Francesc catch up and try to formulate a plan. "Resistance" / unaligned Mul seem the best idea. But meanwhile, Mynos sits down with Penny, almost catatonic. An existential crisis. Penny says, "Welcome to the club, kid" - but she holds his hand and sits with him, quietly. After a while, they discuss issues of - well, philosophy. Good people, bad people, that kind of thing; Arturo joins in.
 
 Thorin asks the lizard's opinion. The lizard doesn't understand what anyone is saying! Then Thorin asks if there any tunnels around, access ways; the lizard can feel cold air coming from a stall in a certain direction. After a brief debate, we go down the tunnel, bringing the lizard along. Eventually we reach a split in the tunnel; the lizard is allowed to go their own way.
 
 These seem to be natural caverns. There is humidity. Francesc (Survival 22) can find the way there... We go down, lower and lower... Eventually finding **a sunken city**. There are signs of habitation down here; a good sign; maybe this is where the "resistance" hides.
 
-We realise, then, in this calm, how tired we are. We find a space, a hovel really. Minos is probably questioning his life choices. Penny beds down, Minos in tow - "Just go with it. You'll be surprised how these things can end."
+We realise, then, in this calm, how tired we are. We find a space, a hovel really. Mynos is probably questioning his life choices. Penny beds down, Mynos in tow - "Just go with it. You'll be surprised how these things can end."
 
-Penny only needs a short while and Minos doesn't really sleep. Once she wakes up, she goes on watch while the others sleep. She hears other people, creeping around outside - but stays with the group. More than anything, she watches over Minos.
+Penny only needs a short while and Mynos doesn't really sleep. Once she wakes up, she goes on watch while the others sleep. She hears other people, creeping around outside - but stays with the group. More than anything, she watches over Mynos.
 
 
 
 ### Below Tyr (Outlands relative day 22)
 
-Finally, we are reseted. Penny sees Minos is trying to mediate but struggling. She asks if she can help; he attempts a philosophical exchange. People, motivations. He's not been able to question things like this before. Thorin sends out a spirit lizard Familiar to try and find out more about the people around here - what are they like? It reports back that people are gathering in a cistern, an underground water tank, so we figure - sure, why not! And we head out.
+Finally, we are reseted. Penny sees Mynos is trying to mediate but struggling. She asks if she can help; he attempts a philosophical exchange. People, motivations. He's not been able to question things like this before. Thorin sends out a spirit lizard Familiar to try and find out more about the people around here - what are they like? It reports back that people are gathering in a cistern, an underground water tank, so we figure - sure, why not! And we head out.
 
 We decide to approach confidently. Stealth might be mistaken as subterfuge or threat. And at that, Penny is pushed forward, somewhat unwillingly! She stumbles into a group of people who are startled. Looking quickly around she can see that this vast space used to be full, but is now mostly empty.
 
@@ -171,7 +171,7 @@ Penny - "Well, in truth not really."
 
 We end up in what Penny recognises as a temple. 3 storey high, frescoes that are paintings of worlds, mountains, golden sunsets; there would have been actual waterfalls here once, long since gone. The old lazy draws on wisps of magic, scarce, precious; she throws up a daylight spell of sorts. It's weak but works. It's huge - and a refugee complex, or sorts. **There must be 150 people here at least**.
 
-Leading us down broken stairs, we attract attention. Penny holds Minos' hand the whole time. He's not used to it, but after pulling away now and again, always seems to reach back up.
+Leading us down broken stairs, we attract attention. Penny holds Mynos' hand the whole time. He's not used to it, but after pulling away now and again, always seems to reach back up.
 
 The old lady stops, turns and addresses the gathering crowed. "We have visitors, *again*, from another world." Murmurs in the crowd. "And they have the One Mind's weap - ... - *child*. And they _say_ that they're here to overthrow Karnak!" Uncomfortable; some laugh, even, but others look hopeful.
 
@@ -183,7 +183,7 @@ There's a strange sound, like locusts, clicking; and then a flying Thri-Kreen ap
 
 "Grand words. But meaningless if you have no course of action. What is your plan? Everybody wants to take down the sorcerer king. We can throw *everything* we have against that wall and come up empty! Many  have tried. What makes this different than every other time?"
 
-Well, we have Minos; who if they wish, can help; we draw together; we form a plan; we don't have one, but together we all form one.
+Well, we have Mynos; who if they wish, can help; we draw together; we form a plan; we don't have one, but together we all form one.
 
 Thorin says, "And this isn't done by power alone! We get people where they need to be, find information, figure out how to solve all the challenges."
 
@@ -217,13 +217,13 @@ Penny asks, "Right. So where do we go?"
 
 We are advised to not do it at night! Wait until it is quieter. They know an underground entrance into the Templar's compound but from there, we are on our own. We'd like to talk to **Simera** too, but we have to find her first!
 
-"Do you want us to... Shield Minos?"
+"Do you want us to... Shield Mynos?"
 
-Thorin insight 22. He could be very useful but draws attention. Thorin mentions this. Penny insight 27, Minos is in his own head; but he says, "I don't need you to shield me! I can shield myself." Arturo says, "There's strength in letting other people -" but (rudely) Penny interrupts. **"We're taking him."** He tries to argue more; she says "We're taking him".
+Thorin insight 22. He could be very useful but draws attention. Thorin mentions this. Penny insight 27, Mynos is in his own head; but he says, "I don't need you to shield me! I can shield myself." Arturo says, "There's strength in letting other people -" but (rudely) Penny interrupts. **"We're taking him."** He tries to argue more; she says "We're taking him".
 
 We are shown to a room where we can figure out what we're doing next. Penny apologises for being short with Arturo; she knows he'll be in danger, but he needs *some* kind of stability.
 
-Minos speaks up. He talks of us taking down the God King. We're emphatic that he's not with us to die, anymore. It's not just him. It's all five of us. "But what then?" he asks. And he wants to come back with us, after. Penny makes that deal. But only if he wants it!
+Mynos speaks up. He talks of us taking down the God King. We're emphatic that he's not with us to die, anymore. It's not just him. It's all five of us. "But what then?" he asks. And he wants to come back with us, after. Penny makes that deal. But only if he wants it!
 
 Francesc meanwhile is checking the bag. A couple of other small trinkets.
 
