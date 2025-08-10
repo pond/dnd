@@ -108,7 +108,7 @@ Thorin tries to chat to Mynos and teach him how to recognise the right from the 
 
 We intend to attack the palace at Athas "night" when the city is least active - that is, while the sun is up. To achieve this, three dusk-to-dawn cycles pass normally, but on the fourth "day", dusk to dawn extends as everyone attempts to shift their sleep from the usual Athas cycle to a more familiar-to-us "daytime". They stay up, through the sunlight; we are all underground below the grove in the caverns and tunnels. Eventually, it's the "last night" before we go. For almost everyone except our party, that seems strange since it's going to be dark soon; that would normally when they're awake!
 
-Thorin produces a gem-encrusted bowl that he'd made (!) - he has a plan, a new spell; Heroes Feast.
+Thorin produces a gem-encrusted bowl that he'd made (!) - he has a plan, a new spell; Heroes Feast. We all gain 13 temp HP.
 
 * Us
 * Simera
@@ -153,7 +153,7 @@ Mynos asks to meditate with Francesc, since she doesn't sleep. They sit back to 
 
 ## Thorin's Athas druid grove (still Outlands relative day 27 - after sun-up)
 
-The three of us cast off our Athas "disguises". We equip with our true armour and weaponry. The sight of all that metal raises spirits even further. Thorin wants to use his dragon shield so he gives the Sentinel Shield to Penny. We also make sure we get on our base layer of sunblock^Hanti-acid. Mynos gets the spare. Zorhanna will... Have to manage...
+The three of us cast off our Athas "disguises". We equip with our true armour and weaponry. The sight of all that metal raises spirits even further. Thorin wants to use his dragon shield so he gives the Sentinel Shield to Penny. We also make sure we get on our base layer of sunblock^Hanti-acid. Mynos gets the spare. Zorhanna uses Thorin's, because we realise that he is already fairly good against acid anyway thanks to his dragonscale armour.
 
 The three druids together are all needed to transport everyone through the tree and into the city.
 
