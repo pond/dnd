@@ -16,7 +16,7 @@ Initiative!
 * Zorhanna 23
 * Francesc 21
 * (Unbeknownst to the players at table) Arturo 19
-* Minos 18
+* Mynos 18
 * Penny 11
 
 Thorin acts first. His perception is good; he thinks Karnak is at ease with the environment around him. The trees probably fuel it. He must be so in control of the environment that he can probably manipulate it to suit him. And it looks like he's resistant to a lot of things! (He's calling out as he notices things, and Francesc wonders if burning the trees might cause him to have to 'work harder' at getting magic; but that would mean killing plant life from further away).
