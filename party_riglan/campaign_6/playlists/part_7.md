@@ -61,13 +61,8 @@
 
 * (Honour Among Thieves) Fallen Foe: Mid Credits - Whatever Happened To...?
 * (Goldenhorse) Maybe Tomorrow: World (There's A Story I Know)
-* (Genshin Winds & Idylls) Startled: Post Credits - Open Sesame
+* (Genshin Winds & Idylls) Startled: Post Credits - Open Sesame!
 
 ### Post Titles
-
-> * Riglan: Born DR 1381 (100 year birthday, 1491) - DR 1882 (501)
-> * Maireagh: Born ~DR 1330 (approx 150 y/o, 1491) - DR 1720 (390)
-> * Temo: ...avg 150
-> * Nethza: ...avg 90-150
 
 > *(The Elder Barge. It looks much older, but well maintained. Inside a mantlepiece above a fire; a feather duster runs over the 3D photo we saw before. Then we see the bar; an old halfling is wiping it down. He turns to a book of numbers and scratches his head, looking confused. A female voice calls, "Carp? Oh, don't worry, I'll get that - you know you've no head for numbers!". He chuckles - "Thanks dear! I'll make us some tea before bed" - and walks out of view)*

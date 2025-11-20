@@ -39,7 +39,7 @@
 
 ### Chapter 3: Taking the fight to the enemy
 
-* (Assassin's Creed 3) Main Theme Variation: "Mr Tablabu - Execute Your Escape Course, Please"
+* (Assassin's Creed 3) Main Theme Variation: "Mr Tablabu - Execute Your Escape Manoeuvre, Please"
 * (Marnie) A Final Wish: Parents And Guppies
 * (Genshin) Faint Afterglow: Food On The Drift
 * (Death Stranding) Once, There Was An Explosion: Abandoned Teddy

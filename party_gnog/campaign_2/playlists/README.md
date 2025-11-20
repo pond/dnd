@@ -32,8 +32,8 @@ War is imminent. We set sail for Baldur's Gate and the onward march to the Well 
 
 All forces are gathered and calculated. The plan is drawn; the war commences.
 
-In the end, we find that it is difficult to finish a campaign when so emotionally invested. There are arrivals and departures, considerations of future and past. The imaginary camera pulls away for one last view of the beauty of Faerûn.
+In the end, we find that it is difficult to finish a campaign when so emotionally invested. There are arrivals and departures, considerations of future and past. The imaginary camera pulls away for one last view of the beauty of Faerûn...
 
-...the two seers on Skyreach are looking in their cauldron and see something surprising.
+...the two seers on Skyreach are looking in their cauldron and see something surprising...
 
 ...the camera returns to Duskhollow and the cottage. It is night time. The door is open, warm light spilling out, the murmur of conversation and laughter. Gnog and Cedric are facing us. Cedric waves. They turn, Cedric raising his branch hand to hold Gnog's and hand in hand, they walk inside. The door closes.

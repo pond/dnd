@@ -45,7 +45,7 @@
 * (Genshin) Knights Of Favonius: Of Amonkhet Sphinxes And Honoured Dead (A Pause For Rest)
 * (Joe Hisaishi) Departures: Souls Ascendant - Rejoice; A Statue And A College; The Goblin Requiem - To Sleep, Safe At Last, Amongst Friends
 
-### Chapter 3, Part 2: The hardest task of all
+### Chapter 3: The hardest task of all
 
 * (Genshin) Enchanting Bedtime Stories: Krenko And Ma ("You Know, I Don't Think I've Ever Felt Braver")
 * (Thomas Bergersen) Made Of Water: Final Safehouse Gathering - Taz's Spark Ignites ("...And Love Is Eternal")

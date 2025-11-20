@@ -55,7 +55,7 @@
 * (Erhu's Ghibli Music) Always With Me: Finding The Prayer; Garren in Helm's Hall
 * (Genshin) Surge Of Prophecies: Festival Of The Moon
 * (Genshin) The Fading Stories (Qingce Night): How Do You Say Goodbye? (Garren In The Turret Room)
-* (Genshin) Adeptus Solace: Gnog's Birthday Council - Neverember's Speech
+* (Genshin) Adeptus' Solace: Gnog's Birthday Council - Neverember's Speech
 * (Earthsea) A Journey: "Hey Everyone! We've Got Cake!"
 
 ### Epilogue

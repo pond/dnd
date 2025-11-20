@@ -55,10 +55,9 @@
 
 ### Epilogue
 
-* (Foundation S2) The Foundation: A Safe Place / Plans Made / The Group Disbands / Portal Out
+* (Genshin Radiance) Where The Dragon Casts Its Will: A Safe Place / Plans Made / The Group Disbands / Portal Out
 
 ### Closing Titles
 
 * (Travis) Alive: (Group) Alive And Kicking
 * (Pattern-Seeking Animals) Why Don't We Run: (World) Adventurers
-  **OR ANOTHER DAY OF SUN? AUDIENCE MAYBE DOESN'T KNOW THAT YET**

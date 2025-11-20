@@ -10,7 +10,7 @@
 
 ### Chapter 1: Earth
 
-* Conan Love Theme: Meeting The Delegation
+* (The Blue Lagoon) I See You Now: Meeting The Delegation
 * (God Of War) Magni And Modi: Ankheg Attack
 * (Dune) Trip To Arrakis: Summit Hall Dream
 * (京城81號) 序曲: The Delegation's Fate

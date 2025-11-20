@@ -1,7 +1,7 @@
 # Eye Of The Sun
 
 * https://music.apple.com/nz/playlist/d-r-t-m-n-6-4/pl.u-YR0RgtPDdmyK
-*https://open.spotify.com/playlist/6m1LETEhIIXYsxSjClnUnO
+* https://open.spotify.com/playlist/6m1LETEhIIXYsxSjClnUnO
 
 ## Campaign Six Part Four
 ### Prologue
@@ -44,8 +44,8 @@
 * (Genshin) Fontaine: The Palace
 * (Genshin Shimmering Voyage Vol 3) Unrequited Yearning: "This Is The Crisis of My Rule, Isn't It?"
 * (Earthsea) Losing The Way - The Hunted: The Road To Cormanthor - Sir Isteval's Tales Of War
-* (Battlestar Galactica Season 3) Admiral And Commander: Assistance At Arabel (Isteval's Theme)
-* (Genshin) Expectation For Exploration: A Potentially Dangerous Portal (Parting Ways)
+* (Battlestar Galactica Season 3) Admiral And Commander: Assistance At Arabel (Knights Of Samilar Theme)
+* (Genshin) Expectation For Exploration: Parting Ways For A Potentially Dangerous Portal
 
 ### Epilogue
 

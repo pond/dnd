@@ -31,7 +31,7 @@
 * (Foundation) The Only Story: Precognitive Assistance
 * (My Hunters) Introduction Are In Order (sic.): Meeting Lord Penderworth, Counterfitter Extraordinare
 * (ARK Genesis: Part One) The Ocean Bog (Light): Infiltrate Precinct One
-* (The Danish Girl) Watching Ulla: Taysa's Impossible Choice
+* (Loki S2 Vol 1) Those Were Lives: Taysa's Impossible Choice
 * (God Of War) Lullaby Of The Giants: Ask The Spirits (Two Days)
 
 ### Chapter 3: Several impossible things after dinner

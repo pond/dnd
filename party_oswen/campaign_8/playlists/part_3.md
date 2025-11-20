@@ -11,10 +11,10 @@
 ### Chapter One: Grasp The Nettle
 
 * (Howl's Moving Castle) Family: A Gleam Of Hope
-* (Genshin Stellar 2) Tactician's Grit: A Most Unusual Case Of The Waterdavian Mummers, The Elven Prince And The Ghoul
+* (Genshin Stellar 2) Tactician's Grit: The Curious Case Of The Waterdavian Mummers, The Elven Prince And The Ghoul
 * (Wolf's Rain) Renga: Rock The Hair
 * (Seven Deadly Sins) Something's Coming: A Most Unusual Invitation
-* (Planet Earth III) Treehopper: Golliver's Troubles (Introducing The Brigganocks)
+* (Planet Earth III) Treehopper: Molliver's Troubles (Introducing The Brigganocks)
 * (Genshin Jadelite) Guhua's Legacy: Striking An Accord
 * (Genshin) Inevitable Conflict: Tunnel Vision (The Flame Sculls / Oswen Falls)
 * (Mr & Mrs Smith) Post-Travel Blues: Meeting An Old Brigganock (A Short Rest)

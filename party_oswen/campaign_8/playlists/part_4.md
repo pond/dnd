@@ -13,7 +13,7 @@
 * (Shiro Sagisu) Tema Principale: Orchestra Dedicata Ai Maestri: The Palace / An Eternal Feast (A Gift From An Old Friend)
 * (Blue Planet II) Ducks And Currents: The Crown
 * (Macross Frontier) Alto's Theme: Envy Or Wrath
-* (Genshin Pelagic) The Rotating Realm (**TOO BIG?**): And The Beanstalk
+* (Genshin Pelagic) The Rotating Realm: And The Beanstalk
 * (Genshin Shimmering Vol 4) Lightless Dissonance: Giant Spot Of Bother In The Dining Hall
 * (Kids Return) Alone: High Tea On The Balcony (Unicorns I Love Them)
 * (Prey) Moon Wanderer: To Convince An Owl
@@ -24,7 +24,7 @@
 * (Doctor Who S5) Little Amy: We Can't Free Zybilna Yet (I Don't Trust Her)
 * (Lineage 2) Deep Shadows: Turret Conundrum
 * (Mr & Mrs Smith) Snowplow: Gotta Hurry / Four Heads / A Rope Trick
-* (Battlestar Galactica S4) Lara Runs: Up And Up Again
+* (Battlestar Galactica S4) Laura Runs: Up And Up Again
 * (The Boy And The Heron) Reincarnation: Oswen's Dilemma / Sound Advice / Fly Back Down
 * (Thomas Bergersen - Humanity Chapter IV) So Small: Free At Last - A Great Restoration
 * (Kevin Graham Boreal) Boreal: News Of Madrick; Hold Your Breath, Make A Wish, Count To Three...
@@ -45,4 +45,4 @@
 ### Closing Titles
 
 * (Pilot) Magic: Oswen
-* (Carpenters) We've Only Just Begun: World
+* (Willy Wonka / Gene Wilder) Pure Imagination: A Palace Of Heart's Desire
