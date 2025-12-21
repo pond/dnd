@@ -8,7 +8,7 @@
 
 * (World Of Warcraft) Stormwind: Dreaming Of Reality - Resolved To Act (day 105->106; described in the last few paragraphs of notes in part #20)
 
-### Chapter 1: Too Hot By Half
+### Chapter 1: Too Hot By Half 
 
 * (Act II) Kingdom Of Shadows: Forges Fired By Lava - An Alliance With Azers And Salamanders
 * (Regret Nothing) Battle In The No Man's Land: Ignatia And The Chimera / A Spectre Of Lizzy

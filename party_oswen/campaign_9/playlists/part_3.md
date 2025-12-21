@@ -1,6 +1,6 @@
 # Of Many Domains
 
-* https://music.apple.com/nz/playlist/d-o-i-k-b-9-2/pl.u-B7p0jH1R8djo
+* https://music.apple.com/nz/playlist/d-o-i-k-b-9-3/pl.u-ljB5AujP1KR6
 * https://open.spotify.com/playlist/7kQ1KGuPxyytocT7B7eU2j
 
 ## Campaign Nine Part 3

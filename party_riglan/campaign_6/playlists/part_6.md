@@ -24,7 +24,7 @@
 * (ST:TMP Micro Exam): Caprice
 * (Planet Earth III) Arctic Wolves: Making It A Rainy Day
 * (Ni No Kuni The Movie) No Turning Back: Cormyrean Might
-* (Halo 4) Requiem: Hillsfar Threatened - Another Abandoned Town
+* (Halo 4) Requiem: Hillsfar Threatened - Another Abandoned Town 
 * (Halo 4, Vol 2) Majestic: Banishing Death (One Point Away From Disaster)
 * (Loki S01E1-3) Roxxcart, 2050: Azalin's Anger
 * (Andor S01E1-4) Mirror: Cormanthor Rides At Dawn

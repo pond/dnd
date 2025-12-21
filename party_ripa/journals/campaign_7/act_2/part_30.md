@@ -113,12 +113,11 @@ Urth comes to check. He *can* read some of it. INV 24:
 * The precise mixtures of light need to cancel each other out in the middle and must shine light into a crystal in the middle of each tower to get the correct colour of light; that has not yet happened
 * The 'stasis' effect is needed to infuse a bowl full of pure Weave so that it can then be used to power the ritual to "**find the path**"
 * **The rod possesses the ability to create a path, show the shortest way between two things; the top of this tower, the Three Moons Vault, is to become a beacon that **allows the Master to find the shortest, most direct way to get from his sanctum to this world**
-* What's more, this bowl becomes a device, which (carefully!) can be moved and create a conduit between two places *anywhere*.
+* What's more, this bowl becomes a device, which (carefully!) can be moved and create a conduit between two places *anywhere*. But the rod must come along too.
 
 Urth tells Thorin who makes the reasonable link: "The master" is Vecna; he wants to move quickly between worlds, speed up his invasion or be able to move around his 'realm' more easily; **he also then definitely has an interest in the Rod and we now know he is interfering here**.
 
-Meanwhile, Penny is over at the edge of the white tower with Francesc. She asks to get the mirror, so
-it's fetched out of the bag of holding and she looks at the scene in front of her - in the reflection. She sees impassable walls protecting the other towers - forcefields, but represented more differently. She can see the mirrors configured on the other walls, not yet activated to shine into the middle. Their configuration is similar to that on the white tower. It looks like that part has been finished.
+Meanwhile, Penny is over at the edge of the white tower with Francesc. She asks to get the mirror, so it's fetched out of the bag of holding and she looks at the scene in front of her - in the reflection. She sees impassable walls protecting the other towers - forcefields, but represented more differently. She can see the mirrors configured on the other walls, not yet activated to shine into the middle. Their configuration is similar to that on the white tower. It looks like that part has been finished.
 
 And then she sees them! Two wraiths, either side of the altar-like construct. One's virtually on top of Urth. She shouts out, "Ah, _shit_ - two wraiths! Watch out, Urth, Thorin!" - and starts running at full tilt towards the middle. Francesc has seen it too. But as Penny starts to run, she can't see them; she says, "They're only visible in the mirror!" - she heads towards Urth, who has the wraith right above him. Full dash gets her alongside, lighting the sunsword along the way.
 

@@ -244,6 +244,8 @@ We speak to Gallin again. We had a strange vibe from him the previous day. He wa
 
 It's a risky strategy on many fronts but it's the a real chance of getting the jump on the dragon, even given the dangers of a fight within its own lair, and doing so from a place it's less willing to abandon (since we've noticed a certain tendency of dragons to try and flee if they realise that they're actually at risk of death from attack - maybe Chuth will leave it far too late, if unwilling to abandon the lair).
 
+
+
 ## LEVEL 10 (helped by a big XP bump from solving much of the Misty Forest puzzle, plus the big fight)
 
 ### Day 4 - Hunting Chuth
@@ -495,3 +497,188 @@ Etiquette!
 
 We have been given extra writs to show we are who we say and to try and assert some kind of diplomatic protection, but nobody is pretending this is at all safe.
 
+### Day 17
+
+We meet Nyhilicch at the designated farmhouse; she has drawn a makeshift teleportation circle which is used to transported us in a dizzying whirl to a strange, stark location, in a large but windowless room which we're told is in **Nethwatch Keep**. Just like that, we're in Thay.
+
+
+
+## Thay
+
+A carriage arrives in short order and we begin the 6 hour journey to **Eltabbar City**.
+
+Out of the window, we pass villages and towns that are often quite beautiful, despite the arid nature of the land. It's a little disarming - at first glance, this could be anywhere in the warmer regions. But look closer, and halting movements, a grey pallor to the skin, or humanoid eyes reflecting light from within a deep shadow give away the true nature of many inhabitants here. The carriage driver is on a bench seat up-front, separated from us with no window or sliding flap; we cannot ask about what we see; all we can do is observe and make our best guesses.
+
+On arrival, we are taken swiftly to a hall. We are met by Tharchion (a title) **Eseldra Yeth** (a vampire); she wastes no time in describing their situation. She seems uninterested in us at this point - we surmise that it'll be all about what we can do to help *them* and if it helps us too, that's just goo luck. Fair enough really - this is their land, after all. But it *is* their fight - for this nation is fracturing! "**His Worshipful Emperor Szass Tam**" is concerned about **The Thayan Insurrection** as he calls it, or the Thayan _Resurrection_ as they do; a splinter group, tired of trying to fit into the nations of this continet and wishing to go back to old ways of conquest. But it is tumultuous. Those who call themselves part of that group are operating independently of any other so-called "independent" or insurrection individuals or smaller organisations - it seems that kind of thing comes with the territory here! - of Thayans or (specifically) Red Wizard groups scattered along the coast. What sets *this* group apart is their numbers and arising strength, along with their tie-in to the Tiamat cultists. They've become large and dangerous, potentially threatening Sas Tam himself.
+
+* The Tharchion states that if Tiamat rose, the balance - uneasy as it is - between the various *living* civilisations (as in, not populated by undead!) in Feyrun would collapse. They don't seem concerned about direct attack on their own civilisation, though.
+
+* Their concern is economic! Thay has an economic superiority, they believe, with trade (both legal and less so) with other nations giving them both wealth and a hold over those with whom they supply things that cannot be found or made elsewhere, whether that be due to cultural or magical constraints.
+
+* A collapse in such trade would destroy Thay in time.
+
+As for the insurrectionists - Tharchion Yeth says that Sas Tam thinks their plan is madness. The cultist Red Wizards believe they have a bargain - by conducting the ritual to bring through Tiamat, they can convince her to **remove Szass Tam 'surgically'** without too much collateral damage and thus those Red Wizards will be free to rule as they wish. **But Tiamat is not one with whom bargains can be stuck** - it's "utter foolishness", says Yeth. She'd just as likely kill the wizards and take Thay for herself, or destroy Thay utterly.
+
+Negotiations start. They go to and fro. We're not sure if we're getting anywhere, but we don't think we're losing either. In the end, with no decision made, it is time for Tharchion Yeth to retire. We are offered food and have a strange dining experience in a beautiful open-sided dining area, with a gentle breeze and courtyard beyond with palms and a fountain - while chatting to a small group of vampires about life and undeath. It's strange, at times disturbing, but also a truly fascinating insight into the way this land works. We are reminded, once again, that while there are forms of good and evil that seem  quite clearly of those natures, there is also a lot of grey ground in between.
+
+### Overnight
+
+It is a *terrible* night for everyone. We have dreams in which we are tortured and questioned. Each of us has a different experience, all of them horrifying. And when we awaken, we each find ourselves drained - weakened, even with minor remnants of some injury we do not recall; we leave our respective rooms, all off the same corridor, and "compare notes" on the spot. We find our memories hazy, but have no doubt - **it was no dream**. We were each taken in our sleep and then subjected to this *process* - and we are, obviously, disturbed and angry.
+
+### Day 18
+
+When someone comes to take us to the Tharchion, we march along in a sour mood and, frankly, *almost* up for a fight. We have to keep talking to each other to keep away from that ledge - there is a job to do here, whatever our personal feelings might be.
+
+We walk back into the hall where Tharchion Yeth awaits, and Gnog breathes in, anger in his eyes, about to speak perhaps unwisely angry words - but Yeth simply holds up her hand, palm up, in a "wait" gesture. She keeps it short. Yes, we were questioned. Yes, that is their way. That's the only way they trust to get the truth about people. And - not that we can really remember what we said - apparently, we said the right things.
+
+* They will help. And not just help a bit... They'll help to the tune of **ONE HUNDRED THOUSAND** of their undead army!
+
+* What's more, they will broker a deal with **Asmodius himself** (we don't ask how, we don't really want to know!) to help counter the cult's enlisted litany of lower-plane creatures.
+
+Gnog's head is spinning. It's surely too good to be true...
+
+Yeth says, "But of course, there is a price."
+
+...Yeah. It's too good to be true.
+
+We must not just support, but *recommend* to the Waterdavian council that a Thayan embassy be opened in the city.
+
+It's strange. This place is what we would consider - on the whole - an evil land. Lawful, perhaps, under Szass Tam at least, but evil. A lot of bad things happen to people here. There's very little concept of free will. Despite all that, having learned a bit more about the place, seen it, that dinner the previous night - we might have made such a recommendation quite lightly.
+
+But that was before our night of "questioning".
+
+Now, it's not an easy call. We debate for quite some time. The Tharchion waits patiently, certainly in earshot; we feel at this point they surely know all about us (certainly more than we know about *them*) and there's no point hiding anything. Perhaps her patience was born out of her confidence; deep down, we know what she probably knew; **we don't have any choice**.
+
+We agree.
+
+As guests, we are given gifts! An ornamental silver dagger and a scroll, which we realise we can use (wizard or not!) to activate a potential spell against Undead. That's bordering on thoughtful, for a nation *of* undead.
+
+They won't let us portal from here. It seems they are *very* wary of teleportation circle placement, or at least very wary of what they will let us see. Instead, we're back in the carriage and it's another 6 hour journey to the Keep. From the circle there, we are teleported back to the farmhouse.
+
+
+
+## Waterdeep
+
+It's getting late. We aren't sure if we made the right call, but can't see what other call we might have made. And we're *very* tired (technically, exhausted after the overnight Thay ordeal). At some point, we'll have to make our embassy recommendation - perhaps it would be prudent to wait until the next big meeting, so that our news is delivered *in context* to the widest possible group. We make our way back to The Golaith Drinks on foot, slowly, head upstairs and crash out into bed before the sun has even set.
+
+### Day 19
+
+We don't have any spare time between our trips - it's time to go and seek the Blue Mask at Xonthal's Tower, as a portal has been arranged to get us to a lodge that's a couple of day's ride away. It's as close as they can get.
+
+It's one of those tricky "portal with horses" moments. Never quite know what you're going to get - but this one goes smoothly. It helps that Gnog can warn them and they're not all strangers to the process. We rush through and there's a stumble, but that's the worst of it. We're off to a later start than we might've liked, mind you.
+
+But - oh, my. Gnog breathes in deeply and his eyes widen - we are a long way north. Some fair way east of Duskhollow and up against the mountains. It's been a long time since he was out somewhere like this. Bright sun, clear skies, clean air, white snow caps, towering ranges, cascading waterfalls and bubbling streams, deep green woods, grassy meadows.
+
+We ride swiftly. There's an overnight stop-off at a roadhouse...
+
+### Day 20
+
+...and we continue at pace, reaching the town in the evening. At a T-junction, the road swoops downwards into a small valley tucked against the great mountains of the Spine. To the right, we can see the same-named tower itself, surrounded by what looks to the eye like a large ornamental maze, but we know it's far more magical and challenging in reality; to the left, the small hamlet, with what looks like one main road that winds its way up a foothill slope into which the town is built.
+
+
+
+## Xonthal's Tower
+
+The golden hour. There is a beautiful crisp chill to the air. Woodsmoke rises from a few chimneys as the evening begins to set in. It's spectacular. We feel homesick.
+
+There's a small stables area for the horses, then we head for what looks like the main (only!) inn, with the glorious name of **The Brawling Ferret**. We book two rooms and settle in with some drinks and good food.
+
+We start off chatting to barkeep **Ferris**. In due course we end up chatting to a curious fellow called **Yarrow Elmers**. He's a strange chap - affable, likeable, and fancies himself as a bit of an adventurer. In part this seems bolstered by the townsfolk, since he apparently bravely fought and killed some giant rats that were menacing the town once! His dress sense is exaggerated, almost a parody of an adventurer in some ways; even his leather gloves extend down well beyond the wrists, flaring out in dramatic cones that reach half way up the forearm. His hat is large, a literal feather in the cap, a wide cape... If his adventuring led him onto the path of becoming a bard, he'd certainly look the part.
+
+We later learn that Yarrow's victory wasn't quite what it's made out to be. A couple of drinks in, he confesses to feeling perhaps something of a fraud - much of what he did was pure luck. This makes us all smile. The greater part of anything *we* have done is down to pure luck too! That's the way of the world. We grow to like this man quite a bit, and as a new friendship grows, we get enough trust and confidence to talk about our idea of getting into Xonthal's Tower.
+
+He says he knows a path *just about* big enough for horses that can get us close and without being too exposed or visible. It exits a tree line not far from what he considers to be the maze's main entrance - but of course there are lots of stories about the maze changing, people going in and not returning and so on and so forth! Well, that's better than riding up there with no plan at all, so we thank him and resolve to go first thing in the morning.
+
+The food is finished. We're into round 3 (or is it 4? Or 5?!) of drinks. People are welcoming. The fire is warm. The company is good. A bard starts a performance on a small raised area in a corner, and a few people start to dance.
+
+With everything that's happened, all the stress, the horrors... Deni is shy, but Garren helps convince her by shrugging off his heavy plate (imagine that, our paladin without armour!) and we overcome our reservations.
+
+In this wonderful little town that reminds us of home, in a tavern of welcoming strangers, **us four dance**. After the first, Deni goes back to sit down. She watches the rest of us, grinning ear-to-ear.
+
+**We've never felt closer.**
+
+We head outside to cool down. Our breath makes big clouds in the night sky. Stars shine bright, cut off sharply to one side by the jagged, silhouetted profile of the Spine. The moon is up. It glints off snow. Reflections off glossy parts of trees, moving in a faint breeze, look like glitter.
+
+Bidding those who are still there goodnight, we head up the creaky wooden stairs to our rooms and have one of the best nights of sleep that we've had in a long, long time.
+
+### Day 21
+
+We meet Yarrow early, collect the horses and the for of us follow him along the path. It winds up further into woods on the lower slopes then tracks along the length, towards the tower, before heading back down through a few steep switchbacks. Soon after that we stop, tie up the horses and Yarrow takes us to the edge of the woods. It's close to a big opening in a tall hedge; only a couple of hundred feet maybe; easy enough to dash across without too much fear of being spotted. We don't know if stealth is necessary but it seems better to be cautious!
+
+Yarrow will head back to town, rather than stay here, risking discovery. Thanking him, we scuttle across and into the maze (and gameplay overtakes note taking here, so this is sketchy).
+
+* Once inside, the tower seems surprisingly close - there's a feeling of discontinuity. We look back; no gap in the hedge.
+* We've barely started to explore when in the not-so-distance of the tower, we see a figure rush out onto a balcony on a floor about mid-way up the tower. They hold something aloft - keen perception roll - the mask! A voice calls out, "I have been found out! Hurry!" - we've only got a description of Iskander and we're a fair distance off, but this character certainly looks the part.
+* Then there is a scuffle - someone else runs out; a fight; one of the two is pushed over the edge; we can't tell who was victorious at this distance, but whoever is left runs back inside with the mask.
+
+**We must move quickly!**
+
+There's a crossroads of sorts. A sundial in the middle. Markings seem to be a hint about how it should be used... The sundial is a clue. For one, we follow a shadow; this leads to another, but different sundial. At one point we go wrong, and find ourselves back at a previously visited dial, but we don't know if reaching a *new* dial indicates success - there are probably a lot of them! In any case, we press on; for another dial, the trick turns out to be to walk into the hedge *between* two of the exits; next, there seems a very obvious path to the tower but we're paranoid enough to think, "too easy" and do the exact opposite; one of them has a kind of "X" indication, which doesn't seem to provide a direction at all. After getting stuck a while, Gnog climbs up to see if he can see better over the hedges - and falls "through" the dial! The "X" is in fact arrows all pointing to the centre. The rest dive in and we end up in an inelegant heap next to another one.
+
+At the last sundial, one of the four hedged paths is much shorter and ends at a wide road that encircles the tower. It could be another trick, but we risk it and walk that way - and yes, it's that simple; we managed to decode the dials and navigate to the tower. As we exit, we see the grisly sight nearby of a broken body at the tower base - the individual who fell. They wear more of a fighter's clothing than that of a wizard or sorcerer, so we hope that we're still not too late and our contact with the blue mask is still alive and keeping ahead of his pursuers.
+
+It doesn't take much to find what looks like a teleport circle, covered a little in dust but apparently only as a result of wind rather than a deliberate attempt to hide it. Presumably, anyone who manages to get this far is not expected to be a stranger... When Fee-Ree walks into the circle she immediately disappears, so we figure this isn't something where a teleport spell or similar is needed and indeed, one by one, we enter the circle and then find ourselves together in a dimly-lit room that gives the impression of being at the ground level, and used as something of a store room by the looks of things. There's a matching circle; we are standing in it and, at first, exit and avoid re-entering on assumption of being teleported back out of the tower again. But there are no doors or stairs.
+
+We spot some strange rune-like symbols next to the circle. A sort of "h"/chair, a flame, star, rectangle, circle, hourglass, triangle. We've no idea what those mean. Deni points out that the low triangle looks very like the exact proportion of the sundial fins; perhaps the symbols match destinations; there's plenty of magic around the symbols; so - we try pressing things! Standing in the circle, we try the hourglass. Nothing!
+
+It feels a bit silly - are we being foolish? - well, one more. The chair. And in a blink, we're standing in another room! It feels like a kind of drawing room, or maybe a common room. Shelves with books, some armchairs, a fireplace but no fire. Nobody's about; it's overall strangely quiet, but the tower seems solid and noise might not travel easily within it.
+
+After trying again but once more failing to find much meaning in the runes (I mean, chair, yes, drawing room - so what's "square"?!) - we elect to just try them from left to right. Despite the urgency of the situation, we have no faster plan. Once we reach the rectangle, though, we find ourselves in what seems to be a kind of Tiamat shrine and there are cultist-robed people present who react... Violently... to our presence. A battle ensues, but it's not really any kind of challenge; these people seem ill prepared for our advance. What's going on?!
+
+The "fire" symbol sounds bad so we skip it for now! In another room, we seem to be inside a confined space of panelled wood, built as a circular wall around the circle on this level, with two doors set on opposite sides. Beyond, we can hear *lots* of voices - sounds of panic. Listening in, we learn that people are trying to flee. They don't sound like they know much about what's happening, just that things have gone wrong and it's time to go; we hear a worrying reference to "the dragon will attack"... We don't leave the wooden area. No need to fight people who haven't found us yet. We try "Star".
+
+This takes us to the very top of the tower, which turns out to have a great glass dome that we'd not noticed previously; perhaps it's inset within the outer wall a little and hard to spot from the ground or the road in. In any case, it's here, with a giant metal telescope at about a 45 degree angle and a semicircle walkway running across the inside of part of the glass dome, with stairs to either side. But we have no time to take in the sights, as a wizard emerges from behind the telescope and surprises us with an immediate attack. It's not the person we're looking for; we're under attack; we mount a solid defence. This one individual is a fair bit more skilled than the cultists in the other level, though. Precious time and resources are spent in the fight.
+
+You know how sometimes The Bad Guys say stuff in the heat of the moment that are an attempt to intimidate, but can give things away? Well, we learn that we should get to the dungeon - we didn't even know there *was* one. Flame. That does it... We are in a large, dark, circular area with sconces that contain lit torches (probably magically maintained, but now's not the time to investigate such trivial!) - and **a trail of fresh blood** leads to an archway exit and corridor beyond.
+
+* Things get *really* strange here. There are various rooms and we have to investigate a few at points where the trail of blood is lost, but we don't waste too much time and generally keep a close pursuit.
+
+* At one point, we enter a bizarre hallway where up above there seem to be stars and gas clouds! The walkway is narrow - and then a meteor whizzes past us, almost knocking us off. We retreat, rope up and try again. This time Gnog gets clipped and a little hurt, but the rope saves him from falling. We make it over.
+
+* We reach a room which with two giant hourglasses. The blood trail is clear here - it leads inside. We start to enter, but it's super weird - those outside see a strange slowdown, speedup effect from the first to enter and we retreat for a moment - but the time inside was enough. **Iskander is here.**
+
+After a bit of trial and error we learn that straying close to one end of the room with one of the hourglasses causes those outside to see slowing of movement, as if time has slowed down - and vice versa at the other end, where time speeds up. That's where presumed-Iskander lies on his side, head hidden by the cowl of his robe, clearly wounded and far too close for comfort to the "fast time" giant hourglass.
+
+Garren is Garren - ever brave, ever caring. He tells us to stay back and marches in. It's very strange to watch his movements changing in speed as he tries to navigate a safe path to get close enough to help  Iskander - but only a few seconds of our time after he enters the room, his eyes widen.
+
+**"But... He's been dead for *years!*"** gasps Garren in shock, reaching out as if to perhaps get the mask, but then pulling his hand back quickly - "That hurts!"
+
+The blood trail is fresh; the body - not.
+
+In the end, Garren gets his sword and uses it to fish the blue mask out from the now-long-dead grasp of Iskander's fallen form. He has to get a fair bit closer to do it. From our perspective, it means he completes the whole thing in a surprising flash of rapid motion. He emerges, his face grim.
+
+"We have it, but he's far beyond any help I can give" he says.
+
+We stand for a moment, understanding the tragedy; he would have been so close to rescue! Our guess is that he picked this room knowing he was seriously injured, but hoping to extend his time by choosing the *other hourglass*. Sadly, perhaps because in his injured state he was confused, or simply because his strength failed and he fell, he ended up on the other side and died here, lost and alone, hoping for rescue that never came.
+
+On our way out, we spot an open door and a voice calls out to us... Herein we meet **Taraz The Fair**, an Efreeti. He is kept here; he wants to be sent home! Fee-Ree can do that - Banishment, if unresisted, would do the trick. In return, he hands us a ring (in essence, a boon) which **we can use to call upon him, once, if we should need to do so.**
+
+Fee-Ree thinks the danger in the tower is surely over. We haven't met other people down here, others were fleeing, we took out the wizard in the observatory and the cultists and, really, none of that was too great a challenge. She wants to check out the small library we saw in that "chair" room. Investigation there doesn't reveal anything much to help with insights into cult activities or plans, but *does* uncover quite a few rare and valuable books - some of which could be dangerous in the wrong hands. We decided that ours are the *right* hands and stow things in the Bag of Holding!
+
+The "triangle"/"sundial fin" exit works; we're back at the circular road around the tower. **And at that moment, we spot something approaching - *fast* - A DRAGON** - it is swooping in from high, heading towards the tower. Fearing potential attack from both sides (and hoping that maybe the people we overheard about the dragon attacking the tower might be right, so perhaps it'll ignore us!) we run for it. We're not sure what will happen with the sundials and just run straight past the first one and into that next pathway - at which point we suddenly find ourselves looking at our first sundial (or one that has the same markings, anyway), as if we've been "rushed forward" a great distance. That figures - the maze, when we got things wrong, had a tendency to throw us away from the tower.
+
+Whether or not this is our original sundial, the entrance we'd used to find it had closed behind us. Here, though, it stands open - we can see the world beyond. *That* is a relief. Above, the dragon has closed fast, but doesn't come down low and starts to veer off to one side. We run across to the trees, intending to hide there, but just before we reach the treeline, the dragon swoops low, *fast*, above us... It either doesn't see us, or doesn't care, but Gnog knows that dragon. He'll never forget it.
+
+**Lennithon**. The blue dragon that started it all.
+
+We watch him departing; then it starts to head up, circling... he's not circling the tower... He's circling the *village*. Lennithon intends to attack the village!
+
+We dash frantically to the horses and ride as hard as we can towards town. There's no way we can outpace the dragon but we see him circling, sometimes diving down, but no sign of breath weapon - our grim supposition is that he's enjoying frightening and taunting the poor souls there before bringing destruction. He has no idea we are approaching and this delay is, though doubtless terrifying for the village, possibly their salvation.
+
+It's not a great distance to cover but every second of it feels like we're wading through treacle, a waking nightmare of drawn out moments; the we have to drive the horses as hard as we can, Gnog apologising over and over, and they do us proud; they are close to collapse as we tear into town, jumping down off them as they run and Gnog calling to them to flee to the treeline. We turn back to look down the main street past the largely decorative arched wooden gate that frame the entrance and above it, heading straight at us, is the dragon - evidently he's seen us arrive and is now taking no time, diving down at terrifying speed.
+
+But *this* time, we are ready for him.
+
+This is both vengeance and protection. Deni gets some good hits during the dragon's first low swoop and blast of electrical fire, shattering completely a nearby building and tearing through part of another with us only just managing to dodge out of the way, but Lennithon swoops up sharply - realising that he has a range advantage - and barrel rolls in the air, but cannot bring the breath weapon to bear just yet; more good hits from Deni and Fee Ree, and now Gnog is taunting, remind the dragon who we are. Ego gets the better and now Lennithon returns, lower, claws and teeth at the ready. Our strange new friend Yarrow Elmers, hopelessly outclassed in this battle, stands proud next to Garren, to defend his village at any cost; we don't for a second question his courage or his right to be there.
+
+Yarrow can't jump enough to get a hit on the dragon, but the dragon sees him and - angered by the previous taunts - laughs and derides the attempt but, in this act, is distracted enough that Gnog *can* jump far enough to get a hit with the axe. But it's Garren, taking that cue, with the masterstroke. He jumps *and misty-steps* and, showing remarkable agility for anyone, never mind someone in full plate, lands *atop the dragon's body*, driving his sword like a spear directly down into the beast and summoning all his will and power to channel a tremendous burst of divine energy through it (Nat 20; 85 points of damage).
+
+In a twisting, uncontrolled mess of limbs and wings, Lennithon crashes to the ground, scraping a gouge in the cobbled street and crashing through a corner of a small shop. Hanging onto his sword, Garren has held his ground and now stands, looking almost as surprised as we are, on the now-lifeless body; "?!", he says!
+
+There are fires to put out, and wounded to heal. There have been deaths, but the village atmosphere is a strange combination of mourning and celebration - for they no longer need live in fear of the tower or the dragon. And Yarrow, of course, is now a true hero - he certainly proved his bravery and valour, even if he perhaps ought to practice his fighting skills on... More attainable targets in future.
+
+Eventually, villagers are accounted for. A ceremony is held for the passed. Fires are out and some are already starting on rebuilding and tidying. Nobody is quite sure what to do with the dead dragon in the high street! We help a bit with showing them what things can be used and whart  parts are dangerous.
+
+It's time to leave. We say our goodbyes, a little hastily - but a bit more time spent to thank and congratulate Yarrow - before Fee Ree opens a portal and (sorry, horses...!) we step through to Waterdeep.
+
+(NEXT NOTE: Campaign Two: Part Three (Gnog: 2.3))

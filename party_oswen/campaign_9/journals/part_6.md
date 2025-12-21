@@ -6,7 +6,7 @@ We've just escaped an angry mob at Trade Gate and due to such a hasty departure,
 
 Inda needs the full story about the rod segment.
 
-Oswen says that it'll take a bit of time. We'll go to her quarters. Oswen asks if anyone else should come given what just happened at the town; so, she invites **Figaro**, **Kycerax** and the two bosuns (the Githyanki) - **Lysan** (male) and **Zastra** (female).
+Oswen says that it'll take a bit of time. We'll go to her quarters. Oswen asks if anyone else should come given what just happened at the town; so, she invites **Figaro**, **Kycera** and the two bosuns (the Githyanki) - **Lysan** (male) and **Zastra** (female).
 
 Oswen lays it all out. Vecna, closing the doors to Sigil, the rod, the segment we carry.
 

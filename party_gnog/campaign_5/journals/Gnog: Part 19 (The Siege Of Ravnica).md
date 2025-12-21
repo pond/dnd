@@ -706,7 +706,7 @@ Taz completes attunement and shouts, "...ah! Got it! We can fly."
 
 Gnog understands more of Ajani now. Tyr, the God; like Helm, but a bit more glorious and gung-ho! Gnog wonders about Garren. What was their relationship anyway? Why did Garren's ascension hit him so hard? Ravnica is a confusing place.
 
-Fee-Ree comes to the helm. She's sent her message. "Ready?" says Gnog; "Ready", she answers. She can attune to the helm when she needs to, so they can work shifts as usual. "No time like the present!" says Gnog. "Mr Tablabu - execute your escape course, please".
+Fee-Ree comes to the helm. She's sent her message. "Ready?" says Gnog; "Ready", she answers. She can attune to the helm when she needs to, so they can work shifts as usual. "No time like the present!" says Gnog. "Mr Tablabu - execute your escape manoeuvre, please".
 
 The wings whir up. He wobbles a bit as we exit the tunnel but gains confidence quickly. We pop out the hole in the cliff side. Looking back, Gnog sees the sun setting over a very different Ravnica and, close to District 10, fires and damage are easily visible; but quickly, as Taz follows his escape course skimming the Red Wastes, it doesn't look any different. Once comfortably far into the dark, Taz angles sharply up and climbs perpendicular to the surface. Up high, a lot of the planet can be seen; Bolas may well have us in sight now, but is surely too far to do anything. We know he can't fly beyond the planet and we're seconds away from the gravity envelope boundary. There are certainly fewer lights visible across the planet than he remembers seeing on the dark side previously; perhaps they really *did* all evacuate below, even if many outside District 10 are surely confused about the reasons.
 

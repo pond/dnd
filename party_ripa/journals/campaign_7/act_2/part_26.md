@@ -10,7 +10,7 @@ We are fighting the self-proclaimed king of Tyr. Initiative continued:
 * Zorhanna 23
 * Francesc 21
 * (Arturo Has Left The Chat)
-* Minos 18
+* Mynos 18
 * Penny 11
 
 Karnak has transformed into a skeletal dragon. His lair - this whole temple - currently prevents any healing. Mynos has used Reality Warp, temporarily paralysing himself and Karnak. Arturo's whirlwind suddenly seems to get out of control and a rift opens next to him...
@@ -175,7 +175,7 @@ Three other things:
 * Thorin D100 -> 23 -> arcana table chosen too -> D100 -> 17 ->  a beautifully decorated crystal Decanter Of Endless Water (well, Arturo *did* give ours away)
 * Penny D100 -> 9 -> historical relic table chosen -> D100 -> 45 -> a Periapt of Wound Closure
 
-Final addition D100 roll - 5. Statistically speaking, this whole set of D100 rolls has been... Unlikely. Anyway, utility/implement table chosen - D100 -> 53 -> a curious ornate dagger; but it's Karnak-scale, so it looks more like a scimitar. It seems to be magically charged; requires attunment, we'll need to find out more later (**Enspelled Scimitar**), bound to **Level 8**. For now, we think Francesc could make best use of it.
+Final addition D100 roll - 5. Statistically speaking, this whole set of D100 rolls has been... Unlikely. Anyway, utility/implement table chosen - D100 -> 53 -> a curious ornate dagger; but it's Karnak-scale, so it looks more like a scimitar. It seems to be magically charged; requires attunment, we'll need to find out more later (**Enspelled Scimitar**), bound to **Level 8**. We think that maybe Sunburst might be connected to it. For now, we think Francesc could make best use of it.
 
 
 

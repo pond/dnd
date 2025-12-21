@@ -194,15 +194,11 @@ He's give another package of food from the river people and sets off back downst
 
 The river people insist we stay for dinner. Will we stay here or at the city tonight? Well, we figure here - they've no riverine to look after them, after all! It ends up being a big community event. Lots of questions. We answer honestly, but remind them that this is sort of in confidence as the city folk may well react very badly to some of it until Nisha has had a chance to figure out how to break the news.
 
-We find ourselves relaxing for the first time in a few days. We head back to the same reed bed as before and set up a camp; have some food; Oswen switches her attunement back to the amulet from the helm...
-
-### 20400 XP => LEVEL 11 (16450 XP each bumped by DM to 20400 to effect a level bump once we leave)
-
-...and we sleep.
+We find ourselves relaxing for the first time in a few days. We head back to the same reed bed as before and set up a camp; have some food; Oswen switches her attunement back to the amulet from the helm... And we sleep.
 
 
 
-## Campaign Day 38
+## Campaign Day 38 - 20400 XP => LEVEL 11 (16450 XP each bumped by DM to 20400 to effect a level bump once we leave)
 ### At the displaced river folk encampment, plane of Shankarbhumi
 
 Oswen awakes, shaken by a realisation that she knows how to cast the same disintegration spell she saw in the Eye. She's also had dreams of gnomish invention, and that inspired use of materials and magic lent her towards some out-of-box thinking about teleportation magic, at which she thinks she finally understands things she once read about a spell which opens a portal between two significant distances through which any number of creatures might walk.
@@ -431,7 +427,7 @@ Kindle carefully checks over Alustriel's wounds. Medicine 22. "These are definit
 
 Oswen confronts Otto; "This box is important, but we don't know if the contents are dangerous - since we're not going anywhere until she's up, why don't we wait, so she can tell us what it is?" "But what if there's anyone *else* out there trying to get back?" We realise Vi can't, the two on Oerth have to stay and Zorhanna's on Athas. So in theory - nobody will be.
 
-Then Biby says, "What about Tasha?"
+Then Bigby says, "What about Tasha?"
 
 Yikes. Good point. "We don't know if she was told... Well, I can try Sending..." says Oswen and tries it; "If Alustriel told you of a safe space, do not come. Vampire attack. We are stuck inside. Alustriel injured but will be OK". ARC 21. The spell works; "What?! Is Alustriel injured? She mentioned nothing. Vampires?! Where? I can help! Oh wait. You said not to come. Do I wait?" Oswen has to burn another L3! ARC 19. "Sorry to worry you. We needed to make sure you were safe. Stay where you are. I will be in touch." "OK... Surprising... I would have thought Alustriel more than able to handle herself against a vampire. Speedy recovery! 
 
@@ -605,7 +601,7 @@ Everyone else is confident in teleport abilities.
 
 Alustriel will find Vajra, to get a lead on Arkhan. Otto wants to talk to Tasha to see if there are any ways to help Zorhanna. And MK is basically on the run with his chest! Bigby says he will *try to rally the dragons* (!) - "Surely they must have an interest in what's going on." And he thinks he'll start *here* in the Outlands. "I will find out the best way to get in touch with Bahamut. If Tiamat is on the move, we're going to need him to keep her in check. We can't have *another* crazed god on our hands! One is enough."
 
-Oswen's not *too* confident about amulet-shifting directly to Gloom. All she really knows is the name. Alustriel then gets shifty. "If you're going to Gloom..." "Out with it!" says Oswen. "I don't have my spell book. I don't have Planeshift remembered right now... I don't suppose you could let me copy the Planeshift spell from your book?" "But I don't *have* the Planeshift spell! It's the amulet." "What about a temporary trade?" "What about a temporary trade? If you lent me the amulet so I can get around. I have my staff... If it doesn't work to get in and out of the Shadowfell it might be of limited use to you anyway and" - and she keeps talking, but eventually Oswen holds up a hand and says, "I get it. I don't like it. But I get it."
+Oswen's not *too* confident about amulet-shifting directly to Gloom. All she really knows is the name. Alustriel then gets shifty. "If you're going to Gloom..." "Out with it!" says Oswen. "I don't have my spell book. I don't have Planeshift remembered right now... I don't suppose you could let me copy the Planeshift spell from your book?" "But I don't *have* the Planeshift spell! It's the amulet." "What about a temporary trade? f you lent me the amulet so I can get around. I have my staff... If it doesn't work to get in and out of the Shadowfell it might be of limited use to you anyway and" - and she keeps talking, but eventually Oswen holds up a hand and says, "I get it. I don't like it. But I get it."
 
 Oswen takes off the amulet. "We've perhaps never seen entirely eye to eye, you and I. But we know our respective hearts are in the right place. This amulet is... Addictive, in its way. And it carries danger - a chance of failure. If you have anyone to inspire you" - she looks to Bel - "then I recommend always using that inspiration beforehand."
 

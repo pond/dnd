@@ -8,7 +8,7 @@ We learn during checkout, chatting with the inn owner, that Manivarsha is not th
 
 Turns out a jewel will be departing there within the next hour... Moonstone. Blank looks! We're shown a box of display gems, used to identify transports. I mean, what's wrong with a number painted on or something?! But anyway, in due course at the right time - we head down to the dock area. Oswen hides Orvil away. Crowds and a new land; don't know how they'll react.
 
-Surprisingly, lots of other people are turning up. Many remind us of "The" Manivarshan. Others though look very different, but all the people we see seem to be painted - decorative, elaborate designs on arms and/or faces. A jewel descends and we start to board. We're asked "Are you going to Sagrapoor as well?" and we say, "Oh, no, we thought this was going to Shankarbhumi" "Ah well Sagrapoor is one of the major cities!" - ah good! - and we ask about the painting designs. Today is the Final - the 12th day of the Shankar Trials, which only happen every 12th year. The longest running games known, they assert. This is the 1462nd Shakar Trial. Nearly 18,000 years, then!
+Surprisingly, lots of other people are turning up. Many remind us of "The" Manivarshan. Others though look very different, but all the people we see seem to be painted - decorative, elaborate designs on arms and/or faces. A jewel descends and we start to board. We're asked "Are you going to Sagrapoor as well?" and we say, "Oh, no, we thought this was going to Shankarbhumi" "Ah well Sagrapoor is one of the major cities!" - ah good! - and we ask about the painting designs. Today is the Final - the 12th day of the Shankar Trials, which only happen every 12th year. The longest running games known, they assert. This is the 1462nd Shankha Trial. Nearly 18,000 years, then!
 
 There are 36 participants on the first day, that come from all around Shankarbhumi. The trials change every day and at the end of the day, those who don't complete their trial bow out. This year, in the Final there are 15 people left. The way in which people talk about that makes it sound like this is unusually *low*, which is quite odd to Oswen who's accustomed to games in Ordulin that narrowed down via pairs of competing teams - so a Final would by definition only have two teams competing. The culmination of the whole thing is some kind of sacred dance, dedicated to whatever area from which the winner comes.
 
@@ -195,7 +195,7 @@ Oswen remembers to ask Plebon what he was thinking just before Dukha arrived whe
 
 In due course Oswen gets back to the group. Bel is fussing around, trying to figure out how to get a comfortable bed roll position on tree roots and dried reed bed edges! Kindle is watching; he can't really move much as he needs to stay inside the magical hut area that he's set up. In the end, a collection of pillows from the bag of holding do the trick!
 
-We set up watch.
+We set up watch:
 
 * Oswen 17 - she hears the sounds dying down from the boat people village; night birds, occasional fish splashing in the water, frogs; strangely peaceful.
 * Inafina adv (hearing) nat 20 -> 27 - towards the second half of her watch she hears different sounds; like people - well, *something* - creeping through the undergrowth; going into the water; then shaking water off; she looks around and in the darkness, she's pretty sure she can see a pair of reflective yellow eyes, quite low down to the ground; and then it's gone... She keeps listening, but it doesn't return.

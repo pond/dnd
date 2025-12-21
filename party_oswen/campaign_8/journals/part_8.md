@@ -79,7 +79,7 @@ We'd need to head to Beacon Lake.
 
 And what of the Brigganocks and Korreds? Amidor says that Korreds have hair as strong as stone (!) - they're up at **Lockbury Henge**. The Brigganocks are across a valley and a lake, in a mine, in one of the nicer areas of current day Yon; near where the Queen's Causeway used to be, with a forest and meadow around them. They're very small, tiny in fact, and very clever engineers. Apparently there's Brigganock engineering behind a lot of what's going on in Motherhorn and Korred hair, turned into ropes, is used a lot too.
 
-Trouble is, the Fey Beacon lake is to the North, beyond a causeway that ran through the mountains with a stone arch bridge; Motherhorn is far beyond; the Henge is mostly West, past the storm ridge, and the Brigganock mines are to the South. 
+Trouble is, the Fey Beacon lake is to the North, beyond a causeway that ran through the mountains with a stone arch bridge; Motherhorn is far beyond; the Henge is mostly West, past the storm ridge, and the Brigganock mines are to the South.
 
 We figure despite the annoyance of the diversion that the Lake is our priority - if we've any chance of catching up with Sowfoot.
 
@@ -100,7 +100,7 @@ Our path of approach, if we got down to the bottom quickly, would bring us some 
 * Kindle 14
 * Oswen 8
 
-We don't know if we've been seen. We get to "8pm", at the lakeside, part way in between two pillars. We move around, trying to use pillars and rocks for cover as best we can, to get to the elf; but the shortest direction that'll catch up with the elf goes past Sowfoot's pillar. Too risky. The elf is climbing up a second beacon now, of those that we've seen him at. When we get to the base, we wait and see him on the spiral descending the second pillar. Orvil checks and sees that Sowfoot's pillar is lit. Oswen decides to burn some fly time to get with 120ft and use Message to say: 
+We don't know if we've been seen. We get to "8pm", at the lakeside, part way in between two pillars. We move around, trying to use pillars and rocks for cover as best we can, to get to the elf; but the shortest direction that'll catch up with the elf goes past Sowfoot's pillar. Too risky. The elf is climbing up a second beacon now, of those that we've seen him at. When we get to the base, we wait and see him on the spiral descending the second pillar. Orvil checks and sees that Sowfoot's pillar is lit. Oswen decides to burn some fly time to get with 120ft and use Message to say:
 
 "We are friends. A foe has lit the pillar you were at previously."
 
@@ -327,7 +327,7 @@ There's a tapping noise coming from within; sounds of mining and work. Rock spir
 
 We can see that a tunnel behind that's a bit taller; so we risk going in. Oswen goes first as she was shortest. Inafina next, then Bel, Amidor and Kindle blocks the rear. He goes last as he knows we can't see past him! Gleam cannot go down - she says she really hates the dark cramped spaces (she's the sun!) so she's quite happy to rest at the entrance. We tell her we'll try not to be too long but we can't be sure!
 
-Oswen casts Mage Armour and Kindle gives us dark vision to 300ft before we enter, but once inside, we see that the tunnel is winding and there are very few lines of sight anywhere near that long. Fortunately, the roof opens up enough for Kindle to fit, but only just! The problem is more the width - only some 3ft. It's quite claustrophobic. As we enter, the tapping stopped; as we start to go deeper, it restarts. Something knows we're here, but our continued movement seems to mean it doesn't care? Confusing. The tunnel begins to spiral down. 
+Oswen casts Mage Armour and Kindle gives us dark vision to 300ft before we enter, but once inside, we see that the tunnel is winding and there are very few lines of sight anywhere near that long. Fortunately, the roof opens up enough for Kindle to fit, but only just! The problem is more the width - only some 3ft. It's quite claustrophobic. As we enter, the tapping stopped; as we start to go deeper, it restarts. Something knows we're here, but our continued movement seems to mean it doesn't care? Confusing. The tunnel begins to spiral down.
 
 The tapping sound is like 100 tiny pickaxes. That's probably exactly what it is.
 
@@ -543,7 +543,7 @@ We all just sit, a bit of a mess, chatting about it having a rest. And a while l
 
 Oh. We could've just run. But we've made the bridge safe. "I'm Udo! Who are you?"
 
-We explain everything that's happened before and ask if can have his permission to go into the tunnel. Thanks to the bridge fight, he agrees. Bel helps Inafina chat to try and find out more. Persuasion ADV not great, 15. 
+We explain everything that's happened before and ask if can have his permission to go into the tunnel. Thanks to the bridge fight, he agrees. Bel helps Inafina chat to try and find out more. Persuasion ADV not great, 15.
 
 * The tunnel feels like a last ditch attempt to try and get back the old chief engineer, but he holds little hope that it'll work.
 * Lyn has an army of strange creatures that do her bidding.
@@ -553,7 +553,7 @@ We explain everything that's happened before and ask if can have his permission 
 * They keep him in a little cage!
 * The warlock is **Skylla**. We must be careful. She is very dangerous!
 
-He offers to let us rest here. We will certainly at least have a short rest! Bel plays Song Of Rest, which 
+He offers to let us rest here. We will certainly at least have a short rest! Bel plays Song Of Rest, which
 helps us heal. When all that's done, we don't feel so bad, after all. Oswen and Kindle also get back a spell slot.
 
 Madrick was a warlock of Zybilna, recalls Oswen. The League Of Malevolance has a warlock of Baba Yaga. The abilities depend a lot on the patron, so we can't really say what this person might be able to do. It would be unwise to underestimate them either way!
@@ -562,7 +562,7 @@ Oswen notes that Kindle is quite upset by what happened. Just as he regains a sp
 
 Kindle explains (in very emotional terms). Bel explains in more measured terms. She was knocked out, but badly hurt. Inafina ran in, Kindle too, and Bel was able to move her to a safe place and do some healing. Kindle called down Moonbeam; and so it goes on.
 
-Oswen thinks and goes, "So you're all heroes, and very brave and you saved me. Thank you."
+Oswen thinks and goes, "So you're all heroes, and very brave and you saved me. Thank you!"
 
 Bel insists that Oswen stays with him - at the back! Oswen considers at least casting Mage Armour, but she's low on L1 now. We're trying to be stealthy and avoid combat but Bel and Kindle persuade her (26!) - so she casts it.
 
