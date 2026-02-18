@@ -1,6 +1,6 @@
 # RIPA: Act 2 Part 36
 ## Session 82 (2026-02-03)
-### Acererak's Tomb, Oerth
+### Campaign Day 33, Acererak's Tomb, Oerth
 
 We are in a fight!
 
@@ -53,13 +53,17 @@ We learn from Marian that the elf is Vogren and an Orc priest is Talo. Francesc 
 
 Thorin tries to 'rally the troops'. He talks about how we want to *end* this whole maze; take down Acererak. He wants their help. Urth tells the tale of the Marilith and Penny tries to help, with Francesc offering Guidance too - and the total is a remarkable **30**.
 
-They agree - but want to rest first. The Marilith is friendly and, in the end, we manage to set up camp there. Urth listens to her story for again! It's a long rest; so Thorin decides to use Heroes Feast for *everyone*, and he talks to Gundtach too.
+They agree - but want to rest first. The Marilith is friendly and, in the end, we manage to set up camp there. Urth listens to her story for again! It's a long rest - so Thorin decides to use Heroes Feast for *everyone*, and he talks to Gundtach too.
 
 Penny goes to check on Debra... She'd probably have died; nasty injuries; but Thorin had used Spare The Dying. Urth watches her while Penny chats to Marian's party.
 
 * Gundtach isn't eating anything, but when Thorin prepares the Heroes Feast, he has _enough_ to gain its benefits. Thorin PER 30 (!) (nat 20). He has small fangs! But he's not undead; he has a heartbeat, he does eat a *bit*, he has blood. And the healing magic that was cast on him didn't work a normal way; it didn't mend wounds; it sort of... Got unravelled into pure spellfire that he absorbed. An - **energy** vampire?! Thorin can't resist and quietly asks. ADV PER 19. He is a *Dhampir* (this is a secret which Thorin chooses to keep). He likes to party; Ravnica has crazy amazing clubs. But he partied with a vampire without realising. During the process of being turned he woke, fought the vampire and ended up only having *some* of the features of a vampire as a result. What's more, he can somehow manipulate "raw" spellfire, direct from the weave. Over time, he's lost his entire network and community on Ravnica - a whole district was completely wiped out by Vecna. He wants revenge, but doesn't know how. He came here solo.
 
 * Penny chats to the three who were here. She asks why the new two arrivals were there; Marian she knows, but what about them? ADV PER 20. The group was put together by Talo. They specifically had to get Marian and Laysa because they were trying to fulfil something they'd read - it's believed that the treasure of the ancients is in this temple (and indeed, we've found three such pieces!) - but she doesn't know that there's a prophecy - the ones who will defeat Acereak and claim the prizes of the Tomb are a party of four; one who is righteous and holy, one who has mastered the arts of the arcane; one of the land; and an elf who has a close relationship with the holy and righteous one. And Talo's four, they felt, fit the bill. *We might have done* but without Arturo, we don't quite match that description anymore.
+
+
+
+## Campaign Day 34
 
 From our long rest, Thorin has kept up his spellcasting on the staff. He's been calling upon other druids for help and we realise that we must have underestimated where it was at - because at his final casting, it transforms! It twists and bends into a sort of shepherd's crook, surrounded by tiny vines and small white flowers. This is the **Desert Heart**. It certainly doesn't *look* like it is of Athas! Its powers, though, are very useful and from appearance alone, it's likely to be underestimated.
 

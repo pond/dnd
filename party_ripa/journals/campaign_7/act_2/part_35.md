@@ -4,7 +4,7 @@
 
 The party is split after a mishap. Urth, Flurth and Thorin made it across a difficult bridge crossing over some kind of void, but Francesc and Penny fell through. They ended up teleported, after a fashion, to another dungeon area where we found Marian - the person who wrote the notebook we found earlier; and Penny managed to find a ring of stars, which was an important artefact we were told about by Laysa. Meanwhile, the other group happened across something that looked like a **Marilith**, but was in fact a statue of one of the old gods. Reanimated, she told Urth, Flurth and Thorin her story and handed on a sword - another one of the artefacts that Laysa told us about it.
 
-### Urth, Flurth and Thorin
+#### Urth, Flurth and Thorin
 
 The two groups are separated, with perhaps only Marian having any idea how the part of the dungeon in which she, Penny and Francesc are located, might connect to the part where Urth, Flurth and Thorin are located. They are both resting, during which time Thorin casts another spell into his staff. Old gods, powers stolen by a lich... Acererak that time; probably won't be the last time they hear that kind of story with Vecna at the centre! Urth wonders why it seems that visitors to this place have increased in frequency, especially the last year, too. Is that important?
 
@@ -33,7 +33,7 @@ Well, Thorin makes the call; they're going in to fight for the book.
 
 
 
-### Francesc and Penny
+#### Francesc and Penny
 
 The room we end up resting within has a curious-looking fountain. The water seems like it might have faint restorative healing properties. Francesc decides to try some! 6d6 -> 17; she heals for 17. Wow. Not bad. If placed a vial, though, it loses its magic. Marian gets in there, though, healing herself up a fair bit. The room has writings and a design that indicates it might have been some kind of religious sanctuary, a blessed room once up a time. Perhaps that spring - even if Penny doesn't really trust it - is legit!
 
@@ -43,7 +43,7 @@ Marian verifies that it's trapped, so we spend time reading things. Francesc can
 
 
 
-### Thorin and Urth/Flurth
+#### Thorin and Urth/Flurth
 
 He throws open the doors and shouts at the red wizard - after a strange feeling of magical transition, the strange time issue - "Throw us the book! We'll help!" - Initiative!
 
@@ -61,7 +61,7 @@ Wall Of Fire ends up cast around the golem. The Slow effect doesn't get shaken t
 
 
 
-### Francesc and Penny
+#### Francesc and Penny
 
 If we have to exchange items of value... Well we need to know the value. So we have to open one. Penny asks people to step back and pulls out the lead chest, opening it. Inside is a spell scroll. Not so interesting. She puts it back and tries silver. Francesc - PER 19 - it's not silver, it's wooden and plated in silver! Inside is a twisting, strange, dragon-motif ceremonial dagger with electrum lines and amethysts set into the pommel. **That** is one of the items. Penny puts that back and checks the gold chest, for completion; ADV PER 17; same deal, wooden chest plated in gold; 10 pieces of some kind of currency with a hole in the middle that look like they're worth 10gp each.
 
@@ -75,7 +75,7 @@ Penny is being torn apart but CON save lucky 25, she's fine so far, but where is
 
 
 
-### Everyone
+#### Everyone
 
 In the library, Thorin-crab sees an elf dragging a dwarf info the room! "What clown car bullshit *is* this?!" shouts Wilim; "I want out of this room!" - he pushes past Debra and starts casting Misty Step; Flurth decides to Counter - CON 18 save - the cast fails. Enraged he orders Debra - who is unimpressed - to "get rid of these idiots!"; a confused Debra is barely able to act - swings at the nearest easy target... And that's Francesc. 18 to hit missed; she swings again; but it's even more wild. Really it's a comedy dodgy - Francesc is stumbling and almost falling over, trying to drag the dwarf into the room! So she shoves Francesc away instead - 10ft away and prone.
 
