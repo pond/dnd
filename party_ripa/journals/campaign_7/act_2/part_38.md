@@ -195,7 +195,7 @@ Urth casts L4 Dissonant Whispers with luck point to negate its magic resistance.
 
 Now the Citadel Spider acts. It crawls up above the citadel... It can't see us properly once down on the ground and has to use its action to get into position.
 
-Thorin reverts to his normal form, tries Moonbeam; the citadel spider and one Hazvongel (A) are in range. They make saves, but take 17 radiant damage. Bonus action - turns back into a Quetz. He flies towards the closest Hazvongel.
+Thorin reverts to his normal form, tries L5 Moonbeam; the citadel spider and one Hazvongel (A) are in range. They make saves, but take 34->17 radiant damage. Bonus action - turns back into a Quetz. He flies towards the closest Hazvongel.
 
 Penny sees all four enemies are in range, one in melee. DC18 WIS saves all round, for Abjure Foes - the citadel spider and melee range Hazvongel both fail. The other two Hazvongel are not affected. She also tries to use Sacred Flame on the unaffected Hazvongel that's trying to harass the party to get its attention - 15 radiant damage is taken. Given it is frightened *unless* damaged - "Nobody attack that big spider!" she shouts!
 
