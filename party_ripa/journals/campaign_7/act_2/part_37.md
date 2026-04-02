@@ -130,7 +130,7 @@ OK, well, shall we go?!
 
 ## Campaign Day 35
 
-Fast forwad. We get out; we get to the village; we have the six artefacts and it's unanimous - we agree to hand *those* items, at least, back. And in fact they'll pay for the other items too. They have a **lot** of platinum - and we walk away with a chest full - **50,000gp worth in all**.
+Fast forward. We get out; we get to the village; we have the six artefacts and it's unanimous - we agree to hand *those* items, at least, back. And in fact they'll pay for the other items too. They have a **lot** of platinum - and we walk away with a chest full - **50,000gp worth in all**.
 
 We could rest, it's been a long day or two, and we're dirty AF - covered in mud and so-on from the swamps. But we want *safety* Penny suggests. We end up using Bigby's teleport/planeshift to return. Gundtach asks if he can return with us while the other three want to stay. He'll come to the Outlands, at least. So the five of us move. It's a rough planeshift; CON saves, Urth and Francesc take 25 force damage! 12 in Francesc's case due to resistance. Fortunately Penny and Thorin make the save and are unhurt.
 

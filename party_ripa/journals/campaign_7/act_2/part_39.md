@@ -1,6 +1,6 @@
 # RIPA: Act 2 Part 39
 ## Session 85 (2026-03-10)
-### Pandemonium, Outside Citadel Imprisoning Miska
+### Campaign Day 36, Pandemonium, Outside Citadel Imprisoning Miska
 
 The battle continues, as the enormous citadel spider continues to retreat, heading away from Penny and towards the "water" / sea / whatever-it-is.
 
@@ -311,7 +311,7 @@ At that, he gives us all a vision.
   - Vance "splitting" himself into more than one being and placing all evil in one **and all good in another**
   - A verbal argument between Kas and Vecna; "I cannot follow you where you are going"
   - A ritual where Kas splits *himself* into the same two parts, so that one part *can* follow Vance to the 'ends of the Earth'
-  - The "good" side of kas is mummified and buried in a larger-than-life sarcophagus under a fresco of Miska The Wolfspider **in a giant's tower, and shoved into another time**.
+  - The "good" side of Kas is mummified and buried in a larger-than-life sarcophagus under a fresco of Miska The Wolfspider **in a giant's tower, and shoved into another time**.
   - We recognise that sarcophagus. It was the one *emptied* at the giant's temple at the Cradle, that place where we first met Vecna.
 
 Mynos doesn't know *why* any of this important, but is sure that it *is*. We have more context, of course.
