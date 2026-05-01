@@ -86,7 +86,7 @@ We reveal the rod! Alustriel says, "We can neutralise his reality!" - and then s
 * A main assault front, with allies from all planes and times, even as far as the Far Realm, for a frontal assault on the fortress/sanctuary, the device around the Nexus of Creation in the centre of Sigil.
 * While that happens, people must infiltrate and go into Sigil, uncovering and unwrapping the layers of creative reality. Peel back the onion layers - find the memory, the happy memory - where he hid the "good" version of himself.
 
-If we intend to keep the rod, then Alustriel *strongly* recommends we join that third thing! As it happesn - we were all already thinking that. Unanimous - **we keep the rod and we venture into Sigil**. Sigil still counts as another plane, we're told; Alustriel *does have* a tuning fork for that plane, so she can lend it to us and we can use Planeshift.
+If we intend to keep the rod, then Alustriel *strongly* recommends we join that third thing! As it happens - we were all already thinking that. Unanimous - **we keep the rod and we venture into Sigil**. Sigil still counts as another plane, we're told; Alustriel *does have* a tuning fork for that plane, so she can lend it to us and we can use Planeshift.
 
 Alustriel has a Sending Stone. She patiently explains the use (TL;DR, it's a once-a-day Sending spell). She asks if there's anything else we need; we consider matters of perception and stealth - with that she gives Penny some Boots of Elvenkind.
 
